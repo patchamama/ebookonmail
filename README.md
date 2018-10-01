@@ -17,7 +17,9 @@ Sólo en GNU/Linux probado (debian/ubuntu).
 
 # Line commands
 Enviar un email a cada dirección de email que aparecen en emaillist.txt con un excel que contiene un listado de los libros existentes en la base de datos resumen.
-># python ebookonmail.py -newsletter 
+```
+# python ebookonmail.py -newsletter 
+```
 
 Actualizar y generar un listado de todos los libros en una tabla resumen
 ># python ebookonmail.py -genlist -checkebooks -gentable 
