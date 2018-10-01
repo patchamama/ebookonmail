@@ -16,20 +16,20 @@ Sólo en GNU/Linux probado (debian/ubuntu).
 - Instalar calibre, libreoffice y kindlegen para las conversiones de formato (> mobi, epub, rtf...).
 
 # Line commands
-'#Enviar un email a cada dirección de email que aparecen en emaillist.txt con un excel que contiene un listado de los libros existentes en la base de datos resumen.
-'# python ebookonmail.py -newsletter 
+Enviar un email a cada dirección de email que aparecen en emaillist.txt con un excel que contiene un listado de los libros existentes en la base de datos resumen.
+># python ebookonmail.py -newsletter 
 
-'#Actualizar y generar un listado de todos los libros en una tabla resumen
-'# python ebookonmail.py -genlist -checkebooks -gentable 
+Actualizar y generar un listado de todos los libros en una tabla resumen
+># python ebookonmail.py -genlist -checkebooks -gentable 
 
-'#Enviar novedades de libros nuevos del último mes de una determinada base de datos
-'# python ebookonmail.py -sendnew [SEL|GTB|FBS]
+Enviar novedades de libros nuevos del último mes de una determinada base de datos
+># python ebookonmail.py -sendnew [SEL|GTB|FBS]
 
-'#Envía el listado completo de todos los libros a la lista de emails contenida en emaillist.txt (un email por línea)
-'# python ebookonmail.py -sendfulllist
+nvía el listado completo de todos los libros a la lista de emails contenida en emaillist.txt (un email por línea)
+># python ebookonmail.py -sendfulllist
 
-'#Genera un archivo html con todos los libros
-'# python ebookonmail.py -gencalibrelist
+Genera un archivo html con todos los libros
+># python ebookonmail.py -gencalibrelist
 
 # Built With
 python 
