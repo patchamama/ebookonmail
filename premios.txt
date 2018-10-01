@@ -1,0 +1,3458 @@
+tags:"~Bestseller" or tags:"~Adaptado" or tags:"~^Premio" or tags:"~^Readinglist" or tags:"~^Tema" or tags:"~^Censura"
+
+>Nada
+
+>Premio Nobel
+url:http://es wikipedia org/wiki/Anexo:Ganadores_del_Premio_Nobel_de_Literatura
+	1901 Sully Prudhomme
+	1902 Theodor Mommsen
+	1903 Bjørnstjerne Bjørnson
+	1904 Frédéric Mistral
+	1904 José Echegaray
+	1905 Henryk Sienkiewicz
+	1906 Giosuè Carducci
+	1907 Rudyard Kipling
+	1908 Rudolf Christoph Eucken
+	1909 Selma Lagerlöf
+	1910 Paul von Heyse
+	1911 Maurice Maeterlinck
+	1912 Gerhart Hauptmann
+	1913 Rabindranath Tagore
+	1915 Romain Rolland
+	1916 Verner von Heidenstam
+	1917 Karl Adolph Gjellerup
+	1917 Henrik Pontoppidan
+	1919 Carl Spitteler
+	1920 Knut Hamsun
+	1921 Anatole France
+	1922 Jacinto Benavente
+	1923 William Butler Yeats
+	1924 Wladyslaw Reymont
+	1925 George Bernard Shaw
+	1926 Grazia Deledda
+	1927 Henri Bergson
+	1928 Sigrid Undset
+	1929 Thomas Mann
+	1930 Sinclair Lewis
+	1931 Erik Axel Karlfeldt
+	1932 John Galsworthy
+	1933 Ivan Bunin
+	1934 Luigi Pirandello
+	1936 Eugene O'Neill
+	1937 Roger Martin du Gard
+	1938 Pearl S Buck
+	1939 Frans Eemil Sillanpää
+	1944 Johannes Vilhelm Jensen
+	1945 Gabriela Mistral
+	1946 Hermann Hesse
+	1947 André Gide
+	1948 T S Eliot
+	1949 William Faulkner
+	1950 Bertrand Russell
+	1951 Pär Lagerkvist
+	1952 François Mauriac
+	1953 Winston Churchill
+	1954 Ernest Hemingway
+	1955 Halldór Laxness
+	1956 Juan Ramón Jiménez
+	1957 Albert Camus
+	1958 Boris Pasternak
+	1959 Salvatore Quasimodo
+	1960 Saint-John Perse
+	1961 Ivo Andric
+	1962 John Steinbeck
+	1963 Giorgos Seferis
+	1964 Jean-Paul Sartre
+	1965 Mijaíl Shólojov
+	1966 Shmuel Yosef Agnon
+	1966 Nelly Sachs
+	1967 Miguel Ángel Asturias
+	1968 Kawabata Yasunari
+	1969 Samuel Beckett
+	1970 Aleksandr Solzhenitsyn
+	1971 Pablo Neruda
+	1972 Heinrich Böll
+	1973 Patrick White
+	1974 Eyvind Johnson
+	1974 Harry Martinson
+	1975 Eugenio Montale
+	1976 Saul Bellow
+	1977 Vicente Aleixandre
+	1978 Isaac Bashevis Singer
+	1979 Odysseas Elytis
+	1980 Czeslaw Milosz
+	1981 Elias Canetti
+	1982 Gabriel García Márquez
+		 García Márquez, Gabriel
+	1983 William Golding
+	1984 Jaroslav Seifert
+	1985 Claude Simon
+	1986 Wole Soyinka
+	1987 Joseph Brodsky
+	1988 Naguib Mahfouz
+	1989 Camilo José Cela
+	1990 Octavio Paz
+	1991 Nadine Gordimer
+	1992 Derek Walcott
+	1993 Toni Morrison
+	1994 Oe Kenzaburo
+	1995 Seamus Heaney
+	1996 Wislawa Szymborska
+	1997 Dario Fo
+	1997 Fo, Darío
+	1998 José Saramago
+	1999 Günter Grass
+	2000 Gao Xingjian
+	2001 V S Naipaul
+	2002 Imre Kertész
+	2003 J M Coetzee
+	2003 John Maxwell Coetzee
+	2004 Elfriede Jelinek
+	2005 Harold Pinter
+	2006 Orhan Pamuk
+	2007 Doris Lessing
+	2008 Jean-Marie Gustave 
+	2008 Le Clézio
+	2009 Herta Müller	
+	2010 Mario Vargas Llosa
+	2011 Tomas Tranströmer
+	2012 Mo Yan
+	2013 Alice Munro
+	2014 Patrick Modiano
+
+>Premio Cervantes
+url:http://es wikipedia org/wiki/Premio_Miguel_de_Cervantes
+	1976 Jorge Guillén (1893-1984)
+	1977 Alejo Carpentier (1904-1980)
+	1978 Dámaso Alonso (1898-1990)
+	1979 Jorge Luis Borges (1899-1986)
+	1979 Gerardo Diego (1896-1987)
+	1980 Juan Carlos Onetti (1909-1994)
+	1981 Octavio Paz (1914-1998)
+	1982 Luis Rosales (1910-1992)
+	1983 Rafael Alberti (1902-1999)
+	1984 Ernesto Sabato (1911-2011)
+	1985 Gonzalo Torrente Ballester (1910-1999)
+	1986 Antonio Buero Vallejo (1916-2000)
+	1987 Carlos Fuentes (1928-2012)
+	1988 María Zambrano (1904-1991)
+	1989 Augusto Roa Bastos (1917-2005)
+	1990 Adolfo Bioy Casares (1914-1999)
+	1991 Francisco Ayala (1906-2009)
+	1992 Dulce María Loynaz (1902-1997)
+	1993 Miguel Delibes (1920-2010)
+	1994 Mario Vargas Llosa (1936-)
+	1995 Camilo José Cela (1916-2002)
+	1996 José García Nieto (1914-2001)
+	1997 Guillermo Cabrera Infante (1929-2005)
+	1998 José Hierro (1922-2002)
+	1999 Jorge Edwards (1931-)
+	2000 Francisco Umbral (1932-2007)
+	2001 Álvaro Mutis (1923-)
+	2002 José Jiménez Lozano (1930-)
+	2003 Gonzalo Rojas (1917-2011)
+	2004 Rafael Sánchez Ferlosio (1927-)
+	2005 Sergio Pitol (1933-)
+	2006 Antonio Gamoneda (1931-)
+	2007 Juan Gelman (1930-)
+	2008 Juan Marsé (1933-)
+	2009 José Emilio Pacheco (1939-)
+	2010 Ana María Matute (1925-)
+	2011 Nicanor Parra (1914-)
+	2012 José Manuel Caballero Bonald (1926-)
+	2013 Elena Poniatowska (1932-)	Mexico
+	2014 Juan Goytisolo (1931-) España
+
+#Premio Planeta Novela	
+url:http://en.wikipedia.org/wiki/Premio_Planeta_de_Novela
+	2014 – Milena o el fémur más bello del mundo (Jorge Zepeda Patterson)[2]
+	Mi color favorito es verte (Pilar Eyre)[2]
+	2013 – El cielo ha vuelto (Clara Sánchez)[3]
+	El buen hijo (Ángeles González-Sinde)[3]
+	2012 - La marca del meridiano (Lorenzo Silva)[4][5]
+	La vida imaginaria (Mara Torres)
+	2011 - El imperio eres tú (Javier Moro)[6]
+	Tiempo de arena (Inma Chacón)
+	2010 - Riña de gatos. Madrid, 1936, (Eduardo Mendoza) [7][8]
+	El tiempo mientras tanto, (Carmen Amoraga)
+	2009 - Contra el viento (Ángeles Caso)
+	La bailarina y el inglés (Emilio Calderón)
+	2008 - La hermandad de la buena suerte (Fernando Savater)
+	Muerte entre poetas (Ángela Vallvey)
+	2007 - El Mundo (Juan José Millás)
+	Villa Diamante (Boris Izaguirre)
+	2006 - La Fortuna de Matilda Turpin (Álvaro Pombo)
+	En tiempo de prodigios (Marta Rivera de la Cruz)
+	2005 - Pasiones Romanas (Maria de la Pau Janer)
+	Y de repente un ángel (Jaime Bayly)
+	2004 - Un milagro en equilibrio (Lucía Etxebarria)
+	La vida en el abismo (Ferran Torrent)
+	2003 - El baile de la Victoria (Antonio Skármeta)
+	El amante albanés (Susana Fortes)
+	2002 - El huerto de mi amada (Alfredo Bryce Echenique)
+	Las mujeres que hay en mí (Maria de la Pau Janer)
+	2001 - La canción de Dorotea (Rosa Regàs)
+	Lo que está en mi corazón (Marcela Serrano)
+	2000 - Mientras vivimos (Maruja Torres)
+	Cuaderno de viaje (Salvador Compán)
+	1999 - Melocotones helados (Espido Freire)
+	El egoísta (Nativel Preciado)
+	1998 - Pequeñas infamias (Carmen Posadas)
+	Pura vida (José María Mendiluce)
+	1997 - La tempestad (Juan Manuel de Prada)
+	Mi corazón que baila con espigas (Carmen Rigalt)
+	1996 - El desencuentro (Fernando Schwartz)
+	Te di la vida entera (Zoé Valdés)
+	1995 - La mirada del otro (Fernando G. Delgado)
+	La fuente de la vida (Lourdes Ortiz)
+	1994 - La cruz de San Andrés (Camilo José Cela)
+	El peso de las sombras (Ángeles Caso)
+	1993 - Lituma en los Andes (Mario Vargas Llosa)
+	El jardín de las dudas (Fernando Savater)
+	1992 - La prueba del laberinto (Fernando Sánchez Dragó)
+	La cruz de Santiago (Eduardo Chamorro)
+	1991 - El jinete polaco (Antonio Muñoz Molina)
+	Los espejos paralelos (Néstor Luján)
+	1990 - El manuscrito carmesí (Antonio Gala)
+	El camino del corazón (Fernando Sánchez Dragó)
+	1989 - Queda la noche (Soledad Puértolas)
+	Las hogueras del rey (Pedro Casals)
+	1988 - Filomeno, a mi pesar (Gonzalo Torrente Ballester)
+	El triángulo. Alumna de la libertad (Ricardo de la Cierva)
+	1987 - En busca del Unicornio (Juan Eslava Galán)
+	El mal amor (Fernando Fernán Gómez)
+	1986 - No digas que fue un sueño (Terenci Moix)
+	La jeringuilla (Pedro Casals)
+	1985 - Yo, el rey (Juan Antonio Vallejo-Nágera)
+	Pío XII, la escolta mora y un general sin un ojo (Francisco Umbral)
+	1984 - Crónica sentimental en rojo (Francisco González Ledesma)
+	La guerra del Wolfram (Raúl Guerra Garrido)
+	1983 - La guerra del general Escobar (José Luis Olaizola)
+	La canción del pirata (Fernando Quiñones)
+	1982 - Jaque a la Dama (Jesús Fernández Santos)
+	La conspiración del Golfo (Fernando Schwartz)
+	1981 - Y Dios en la última playa (Cristóbal Zaragoza)
+	Llegará tarde a Hendaya (José María del Val)
+	1980 - Volavérunt (Antonio Larreta)
+	El aire de un crimen (Juan Benet)
+	1979 - Los mares del Sur (Manuel Vázquez Montalbán)
+	Las mil noches de Hortensia Romero (Fernando Quiñones)
+	1978 - La muchacha de las bragas de oro (Juan Marsé)
+	Los invitados (Alfonso Grosso)
+	1977 - Autobiografía de Federico Sánchez (Jorge Semprún)
+	Divorcio para una virgen rota (Ángel Palomino)
+	1976 - En el día de hoy (Jesús Torbado)
+	La buena muerte (Alfonso Grosso)
+	1975 - La gangrena (Mercedes Salisachs)
+	El pájaro africano (Víctor Alba)
+	1974 - Icaria, Icaria... (Xavier Benguerel)
+	Gran café (Pedro de Lorenzo)
+	1973 - Azaña (Carlos Rojas)
+	Adagio confidencial (Mercedes Salisachs)
+	1972 - La cárcel (Jesús Zárate)
+	El sitio de nadie (Hilda Perera)
+	1971 - Condenados a vivir (José María Gironella)
+	Seno Ramiro Pinilla
+	1970 - La cruz invertida (Marcos Aguinis)
+	Retrato de una bruja (Luis de Castresana)
+	1969 - En la vida de Ignacio Morel (Ramón J. Sender)
+	Redoble por rancas (Manuel Scorza)
+	1968 - Con la noche a cuestas (Manuel Ferrand)
+	No hay aceras (Pedro Entenza)
+	1967 - Las últimas banderas (Ángel María de Lera)
+	Tiempo de morir (Eugenio Juan Zappietro)
+	1966 - A tientas y a ciegas (Marta Portal)
+	Stress (Santiago Moncada)
+	1965 - Equipaje de amor para la tierra (Rodrigo Rubio)
+	Spanish Show (Julio Manegat)
+	1964 - Las hogueras (Concha Alós)
+	El adúltero y el dios (Vizarco)
+	1963 - El cacique (Luis Romero)
+	El santo y el demonio (Víctor Chamorro)
+	1962 - Se enciende y apaga una luz (Ángel Vázquez)
+	El pozo de los monos (Juan Antonio Usera)
+	1961 - La mujer de otro (Torcuato Luca de Tena)
+	La oración del diablo (Andrés Avelino Artís)
+	1960 - El atentado (Tomás Salvador)
+	El borrador (Manuel San Martín)
+	1959 - La noche (Andrés Bosch)
+	El grito de la paloma (José María Castillo)
+	1958 - Pasos sin huellas (Fernando Bermúdez de Castro)
+	La ciudad amarilla (Julio Manegat)
+	1957 - La paz empieza nunca (Emilio Romero (escritor español))
+	Siete puertas (Elisa Brufal)
+	1956 - El desconocido (Carmen Kurtz)
+	A fuego lento (Raúl Grien)
+	1955 - Tres pisadas de hombre (Antonio Prieto)
+	Carretera intermedia (Mercedes Salisachs)
+	1954 - Pequeño teatro (Ana María Matute)
+	El fulgor y la sangre (Ignacio Aldecoa)
+	1953 - Una casa con goteras (Santiago Lorén)
+	Otros son los caminos (Antonio Ortiz Muñoz)
+	1952 - En la noche no hay caminos (Juan José Mira)
+	Tierra de promisión (Severino Fernández)
+
+#Premio Planeta
+url:http://es wikipedia org/wiki/Premio_Planeta
+	1952 - Juan José Mira (España), por En la noche no hay caminos 
+	1953 - Santiago Lorén (España), por Una casa con goteras 
+	1954 - Ana María Matute (España), por Pequeño teatro 
+	1955 - Antonio Prieto (España), por Tres pisadas de hombre 
+	1956 - Carmen Kurtz (España), por El desconocido 
+	1957 - Emilio Romero (España), por La paz empieza nunca 
+	1958 - Fernando Bermúdez de Castro (España), por Pasos sin huellas 
+	1959 - Andrés Bosch (España), por La noche 
+	1960 - Tomás Salvador (España), por El atentado 
+	1961 - Torcuato Luca de Tena (España), por La mujer de otro 
+	1962 - Ángel Vázquez (España), por Se enciende y se apaga una luz 
+	1963 - Luis Romero (España), por El cacique 
+	1964 - Concha Alós (España), por Las hogueras 
+	1965 - Rodrigo Rubio (España), por Equipaje de amor para la tierra 
+	1966 - Marta Portal (España), por A tientas y a ciegas 
+	1967 - Ángel María de Lera (España), por Las últimas banderas 
+	1968 - Manuel Ferrand (España), por Con la noche a cuestas 
+	1969 - Ramón J Sender (España), por En la vida de Ignacio Morel 
+	1970 - Marcos Aguinis (Argentina), por La cruz invertida 
+	1971 - José María Gironella (España), por Condenados a vivir 
+	1972 - Jesús Zárate (Colombia), por La cárcel / Único galardonado de forma póstuma, el autor había fallecido 5 años antes 
+	1973 - Carlos Rojas (España), por Azaña 
+	1974 - Xavier Benguerel (España), por Icaria, Icaria 
+	1975 - Mercedes Salisachs (España), por La gangrena 
+	1976 - Jesús Torbado (España), por En el día de hoy 
+	1977 - Jorge Semprún (España), por Autobiografía de Federico Sánchez 
+	Jorge Semprún Autobiografia de Federico Sánchez
+	1978 - Juan Marsé (España), por La muchacha de las bragas de oro 
+	1979 - Manuel Vázquez Montalbán (España), por Los mares del Sur 
+	1980 - Antonio Larreta (Uruguay), por Volavérunt 
+	1981 - Cristóbal Zaragoza (España), por Y Dios en la última playa 
+	1982 - Jesús Fernández Santos (España), por Jaque a la Dama 
+	1983 - José Luis Olaizola (España), por La guerra del general Escobar 
+	1984 - Francisco González Ledesma (España), por Crónica sentimental en rojo 
+	1985 - Juan Antonio Vallejo-Nágera (España), por Yo, el rey 
+	1986 - Terenci Moix (España), por No digas que fue un sueño 
+	1987 - Juan Eslava Galán (España), por En busca del unicornio 
+	1988 - Gonzalo Torrente Ballester (España), por Filomeno, a mi pesar 
+	1989 - Soledad Puértolas (España), por Queda la noche 
+	1990 - Antonio Gala (España), por El manuscrito carmesí 
+	1991 - Antonio Muñoz Molina (España), por El jinete polaco / La obra obtuvo el Premio Nacional de Narrativa 
+	1992 - Fernando Sánchez Dragó (España), por La prueba del laberinto 
+	1993 - Mario Vargas Llosa (Perú), por Lituma en los Andes 
+	1994 - Camilo José Cela (España), por La cruz de San Andrés 
+	1995 - Fernando G Delgado (España), por La mirada del otro 
+	1996 - Fernando Schwartz (España), por El desencuentro 
+	1997 - Juan Manuel de Prada (España), por La tempestad 
+	1998 - Carmen Posadas (España), por Pequeñas infamias 
+	1999 - Espido Freire (España), por Melocotones helados 
+	2000 - Maruja Torres (España), por Mientras vivimos 
+	2001 - Rosa Regàs (España), por La canción de Dorotea 
+	2002 - Alfredo Bryce Echenique (Perú), por El huerto de mi amada 
+	2003 - Antonio Skármeta (Chile), por El baile de la Victoria 
+	2004 - Lucía Etxebarria (España), por Un milagro en equilibrio 
+	2005 - Maria de la Pau Janer (España), por Pasiones romanas 
+	2006 - Álvaro Pombo (España), por La fortuna de Matilda Turpin 
+	2007 - Juan José Millás (España), por El mundo / La obra obtuvo el Premio Nacional de Narrativa 
+	2008 - Fernando Savater (España), por La Hermandad de la Buena Suerte 
+	2009 - Ángeles Caso (España), por Contra el viento
+	2010 - Eduardo Mendoza (España), por Riña de gatos Madrid 
+	2011 - Javier Moro (España), por El imperio eres tú
+	2012 - Lorenzo Silva (España), por La marca del meridiano
+	2013 - Clara Sánchez (España) El cielo ha vuelto
+	2014 - Jorge Zepeda Patterson (México) Milena o el fémur más bello del mundo
+	
+
+#Finalista Premio Planeta
+url:http://es wikipedia org/wiki/Premio_Planeta
+	1952 - Severiano Fernández Nicolás (España), por Tierra de promisión 
+	1953 - Antonio Ortiz Muñoz (España), por Otros son los caminos 
+	1954 - Ignacio Aldecoa (España), por El fulgor y la sangre 
+	1955 - Mercedes Salisachs (España), por Carretera intermedia 
+	1956 - Raúl Grien (España), por A fuego lento 
+	1957 - Elisa Brufal (España), por Siete puertas 
+	1958 - Julio Manegat (España), por La ciudad amarilla 
+	1959 - José María Castillo (España), por El grito de la paloma 
+	1960 - Manuel San Martín (España), por El borrador 
+	1961 - Sempronio (pseudónimo de Andrés Avelino Artís) (España), por La oración del diablo 
+	1962 - Juan Antonio Usero (España), por El pozo de los monos 
+	1963 - Víctor Chamorro (España), por El santo y el demonio 
+	1964 - Vizarco (pseudónimo de Víctor Chamorro) (España), por El adúltero y Dios 
+	1965 - Julio Manegat (España), por Spanish Show 
+	1966 - Santiago Moncada (España), por El stress 
+	1967 - Eugenio Juan Zappietro (Argentina), por Tiempo de morir 
+	1968 - Pedro Entenza (Cuba), por No hay aceras 
+	1969 - Manuel Scorza (Perú), por Redoble por Rancas 
+	1970 - Luis de Castresana (España), por Retrato de una bruja 
+	1971 - Ramiro Pinilla (España), por Seno 
+	1972 - Hilda Perera (Cuba), por El sitio de nadie 
+	1973 - Mercedes Salisachs (España), por Adagio confidencial 
+	1974 - Pedro de Lorenzo (España), por Gran café 
+	1975 - Víctor Alba (España), por El pájaro africano 
+	1976 - Alfonso Grosso (España), por La buena muerte 
+	1977 - Ángel Palomino (España), por Divorcio para una virgen rota
+	1977 - Manuel Barrios (España), por Vida, pasión y muerte en Río Quemado, (premio ex aequo, pero la segunda obra la publicó Argos Vergara) 
+	1978 - Alfonso Grosso (España), por Los invitados 
+	1979 - Fernando Quiñones (España), por Las mil noches de Hortensia Romero 
+	1980 - Juan Benet (España), por El aire de un crimen 
+	1981 - José María del Val (España), por Llegará tarde a Hendaya 
+	1982 - Fernando Schwartz (España), por La conspiración del Golfo 
+	1983 - Fernando Quiñones (España), por La canción del pirata 
+	1984 - Raúl Guerra Garrido (España), por El año del wolfram 
+	1985 - Francisco Umbral (España), por Pío XII, la escolta mora y un general sin un ojo 
+	1986 - Pedro Casals (España), por La jeringuilla 
+	1987 - Fernando Fernán Gómez (España), por El mal amor 
+	1988 - Ricardo de la Cierva (España), por El triángulo Alumna de la libertad 
+	1989 - Pedro Casals (España), por Las hogueras del rey 
+	1990 - Fernando Sánchez Dragó (España), por El camino del corazón 
+	1991 - Néstor Luján (España), por Los espejos paralelos 
+	1992 - Eduardo Chamorro (España), por La cruz de Santiago 
+	1993 - Fernando Savater (España), por El jardín de las dudas 
+	1994 - Ángeles Caso (España), por El peso de las sombras 
+	1995 - Lourdes Ortiz (España), por La fuente de la vida 
+	1996 - Zoé Valdés (Cuba), por Te di la vida entera 
+	1997 - Carmen Rigalt (España), por Mi corazón que baila con espigas 
+	1998 - José María Mendiluce (España), por Pura vida 
+	1999 - Nativel Preciado (España), por El egoísta 
+	2000 - Salvador Compán (España), por Cuaderno de viaje 
+	2001 - Marcela Serrano (Chile), por Lo que está en mi corazón 
+	2002 - Maria de la Pau Janer (España), por Las mujeres que hay en mí 
+	2003 - Susana Fortes (España), por El amante albanés 
+	2004 - Ferran Torrent (España), por La vida en el abismo 
+	2005 - Jaime Bayly (Perú), por Y de repente, un ángel 
+	2006 - Marta Rivera de la Cruz (España), por En tiempo de prodigios 
+	2007 - Boris Izaguirre (Venezuela), por Villa Diamante 
+	2008 - Ángela Vallvey (España), por Muerte entre poetas 
+	2009 - Emilio Calderón (España), por La bailarina y el inglés
+	2010 - Carmen Amoraga (España), por El tiempo mientras tanto 
+	2011 - Inma Chacón (España), por Tiempo de arena
+	2012 - Mara Torres (España), por La vida imaginaria
+	2013 - Ángeles González-Sinde (España)	El buen hijo
+	2014 - Pilar Eyre (España)	Mi color favorito es verte
+
+
+#Premio Biblioteca Breve
+url:http://es wikipedia org/wiki/Premio_Biblioteca_Breve
+	1958 - Luis Goytisolo (España), Las afueras
+	1959 - Juan García Hortelano (España), Nuevas amistades
+	1961 - José Manuel Caballero Bonald (España), Dos días de setiembre
+	1962 - Mario Vargas Llosa (Perú), La ciudad y los perros
+	1963 - Vicente Leñero (México), Los albañiles
+	1964 - Guillermo Cabrera Infante (Cuba), Vista de amanecer en el trópico (en el exilio reformará la novela dando origen a Tres tristes tigres, más tarde ocupará el mismo título para un libro de viñetas)
+	1965 - Juan Marsé (España), Últimas tardes con Teresa
+	Finalista: Manuel Puig (Argentina), La traición de Rita Hayworth (no fue publicada en España y se editó en Argentina por la editorial Jorge Álvarez)
+	1967 - Carlos Fuentes (México), Cambio de piel (no fue publicada en España y se editó en México por la editorial Joaquín Mortiz)
+	Finalista: José María Guelbenzu (España), El mercurio
+	1968 - Adriano González León (Venezuela), País portátil
+	1969 - Juan Benet (España), Una meditación
+	1970 - Por problemas internos de la editorial no se falla el premio en esta edición Habría ganado José Donoso (Chile), por El obsceno pájaro de la noche[cita requerida]
+	1971 - Nivaria Tejera (Cuba), Sonámbulo del sol
+	1972 - José Leyva (España), La circuncisión del señor solo
+	1999 - Jorge Volpi (México), En busca de Klingsor
+	2000 - Gonzalo Garcés (Argentina), Los impacientes
+	2001 - Juana Salabert (España), Velódromo de invierno
+	2002 - Mario Mendoza (Colombia), Satanás
+	2003 - Juan Bonilla (España), Los príncipes nubios
+	2004 - Mauricio Electorat (Chile), La burla del tiempo
+	2005 - Elvira Lindo (España), Una palabra tuya
+	2006 - Luisa Castro (España), La segunda mujer
+	2007 - Juan Manuel de Prada (España), El séptimo velo
+	2008 - Gioconda Belli (Nicaragua), El infinito en la palma de la mano
+	2009 - Clara Usón (España), Corazón de napalm
+	2010 - Guillermo Saccomanno (Argentina), El oficinista
+	2011 - Elena Poniatowska (México), Leonora
+	2012 - Javier Calvo (España), El jardín colgante
+	2013 - Rosa Regàs (España), Música de cámara 
+	2014 - Fernando Aramburu (España), Ávidas pretensiones
+	
+#Premio Azorín 
+url: http://es wikipedia org/wiki/Premio_Azor%C3%ADn	
+	1994 	La novela de Pepe Ansúrez -	Gonzalo Torrente Ballester
+	1995 	El burdel de Lord Byron -	Luis Antonio de Villena
+	1996 	La cárcel del amor -	Luis Racionero
+	1997 	El último banquete -	Jesús Ferrero
+	1998 	El hombre, la hembra y el hambre -	Daína Chaviano
+	1999 	Bajarás al reino de la tierra -	José Luis Ferris
+	2000 	Cielos de barro -	Dulce Chacón
+	2001 	El secreto de la lejía -	Luisa Castro
+	2002 	La muerte blanca -	Eugenia Rico
+	2003 	Dios se ha ido -	Javier García Sánchez
+	2004 	El secreto de Orcelis -	Manuel Mira
+	2005 	El penúltimo sueño -	Ángela Becerra
+	2006 	La crin de Damocles -	Javier Pérez
+	2007 	La caza salvaje -	Jon Juaristi
+	2008 	Pólvora negra -	Montero Glez
+	2009 	El arte de perder -	Lola Beccaria
+	2010 	El amor del rey -	Begoña Aranguren Gárate
+	2011 	Indian express -	Pepa Roma
+	2012 	Capricho -	Almudena de Arteaga
+	2013 	La mujer que llora - Zoe Valdés
+	2014	Hotel Paradiso	Ramón Pernas
+
+>Premio Nac Lit Cuba
+url: http://es wikipedia org/wiki/Premio_Nacional_de_Literatura_de_Cuba
+	1983- Nicolás Guillén 
+	1984- José Zacarías Tallet 
+	1985- Félix Pita Rodríguez 
+	1986- Eliseo Diego
+	1986- José Soler Puig
+	1986- José Antonio Portuondo
+	1987- Dulce María Loynaz 
+	1988- Cintio Vitier 
+	1988- Dora Alonso
+	1989- Roberto Fernández Retamar 
+	1990- Fina García-Marruz 
+	1991- Angel Augier 
+	1992- Abelardo Estorino 
+	1993- Francisco de Aráa 
+	1994- Miguel Barnet 
+	1995- Jesús Orta Ruiz 
+	1996- Pablo Armando Fernández 
+	1997- Carilda Oliver 
+	1998- Roberto Friol 
+	1999- César López 
+	2000- Antón Arrufat 
+	2001- Nancy Morejón 
+	2002- Lisandro Otero 
+	2003- Reynaldo González Zamora 
+	2004- Jaime Sarusky 
+	2005- Graziella Pogolotti 
+	2006- Leonardo Acosta 
+	2007- Humberto Arenal 
+	2008- Luis Marré 
+	2009- Ambrosio Fornet 
+	2010- Daniel Chavarría 
+	2011- Nersys Felipe 
+	2012- Leonardo Padura Fuentes
+		 Leonardo Padura
+	2013- Reina María Rodríguez
+
+#Premio Nac Lit Narr España
+url:http://es wikipedia org/wiki/Premio_Nacional_de_Narrativa_%28Espa%C3%B1a%29
+	1924 – Huberto Pérez de la Ossa (1897-1983), por La Santa Duquesa
+	1926 – Wenceslao Fernández Flórez (1885-1964), por Las siete columnas 
+	1927 – Concha Espina (1869-1955), por Altar mayor
+	1931 – Mauricio Bacarisse (1895-1931), por Los terribles amores de Agliberto y Celedonia
+	1932 – Alejandro Casona (1903-1965), por Flor de leyendas 
+	1935 – Ramón J Sender (1901-1982), por Míster Witt en el cantón 
+	1936 – Ricardo Baroja (1917-1988), por La nao Capitana 
+	1943 – Rafael García Serrano (1917-1988), por La fiel Infantería 
+	1947 – Vicente Escrivá (1913-1999), por Jornadas de Miguel de Cervantes
+	1948 – Juan Antonio Zunzunegui (1º) (1900-1982), por La úlcera 
+	1950 – Concha Espina (1869-1955), por Un valle en el mar 
+	1951 – Ramón Ledesma Miranda (1901-1963), por La casa de la Fama 
+	1952 – José Antonio Giménez-Arnau (1912-1985), por De pantalón largo 
+	1953 – José María Gironella (1917-2003), por Los cipreses creen en Dios 
+	1954 – Tomás Salvador (1921-1984), por Cuerda de presos 
+	1955 – Miguel Delibes (1º) (1920-2010), por Diario de un cazador 
+	1956 – Carmen Laforet (1921-2004), por La mujer nueva 
+	1957 – Alejandro Núñez Alonso (1905-1982), El lazo de púrpura 
+	1958 – José Luis Castillo-Puche (1º) (1919-2004), por Hicieron partes 
+	1959 – Ana María Matute (1926), por Los hijos muertos La obra también obtuvo el Premio de la Crítica 
+	1960 – Daniel Sueiro (1931-1986), por Los conspiradores (libro de relatos) 
+	1961 – Manuel Halcón (1900-1989), por Monólogo de una mujer fría 
+	1962 – Juan Antonio Zunzunegui (2º) (1900-1982), por El premio 
+	1963 – Salvador García de Pruneda (1912-1996), por La encrucijada de Carabanchel 
+	1965 – Ignacio Agustí (1913-1974), por 19 de julio La obra también obtuvo el Premio de la Crítica 
+	1966 – Tomás Borrás (1891-1976), por Historias de coral y de jade 
+	1967 – Luis de Castresana (1925-1986), por El otro árbol de Guernica 
+	1968 – Carlos Rojas (1928), por Auto de fe 
+	1969 – Luis Berenguer (1923-1979), por Marea escorada 
+	1970 – Ramón Solís Llorente (1923-1978), por La eliminatoria 
+	1971 – Ángel Palomino (1919-2004), por Torremolinos Gran Hotel 
+	1973 – José Luis Martín Abril (1918-1994), por El viento se acuesta al atardecer (libro de relatos) 
+	1974 – Aquilino Duque (1931), por El mono azul 
+	1977 – José Luis Acquaroni (1919-1983), por Copa de sombra 
+	1978 – Carmen Martín Gaite (1925-2000), por El cuarto de atrás 
+	1979 – Jesús Fernández Santos (1926-1988), por Extramuros 
+	1980 – Alonso Zamora Vicente (1916-2006), por Mesa, sobremesa 
+	1981 – Gonzalo Torrente Ballester (1910-1999), por La isla de los jacintos cortados 
+	1982 – José Luis Castillo-Puche (2º) (1919-2004), por Conocerás el poso de la nada 
+	1983 – Francisco Ayala (1906-2009), por Recuerdos y olvidos, 2 El exilio 
+	1984 – Camilo José Cela (1916-2002), por Mazurca para dos muertos 
+	1986 – Alfredo Conde (1945), por Xa vai o griffón no vento (El Griffón) (escrito en gallego) 
+	1987 – Luis Mateo Díez (1º) (1942), por La fuente de la edad La obra también obtuvo el Premio de la Crítica 
+	1988 – Antonio Muñoz Molina (1º) (1956), por El invierno en Lisboa La obra también obtuvo el Premio de la Crítica 
+	1989 – Bernardo Atxaga (1951), por Obabakoak (escrito en euskera) 
+	1990 – Luis Landero (1948), por Juegos de la edad tardía La obra también obtuvo el Premio de la Crítica 
+	1991 – Manuel Vázquez Montalbán (1939–2003), por Galíndez 
+	1992 – Antonio Muñoz Molina (2º) (1956), por El jinete polaco 
+	1993 – Luis Goytisolo (1935), por Estatua con palomas 
+	1994 – Gustavo Martín Garzo (1948), por El lenguaje de las fuentes 
+	1995 – Carme Riera (1948), por Dins el darrer blau (En el último azul) (escrito en catalán) 
+	1996 – Manuel Rivas (1957), por ¿Que me queres, amor? (¿Qué me quieres, amor?) (escrito en gallego) 
+	1997 – Álvaro Pombo (1939), por Donde las mujeres 
+	1998 – Alfredo Bryce Echenique (Perú, 1939), por Reo de nocturnidad 
+	1999 – Miguel Delibes (2º) (1920-2010), por El hereje 
+	2000 – Luis Mateo Díez (2º) (1942), por La ruina del cielo La obra también obtuvo el Premio de la Crítica 
+	2001 – Juan Marsé (1933), por Rabos de lagartija La obra también obtuvo el Premio de la Crítica 
+	2002 – Unai Elorriaga (1973), por SPrako tranbia (Un tranvía en SP) (escrito en euskera) 
+	2003 – Suso de Toro (1956), por Trece badaladas (Trece campanadas) (escrito en gallego) 
+	2004 – Juan Manuel de Prada (1970), por La vida invisible 
+	2005 – Alberto Méndez (1941-2004), por Los girasoles ciegos La obra también obtuvo el Premio de la Crítica 
+	2006 – Ramiro Pinilla (1923), por Verdes valles, colinas rojas, parte III Las cenizas del hierro La obra también obtuvo el Premio de la Crítica 
+	2007 – Vicente Molina Foix (1946), por El abrecartas 
+	2008 – Juan José Millás (1946), por El mundo 
+	2009 – Kirmen Uribe (1970), por Bilbao-New York-Bilbao (escrito en euskera)
+	2010 – Javier Cercas (1962), por Anatomía de un instante 
+	2011 – Marcos Giralt Torrente (1968), por Tiempo de vida 
+	2012 – Javier Marías (1951), por Los enamoramientos
+	2013 – José María Merino (1941), por El río del Edén
+	2014 – Rafael Chirbes (1949), por En la orilla (La obra también obtuvo el Premio de la Crítica)
+
+>Premio Nac Letras Españolas
+url:http://es wikipedia org/wiki/Premio_Nacional_de_las_Letras_Espa%C3%B1olas
+	1984 – Josep Vicenç Foix (J V Foix) (1893-1987) (autor en lengua catalana)
+	1985 – Julio Caro Baroja (1914-1995) 
+	1986 – Gabriel Celaya (1911-1991) 
+	1987 – Rosa Chacel (1898-1994) 
+	1988 – Francisco Ayala (1906-2009) Obtuvo el Premio Cervantes en 1991 
+	1989 – Joan Coromines (1905–1997) (autor en lengua española y catalana)
+	1990 – José Hierro (1922-2002) Obtuvo el Premio Cervantes en 1998 
+	1991 – Miguel Delibes (1920-2010) Obtuvo el Premio Cervantes en 1993 
+	1992 – José Jiménez Lozano (1930) Obtuvo el Premio Cervantes en 2002 
+	1993 – Carlos Bousoño (1923) 
+	1994 – Carmen Martín Gaite (1925-2000) 
+	1995 – Manuel Vázquez Montalbán (1939-2003) 
+	1996 – Antonio Buero Vallejo (1916-2000) Obtuvo el Premio Cervantes en 1986 
+	1997 – Francisco Umbral (1932-2007) Obtuvo el Premio Cervantes en 2000 
+	1998 – Pere Gimferrer (1945) (autor en lengua española y catalana)
+	1999 – Francisco Brines (1932) 
+	2000 – Martín de Riquer (1914) 
+	2001 – Miquel Batllori (1909-2003) (autor en lengua española y catalana)
+	2002 – Joan Perucho (1920-2003) (autor en lengua catalana)
+	2003 – Leopoldo de Luis (1918-2005) 
+	2004 – Félix Grande (1937) 
+	2005 – José Manuel Caballero Bonald (1926) Obtuvo el Premio Cervantes en 2012 
+	2006 – Raúl Guerra Garrido (1935) 
+	2007 – Ana María Matute (1925) Obtuvo el Premio Cervantes en 2010 
+	2008 – Juan Goytisolo (1931)
+	2009 – Rafael Sánchez Ferlosio (1927) Obtuvo el Premio Cervantes en 2004 
+	2010 – Josep Maria Castellet (1926)3 (autor en lengua española y catalana)
+	2011 – José Luis Sampedro (1917-2013)
+	2012 – Francisco Rodríguez Adrados (1922) 
+	2013 – Luis Goytisolo (1935) 
+	2014 – Emilio Lledó (1927) 
+
+#Premio Nac Ensayo España
+url:http://es.wikipedia.org/wiki/Premio_Nacional_de_Ensayo_(Espa%C3%B1a)
+	1975 – José Antonio Ibáñez-Martín, por Hacia una formación humanística Objetivos de la educación en la sociedad científico-tecnológica
+	1976 – Manuel Alvar, por Aragón, literatura y ser histórico
+	1977 – Rafael Montesinos, por Bécquer, biografía e imagen
+	1978 – Carlos Bousoño, por El irracionalismo poético (El símbolo)
+	1979 – Fernando Sánchez Dragó, por Gárgoris y Habidis
+	1980 – Andrés Amorós, por Introducción a la literatura
+	1981 – José Luis Abellán, por Historia crítica del pensamiento español: del Barroco a la Ilustración
+	1982 – Fernando Savater, por La tarea del héroe
+	1983 – Eugenio Trías, por Lo bello y lo siniestro
+	1984 – No se otorgó en esta edición
+	1985 – No se otorgó en esta edición
+	1986 – No se otorgó en esta edición
+	1987 – José Antonio Maravall, por La literatura picaresca desde la historia social
+	1988 – Gabriel Albiac, por La sinagoga vacía
+	1989 – José Luis Aranguren, por Ética de la felicidad y otros lenguajes
+	1990 – Agustín García Calvo, por Hablando de lo que habla
+	1991 – Martí de Riquer, por Aproximació al «Tirant lo Blanc»
+	1992 – Emilio Lledó, por El silencio de la escritura
+	1993 – José Antonio Marina, por Elogio y refutación del ingenio
+	1994 – Rafael Sánchez Ferlosio, por Vendrán más años malos y nos harán más ciegos
+	1995 – Gonzalo Santonja, por Un poeta español en Cuba: Manuel Altolaguirre
+	1996 – Luis González Seara, por El poder y la palabra
+	1997 – Alejandro Nieto García, por Los primeros pasos del Estado constitucional
+	1998 – Jon Juaristi, por El bucle melancólico
+	1999 – Claudio Guillén, por Múltiples moradas
+	2000 – Javier Echevarría Ezponda, por Los señores del aire: Telépolis y el Tercer Entorno
+	2001 – Ángel González García, por El resto: una historia invisible del arte contemporáneo
+	2002 – José Álvarez Junco, por Mater Dolorosa La idea de España en el siglo XIX
+	2003 – Daniel Innerarity, por La transformación de la política
+	2004 – Javier Gomá, por Imitación y experiencia
+	2005 – José Luis Pardo, por La regla del juego
+	2006 – Celia Amorós, por La gran diferencia y sus pequeñas consecuencias para las luchas de las mujeres
+	2007 – José María González García, por La diosa Fortuna Metamorfosis de una metáfora política
+	2008 – Justo Beramendi González, por De provincia a nación Historia do nacionalismo galego
+	2009 – Reyes Mate, por La herencia del olvido
+	2010 – Anjel Lertxundi, por Eskarmentuaren paperak Traducido al castellano como Vidas y otras dudas
+	2011 – Joan Fontcuberta Villà, por La cámara de Pandora: la fotografía después de la fotografía
+	2012 – Victoria Camps, por El Gobierno de las emociones
+	2013 - Santiago Muñoz Machado, por Informe sobre España. Repensar el Estado o destruirlo
+	2014 - Adela Cortina, por ¿Para qué sirve realmente la ética?
+
+#Premio Nac. Lit. Inf. y Juv. España
+url:http://es.wikipedia.org/wiki/Premio_Nacional_de_Literatura_Infantil_y_Juvenil_(Espa%C3%B1a)
+	1978 – Montserrat del Amo, por El nudo
+	1979 – Fernando Martínez Gil, por El río de los castores
+	1980 – Juan Farias, por Algunos niños, tres perros y más cosas
+	1981 – Alfonso Martínez-Mena, por La tierra de nadie
+	1982 – Carlos Murciano, por El mar sigue esperando
+	1983 – Josep Vallverdú, por Saberut i Cua-Verd
+	1984 – Ana María Matute, por Sólo un pie descalzo
+	1985 – Joan Manuel Gisbert, por El museo de los sueños
+	1986 – Paco Martín, por Das cousas de Ramón Lamote
+	1987 – Carmen Conde, por Canciones de nana y desvelo
+	1988 – Gabriel Janer Manila, por Tot quant veus és el mar
+	1989 – Andreu Martín y Jaume Ribera, por No pidas sardinas fuera de temporada (No demanis llobarro fora de temporada)
+	1990 – Pep Albanell, por La rosa de Sant Jordi
+	1991 – Fernando Lalana, por Morirás en Chafarinas
+	1992 – Carmen Vázquez Vigo, por Un monstruo en el armario
+	1993 – José María Merino, por No soy un libro
+	1994 – Gabriel Janer Manila, por Han cremat el mar
+	1995 – Xabier P Docampo, por Cando petan na porta pola noite
+	1996 – Fina Casalderrey, por O misterio dos fillos de Lúa
+	1997 – Emili Teixidor, por L'amiga més amiga de la formiga Piga
+	1998 – Elvira Lindo, por Los trapos sucios de Manolito Gafotas
+	1999 – Vicente Muñoz Puelles, por Óscar y el león de Correos
+	2000 – Emilio Pascual, por Días de Reyes Magos
+	2001 – Miguel Fernández-Pacheco, por Verdadera historia del perro Salomón
+	2002 – Miquel Desclot, por Més música, Mestre!
+	2003 – Mariasun Landa, por Kokodriloa ohe azpian
+	2004 – Gustavo Martín Garzo, por Tres cuentos de hadas
+	2005 – Antonio Rodríguez Almodóvar, por El bosque de los sueños
+	2006 – Fernando Marías, por Cielo abajo
+	2007 – Jordi Sierra i Fabra, por Kafka y la muñeca viajera
+	2008 – Agustín Fernández Paz, por O único que queda é o amor
+	2009 – Alfredo Gómez Cerdá, por Barro de Medellín
+	2010 – Eliacer Cansino Macías, por Una habitación en Babel
+	2011 – Maite Carranza, por Palabras envenenadas
+	2012 – Laura Gallego García, por Donde los árboles cantan
+	2013 – César Mallorquí, por La isla de Bowen
+	2014 - Diego Arboleda, por Prohibido leer a Lewis Carroll
+
+#Premio Nac. Lit. Dram. España
+url:http://es.wikipedia.org/wiki/Premio_Nacional_de_Literatura_Dram%C3%A1tica_(Espa%C3%B1a)
+	1992: Francisco Nieva, por El manuscrito encontrado en Zaragoza
+	1993: Alfonso Sastre, por Jenofa Juncal
+	1994: José María Rodríguez Méndez, por El pájaro solitario
+	1995: Josep Maria Benet i Jornet, por E R 
+	1996: Sergi Belbel, por Morir
+	1997: Manuel Lourenzo, por Veladas indecentes
+	1998: Jerónimo López Mozo, por Ahlán
+	1999: Agustín García Calvo, por Baraja del rey don Pedro
+	2000: Domingo Miras, por Una familia normal; Gente que prospera
+	2001: Jesús Campos García, por Naufragar en Internet
+	2002: Ignacio Amestoy, por Cierra bien la puerta
+	2003: Fernando Arrabal, por Carta de amor (como un suplicio chino)
+	2004: José Sanchís Sinisterra, por Terror y miseria en el primer franquismo
+	2005: Alberto Miralles, por Metempsicosis
+	2006: Santiago Martín Bermúdez, por Las gradas de San Felipe y empeño de la lealtad
+	2007: Rubén Ruibal, por Limpeza de sangue (Limpieza de sangre)
+	2008: Miguel Romero Esteo, por Pontifical
+	2009: Paco Bezerra, por Dentro de la tierra
+	2010: Lluïsa Cunillé, por Aquel aire infinito
+	2011: José Ramón Fernández, por La colmena científica o el café de Negrín
+	2012: Angélica Liddell, por La casa de la fuerza
+	2013: Juan Mayorga, por La lengua en pedazos
+	2014: Manuel Calzada Pérez,por El Diccionario
+
+#Premio Nac Letras Españolas
+url:http://es.wikipedia.org/wiki/Premio_Nacional_de_las_Letras_Espa%C3%B1olas
+	1984 – Josep Vicenç Foix (J V Foix) (1893-1987) (autor en lengua catalana)
+	1985 – Julio Caro Baroja (1914-1995) 
+	1986 – Gabriel Celaya (1911-1991) 
+	1987 – Rosa Chacel (1898-1994) 
+	1988 – Francisco Ayala (1906-2009) Obtuvo el Premio Cervantes en 1991 
+	1989 – Joan Coromines (1905–1997) (autor en lengua española y catalana)
+	1990 – José Hierro (1922-2002) Obtuvo el Premio Cervantes en 1998 
+	1991 – Miguel Delibes (1920-2010) Obtuvo el Premio Cervantes en 1993 
+	1992 – José Jiménez Lozano (1930) Obtuvo el Premio Cervantes en 2002 
+	1993 – Carlos Bousoño (1923) 
+	1994 – Carmen Martín Gaite (1925-2000) 
+	1995 – Manuel Vázquez Montalbán (1939-2003) 
+	1996 – Antonio Buero Vallejo (1916-2000) Obtuvo el Premio Cervantes en 1986 
+	1997 – Francisco Umbral (1932-2007) Obtuvo el Premio Cervantes en 2000 
+	1998 – Pere Gimferrer (1945) (autor en lengua española y catalana)
+	1999 – Francisco Brines (1932) 
+	2000 – Martín de Riquer (1914) 
+	2001 – Miquel Batllori (1909-2003) (autor en lengua española y catalana)
+	2002 – Joan Perucho (1920-2003) (autor en lengua catalana)
+	2003 – Leopoldo de Luis (1918-2005) 
+	2004 – Félix Grande (1937) 
+	2005 – José Manuel Caballero Bonald (1926) Obtuvo el Premio Cervantes en 2012 
+	2006 – Raúl Guerra Garrido (1935) 
+	2007 – Ana María Matute (1925) Obtuvo el Premio Cervantes en 2010 
+	2008 – Juan Goytisolo (1931)
+	2009 – Rafael Sánchez Ferlosio (1927) Obtuvo el Premio Cervantes en 2004 
+	2010 – Josep Maria Castellet (1926)3 (autor en lengua española y catalana)
+	2011 – José Luis Sampedro (1917-2013)
+	2012 – Francisco Rodríguez Adrados (1922)
+	2013 – Luis Goytisolo (1935) (autor en lengua española)
+	2014 – Emilio Lledó (1927) (autor en lengua española)
+
+#Premio Casa de las Américas
+url:http://es.wikipedia.org/wiki/Premio_Casa_de_las_Am%C3%A9ricas
+	1960:
+	 Jorge Enrique Adoum: Dios trajo la sombra
+	 José Soler Puig: Bertillón 166
+	 José María López Valdizón: La vida rota
+	 Andrés Lizarraga: Santa Juana de América
+	 Ezequiel Martínez Estrada: Análisis funcional de la cultura
+	1961:
+	 Roberto Ibáñez: La frontera
+	 Dora Alonso: Tierra inerme
+	 Luis Díaz Chávez: Pescador sin fortuna
+	 Manuel Galich: El pescado indigesto
+	 Luis Emiro Valencia: Realidad y perspectiva de la Revolución cubana
+	1962:
+	 Fayad Jamís: Por esta libertad
+	 Daura Olema: Maestra voluntaria
+	 Alfonso Cuesta: Los hijos
+	 Raúl González de Cascorro: Gente de Playa Girón
+	 Emilio Carbadillo: Un pequeño día de ira
+	 Gumersindo Martínez Amengual: Presencia de la reforma agraria en América
+	 Jorge Texier Avellaira: Reformas agraria
+	1963:
+	 Alí Lameda: El gran cacique
+	 Lisandro Otero: La situación
+	 Manuel Zapata Olivella Corral de negros
+	 Lizandro Chávez Alfaro: Los monos de San Telmo
+	 Osvaldo Dragún: Milagro en el mercado viejo
+	 Jorge Ibargüengoitia: El atentado
+	 Gumersindo Martínez Amengual: Subdesarrollo y revolución en Latinoamérica
+	1964:
+	 Mario Trejo: El uso de la palabra
+	 Gonzalo Rojas: Contra la muerte
+	 Jorge Ibargüengoitia: Los relámpagos de agosto
+	 Octavio Getino: Chulleca
+	 Oduvaldo Vianna Filho: Cuatro cuadras de tierra
+	1965: No fue concedido en novela
+	 Víctor García Robles: Oíd mortales
+	 José Triana: La noche de los asesinos
+	 Jorge Onetti: Cualquercosario
+	 Jorge Zalamea: Poesía ignorada y olvidada
+	1966:
+	 Enrique Lihn: "Poesía de paso"
+	 Marta Traba: Las ceremonias del verano
+	 Jesús Díaz: Los años duros
+	 Osvaldo Dragún: Heroica de Buenos Aires
+	 Franklin J Franco: República Dominicana, clases, crisis, comandos
+	1967:
+	 Félix Grande: Blanco spirituals
+	 David Viñas: Los hombres de a caballo
+	 Antonio Benítez Rojo: Tute de reyes
+	 Dalmiro Sáenz: ¡Hip Hip Ufa!
+	 Federico Brito Figueroa: Venezuela siglo XX
+	1968:
+	 Antonio Cisneros: Canto ceremonial contra un oso hormiguero
+	 Pablo Armando Fernández: Los niños se despiden
+	 Norberto Fuentes: Condenados de Condado
+	 Virgilio Piñera: Dos viejos pánicos
+	 Manuel Medina Castro: Estados Unidos y América Latina, siglo XX
+	1969:
+	 Roque Dalton: Taberna y otros lugares
+	 Renato Prada Oropeza: Los fundadores del alba
+	 Antonio Skármeta: Desnudo en el tejado
+	 Alonso Alegría: El cruce sobre el Niágara
+	 Héctor Béjar Rivera: Perú 1965: Apuntes sobre una experencia guerrillera
+	1970:
+	 Miguel Cossío Woodward: Sacchario
+	 Carlos María Gutiérrez: Diario del cuartel
+	 Luis Britto García: Rajatabla
+	 María Esther Gilio: La guerrilla tupamara
+	1971:
+	 Roberto Sosa: Un mundo para todos dividido
+	 Manuel Cofiño: La última mujer y el próximo combate
+	 Rubén Bareiro Saguier: Ojo por diente
+	1972:
+	 Pedro Shimose: Quiero escribir pero me sale espuma
+	 Fernando Medina Ferrada: Los muertos están cada día más indóciles
+	 Noel Navarro: La huella del pulgar
+	 Antonio Larreta: Juan Palmieri
+	 Nicolás Dorr: Un viaje entretenido
+	 Sergio Ramos Córdova: Chile: ¿Una economía de transición?
+	1973: No fue concedido en novela
+	 Fernando Lamberg: Señoras y señores
+	 Poli Délano: Cambio de máscara
+	 Víctor Torres: Una casa en Lota alto
+	1974:
+	 Armando Tejada Gómez: Canto popular de las comidas
+	 Marcos Yauri Montero: En otoño después de mil años
+	 Alfredo Gravina: Despegues
+	 Luis Fernando Lucena: Mono y otros relatos
+	 Alejandro Sieveking: Pequeños animales abatidos
+	 Grupo "La Candelaria": La ciudad dorada
+	 Hugo Neira Samanez: Huillca: habla un campesino peruano
+	 Alejandro Lipschütz: Marx y Lenin en la América Latina y los problemas indigenistas
+	1975:
+	 Manuel Orestes Nieto: Dar la cara
+	 Omar Lara: Oh, buenas maneras
+	 Haroldo Conti: Mascaró, el cazador americano
+	 Eduardo Galeano: La canción de nosotros
+	 Carlos Bastidas Padilla: Las rakes de la Ira
+	 Leonardo Carvajal Barrios: Definición del olvido
+	 Hans Otto Dill: El ideario literario y estético de José Martí
+	 Laura Devetach: Monigote en la arena
+	 Beatriz Doumerc: La línea Con dibujos de su esposo, el ilustrador Ayax Barnes
+	 Nersys Felipe: Cuentos de Guane
+	 Ana María Ramb, José Murillo Renancó y los últimos huemules
+	 Carlos José Reyes: Globito manual / El hombre que escondió el sol y la luna
+	1976:
+	 Hernán Miranda Casanova: La Moneda y otros poemas
+	 Jorge Boccanera: Contraseña
+	 Rolando Hinojosa-Smith: "Klail City y sus alrededores"
+	 Pedro Orgambide: Historias con tangos y corridos
+	 Eduardo Mignogna: Cuatrocasas
+	 Grupo "La Candelaria": Guadalupe años sin cuenta
+	 Julia Calzadilla: Cantares de la América Latina y el Caribe
+	 Nersys Felipe: Roman Elé
+	 Hugo Niño: Primitivos relatos contados otra vez
+	 Edward Kamau Brathwaite: Black ÷ Blues
+	 James A Carnegie: Wages Paid
+	 Noel D Williams: lkael Torass
+	1977:
+	 Manlio Argueta: Caperucita en la zona roja
+	 Jorge Musto Moreira: El pasajero
+	 Guillermo Samperio: Miedo ambiente
+	 Eugenio Hernández Espinosa: La Simona
+	 Esteban Navajas Cortés: La agonía del difunto
+	 Aníbal Quijada Cerda: Cerco de púas
+	 Miguel Acosta Saignes: Acción y utopía del hombre de las dificultades
+	 Francisco Pividal: Bolívar: pensamiento precursor del antimperialismo
+	1978:
+	 Gioconda Belli: Línea de fuego
+	 Hildebrando Pérez: Aguardiente
+	 Joaquín Gutiérrez: Te acordarás, hermano
+	 David Ojeda: Las condiciones de la guerra
+	 Omar González: Nosotros los felices
+	 Angus Richmond: A Kind of Living
+	 Eduardo Galeano: Días y noches de amor y de guerra
+	 Grupo Areito: Contra viento y marea
+	1979:
+	 María Gravina Telechea: Lázaro vuela rojo
+	 Humberto Costantini: De Dioses, hombrecitos y policías
+	 Fernando Butazzoni: Los días de nuestra sangre
+	 Armando José Sequera: Evitarle malos pasos a la gente
+	 Enid Vian: Las historias de Juan Yendo
+	 Arturo Arias: Ideologías, literatura y sociedad durante la revolución guatemalteca 1944-1954
+	 Shake Keane: One a Week with Water; Tymes and Notes
+	 Andrew Salkey: In the Hills Where her Dreams Live; Poems for Chile, 1973-1978
+	 Paul Laraque: Poésie quotidienne / Les armes quotidiennes
+	1980:
+	 Eduardo Langagne: Donde habita el cangrejo,
+	 Jorge Salazar: La ópera de los fantasmas
+	 Raúl Pérez Torres: En la noche y en la niebla
+	 Enrique Buenaventura: Los papeles del infierno
+	 Felipe Santander: El extensionista
+	 Dora Alonso: El valle de la Pájara Pinta
+	 Austin Clarke: Growing up Stupid Under the Union Jack
+	 Anthony Phelps: La beliére caraïbe
+	 Otávio Afonso: Cidade morta
+	 Edilberto Coutinho: Maracaná, adeus
+	1981:
+	 Luis Rogelio Nogueras: Imitación a la vida
+	 Arturo Arias: Itzam-Na
+	 Jim Sagel: Tunomás Honey
+	 Albio Paz Hernández: Huelga
+	 Ana María Machado: De olho nas penas
+	 Gilberto Rendón Ortiz: Grillito Socoyote en el circo de pulgas y otros cuentos de animales
+	 Harry Narain: Grass-Root People
+	 Roger Toumson: Trois Calibans
+	 Ádam Anderle: Los movimientos políticos en el Perú entre las dos guerras mundiales
+	 Lourdes Casal: Palabras juntan revolución
+	1982:
+	 Julio Pazos Barrera: Levantamiento del país con textos libres
+	 Pedro Juan Soto: Un oscuro pueblo sonriente
+	 Ana Lydia Vega: Encancaranublado y otros cuentos de naufragio
+	 Alberto Adellach: Cordelia de pueblo en pueblo
+	 Fernando Pérez: Corresponsales de guerra
+	 Kalman Barsy: Del nacimiento de la is/a de Borinkén y otros maravillosos sucesos
+	 John Agard: Man to Pan
+	 Dinorah do Valle: Pau Brasil
+	1983: 
+	 Denzil Romero: La tragedia del Generalísimo
+	 Augusto de la Torre: En la viña del señor
+	 Otto Minera: Siete Pecados En La Capital
+	 Rigoberta Menchú/Elizabeth Burgos: Me llamo Rigoberta Menchú
+	 Ligia Chiappini Morães Leite: Quando a pátria viaja: uma lectura dos romances de Antonio Callado
+	 Vincent Placoly: Dessalines ou la passion de l’lndependence
+	1984: 
+	 Reina María Rodríguez: Para un cordero blanco
+	 Augusto de la Torre: En la viña del señor
+	 David E Lewis: The Grenada revolution
+	 Julia Calzadilla: Los chichiricú del charco de la Jícara
+	 Carlos M Vilas: Perfiles de la revolución sandinista
+	1985: 
+	 Fernando López Rojas: Arde aún sobre los años
+	 Reynaldo Disla: Bolo Francisco
+	 André Carvalho: Cubalibre
+	 César Vieira: El juicio de Nicolau II Rey de los guaraníes y emperador de los mamelucos
+	 Anthony Phelps: Orchidee nègre
+	 Juan Almeida Bosque: Contra el agua y el viento
+	 Alberto Flores Galindo: Buscando un Inca: Identidad y Utopía en los Andes
+	1986: 
+	 Alexis Figueroa Aracena: Vírgenes del sol inn cabaret: segunda elaboración
+	 Reinaldo Montero: Donjuanes
+	 Silvia Graciela Schujer: Cuentos y chinventos
+	 Edward Kamau Brathwaite: Roots
+	1987: 
+	 José Wolfang Montes Vannucci: Jonás y la ballena rosada
+	 Isidora Aguirre Tupper: Retablo De Yumbel
+	 Romildo San'Anna: Silva/Selva: cuadros y libros
+	 Carlos Tablada Pérez: El pensamiento económico de Ernesto Che Guevara
+	 Alfred Melon: Identité nationale; ideologie, poésie et critique à Cuba
+	 Pedro Vuskovic y Belarmino Elgueta: Che Guevara en el presente de América Latina
+	1988: 
+	 Hiber Conteris: La cifra anónima
+	 Emilio de Armas: Junto al álamo de los sinsontes
+	 Ricardo Mariño: Cuentos ridículos
+	 Marlene Nourbese Philip: She Tries her Tongue: her Silence Softly Breaks
+	1989:
+	 Napoleón Baccino Ponce de León: Maluco
+	 Moacyr Scliar: La oreja de Van Gogh
+	 Fernando Martínez Heredia: Che, el socialismo y el comunismo
+	 Rachel Beauvoir y Didier Dominique: Savalou É
+	1990: 
+	 Carlos Eduardo Patiño: Las esquinas silenciosas
+	 Luis Manuel García: Habanecer
+	 Lionel Méndez Dávila: Historias de nahuales y despojos Relatos quichés para niños de una época infame
+	 Ronaldo Costa Fernandes: El muerto solidario
+	1991:
+	 Antonio Elio Brailovsky Esta maldita lujuria
+	 Carmo Bernardes: La resurrección de un cazador de gatos
+	 Graciela Scheines: Las metáforas del fracaso
+	 Susana Rotker: Fundación de una escritura Las crónicas de José Martí(ensayo)
+	 Ernest Pépin: Remolino de palabras libres/Boucán de mots livres
+	1992: 
+	 Juan Octavio Prenz: La santa Pinta de la niña María
+	 Dante Castro Arrasco: Tierra de pishtacos
+	 Velma Pollard: Karl
+	 Deonisio da Silva: Adelante, soldados: atrás!
+	 Luis Alveláis Pozos: Yolteotl
+	1993:
+	 Liliana Bellone: Augustus
+	 Begoña Huertas: Ensayo de un cambio: la narrativa cubana en la década de los 80
+	 Enrique Cirules: El Imperio de La Habana
+	 Guiomar de Crammont: El fruto de tu vientre
+	 Raphaël Confiant: Barrancos del alba
+	1994: 
+	 Dante Medina: Cómo perder amigos
+	 Gumersindo Pacheco: María Virginia está de vacaciones
+	 Sindo Pacheco: María Virginia está de vacaciones
+	 Marion Bethel: Guanahaní, mi amor
+	 Décio Tadeu Orlandi: El santo
+	 Lorenzo Aillapán Cayuleo: Hombre pájaro
+	 Lucía Guerra: La mujer fragmentada: Historias de un signo
+	1995: 
+	 Marilyn Bobes: Alguien tiene que llorar
+	 Nelson de Oliveira: Fábulas
+	 Luis Álvarez Álvarez: Estrofa, imagen, fundación: la oratoria de José Martí
+	1996: 
+	 Tomás Harris: Crónicas maravillosas
+	 Eduardo Rosenzvaig: Etnias y árboles Historia del universo ecológico Gran Chaco
+	 Nicole Cage-Elorentiny: Arco iris, la esperanza/Arc-en-ciel, l’espoir
+	1997: 
+	 Luis María Pescetti: El ciudadano de mis zapatos
+	 Ronaldo Menéndez Plasencia: El derecho al pataleo de los ahorcados
+	 Carlos María Alsina: El sueño inmóvil
+	 Angela Leite de Souza: Estas muitas minas /Estas muchas minas/
+	 Sonia Rivera-Valdés: Las historias prohibidas de Marta Veneranda
+	 Ramón Fajardo: Rita Montaner
+	1998: 
+	 Reina María Rodríguez: La foto del invernadero
+	 Jesús del Castillo Rodríguez: Pipepa
+	 Lourdes Tomás Fernández de Castro: Espacio sin fronteras
+	 Angel G Quintero Rivera: ¡Salsa, sabor y control!
+	 Oscar Zanetti Lecuona: Comercio y poder: relaciones cubano-hispano-norteamericanas en torno a 1898
+	 Kamau Brathwaite: MR
+	 Oscar Zanetti Lecuona: Comercio y poder: Relaciones cubano-hispano-norteamericanas en torno a 1898
+	1999:
+	 Zelmar Acevedo Díaz: La dama de cristal
+	 Alberto Garrido: El muro de las lamentaciones
+	 Cecy Fernandes de Assis: Devo do é
+	2000:
+	 Miguel Angel López: Encuentros en los senderos de Abya Yala
+	 Daniel Chavarría: El rojo en la pluma del loro
+	 Celina Manzoni : Vanguardistas en su tinta
+	 Ernest Pépin: La pantalla roja
+	 Raúl Hernández Novás: Amnios
+	 Sergio Ramírez: Margarita, está linda la mar
+	 Beatriz Sarlo: La máquina cultural Maestras, traductores y vanguardistas
+	2001: 
+	 Leonardo Peña Calderón: Siempre es posible verlos pasar
+	 Dante Medina: Te ve, mi amor, T V 
+	 Luis Fernando Ayerbe: Los Estados Unidos y la América Latina, la construcción de la hegemonía
+	 Walter Acosta: El escorpión y la comadreja
+	 Walter Galvani: La nave capitana Pedro Álvarez Cabral: cómo y con quién comenzamos
+	2002:
+	 Luis Manuel Pérez Boitel: Aún nos pertenece el otoño
+	 Rafael Pinedo: Plop
+	 Alvaro Salvador Jofre: El impuro amor de las ciudades
+	 Carlos Marianidis: Nada detiene a las golondrinas
+	 Oonya Kempadoo: Mar de fondo
+	 José Watanabe: El guardián del hielo
+	 Miguel Bonasso: Diario de un clandestino
+	 Julio García Espinosa: Un largo camino hacia la luz
+	2003: No hubo concurso de poesía
+	 Paola Kaufmann: La hermana
+	 María del Carmen Barcia: La otra familia: parientes, redes y descendencia de los esclavos en Cuba
+	 José Alejandro Castaño Hoyos: La isla de Morgan
+	 Rodolfo Santana: Ángel perdido en la ciudad hostil
+	 João Almino: Las cinco estaciones del amor
+	 Juan Gelman: Pesar todo
+	 Antonio Skármeta: La chica del trombón
+	 William Ospina: Los nuevos centros de la esfera
+	2004: No hubo concurso de novela
+	 Luis Lorente: Esta tarde llegando la noche
+	 Pablo Ramos
+	 José Murilo de Carvalho: Ciudadanía en Brasil El largo camino
+	 Georges Mauvois: Ovando
+	 Carmiña Navia Velasco: Guerra y paz en Colombia, miradas de mujer
+	 Juan Bañuelos: A paso de hierba Poemas sobre Chiapas
+	 Anacristina Rossi: Limón Blues
+	 Atilio Borón: Imperio e imperialismo Lectura crítica de un libro de Michael Hardt y Antonio Negri
+	2005 No hubo concurso de poesía
+	 Marilyn Bobes: Fiebre invernal
+	 Carlos A Jáuregui: Canibalia Canibalismo, calibanismo, antropofagia cultural y consumo en América Latina
+	 Víctor Winer: Postal de vuelo
+	 Teresa Cárdenas Angulo: Perro Viejo
+	 Alberto Mussa: O enigma de Qaf
+	 Idea Vilariño: En lo más implacable de la noche
+	 Rubem Fonseca: Pequeñas criaturas
+	 Luis Britto: Investigación de unos medios por encima de toda sospecha
+	2006: No hubo concurso de novela
+	 Arturo Corcuera: A bordo del arca
+	 Ángel Santiesteban Prats: Dichosos los que lloran
+	 Abel Sierra Madero: Del otro lado del espejo La sexualidad en la construcción de la nación Cubana
+	 Ricardo Rezende Figueira: Pisando fora da própria sombra A escravidão por dívida no Brasil contemporâneo /Pisando fuera de su propia sombra/
+	 Mark McWatt: Suspended Sentences /Sentencias condicionales/
+	 Raúl Zurita: INRI
+	 Marcio Veloz Maggiolo: La mosca soldado
+	 Boaventura de Sousa Santos: La universidad en el siglo XXI Para una reforma democrática y emancipadora de la universidad
+	2007: No hubo concurso de poesía
+	 Susana Silvestre: Mil y una
+	 Alberto Abreu Arcia: Los juegos de la escritura o la
+	 Rafael Spregelburd: Heptalogía de Hieronymus Bosch: 6 La paranoia
+	 Edda Fabbri: Oblivion
+	 Ana Maria Gonçalves: Um defeito de cor
+	 Juan Manuel Roca: Cantar de lejanía Antología personal
+	 Abelardo Castillo: El espejo que tiembla
+	 María Lourdes Cortés: La pantalla rota Cien años de cine en Centroamérica
+	2008: No hubo concurso de novela
+	 Laura Yasan: La llave Marilyn
+	 Samanta Schweblin: La furia de las pestes
+	 Hugo Niño: El etnotexto: las voces del asombro
+	 Carlos Walter Porto-Gonçalves: A globalização da natureza e a natureza da globalização
+	 Louis-Philippe Dalembert: Les dieux voyagent la nuit
+	 Óscar Hahn: En un abrir y cerrar de ojos
+	 David Toscana: El ejército iluminado
+	 Héctor Díaz Polanco: Elogio de la diversidad Globalización, multiculturalismo y etnofagia
+	2009: No hubo concurso de poesía
+	 Claudio Ferrufino-Coqueugniot: El exilio voluntario
+	 Eduardo Rosenzvaig: Mañana es lejos
+	 Yoli Fidanza: La prometida del señor de la montaña o La doncella del Huillallaco
+	 Lêdo Ivo: Réquiem
+	 Juan Flores: Bugalú y otros guisos: ensayos sobre culturas latinas en Estados Unidos
+	 Carlos Germán Belli: El alternado paso de los hados
+	 Roberto Burgos Cantor: La ceiba de la memoria
+	 Grínor Rojo: Globalización e identidades nacionales y postnacionales… ¿de qué estamos hablando?
+	2010: No hubo concurso de novela
+	 Bruno Di Benedetto: Crónicas de muertes dudosas
+	 Jorgelina Cerritos: Al otro lado del mar
+	 Jennifer Rahim: Approaching Sabbaths
+	 Nélida Piñon: Aprendiz de Homero
+	 Sergio Guerra Vilaboy: Jugar con fuego Guerra social y utopía en la independencia de América Latina
+	 Manuel Orestes Nieto: El alternado paso de los hados
+	 Francisco Proaño: Tratado del amor clandestino
+	 Adriana Rodríguez Pérsico: Relatos de época: una cartografía de América Latina
+	2011 No hubo concurso de poesía
+	 Gabriel Santander Botello: La venganza de las chachas
+	 Emerio Medina: La bota sobre el toro muerto
+	 Carlos E Bishoff: Su paso
+	 Nelson de Oliveira: Poeira: demonios e maldições
+	 Ensayo artístico-literario: el jurado declaró desierto el premio y otorgó 4 menciones:
+	 Luis Álvarez Álvarez y Ana María González Maffud: De José Lezama Lima a Severo Sarduy
+	 Leandro Estupiñán Zaldívar: Lunes de Revolución: compromiso y libertad
+	 Cecilia López Badano: Inmersiones en el maëlstrom socio-estético de Roberto Bolaño Representaciones literarias de la contemporánea latinoamericanidad diaspórica
+	 Elsa Noya: Canibalizar la biblioteca Debates del campo literario y cultural puertorriqueño
+	 Kamau Brathwaite: Los danzantes del tiempo Antología poética
+	 Eduardo Galeano: Espejos Una historia casi universal,
+	 Ana Pizarro: Amazonía El río tiene voces,
+	2012 No hubo concurso ni de novela ni de poesía
+	 Ignacio Apolo y Laura Gutman: El tao del sexo
+	 Josefina Porcelli Piussi: Mi hermano llegó de otro planeta un día de mucho viento
+	 Gary Víctor: Le sang et la mer
+	 João José Reis, Flávio dos Santos Gomes y Marcos J M de Carvalho: O alufá Rufino Tráfico, escravidão e liberdade no Atlântico negro
+	 Cristina Beltrán:The Trouble With Unity: Latino Politics and the Creation of Identity
+	 Zuleica Romay: Elogio de la altea o las paradojas de la racialidad
+	 Humberto Vinueza: Obra cierta Antología poética
+	 Ricardo Piglia: Blanco nocturno,
+	 Raúl Bueno: Promesa y descontento de la modernidad Estudios literarios y culturales en América Latina,
+	2013 El premio de novela fue declarado desierto
+	 Gabriel Cortiñas: Pujato
+	 Jesús Arboleya Cervera: Cuba y los cubanoamericanos Un análisis de la emigración cubana
+	 Nicolás Doljanin: La sombra del tío
+	 Luiz Ruffato: Domingos Sem Deus
+	 Lucía Guerra: La ciudad ajena: Subjetividades de origen mapuche en el espacio urbano
+	 Rafael Courtoisie: Tiranos temblad
+	 Chico Buarque: Leche derramada
+	 Víctor Barrera Enderle: Lectores insurgentes La formación de la crítica literaria hispanoamericana
+	2014
+		Margarita García Robayo: Cosas peores (cuento, Flag of Colombia.svg Colombia)
+		Alejandro Román Bahena: Blanco con sangre negra (teatro, Flag of Mexico.svg México)
+		Carlos Orlando Fino Gómez: José Lezama Lima: estética e historiografía del arte en su obra crítica (ensayo artístico-literario, Flag of Colombia.svg Colombia)
+		Mário Magalhães: Marighella: o guerrilheiro que incendiou o mundo (literatura brasileña)
+		David Austin: Fear of a Black Nation - Race, Sex, and Security in Sixties Montreal (Literatura caribeña en inglés o creol, Flag of Jamaica.svg Jamaica)
+		Mariana Libertad Suárez: La loca inconfirmable. Apropiaciones feministas de Manuela Sáenz (1944-1963) (Premio de estudios sobre la mujer, Flag of Venezuela.svg Venezuela)
+		Piedad Bonnett: Explicaciones no pedidas (Premio de Poesía José Lezama Lima, Flag of Colombia.svg Colombia)
+		Juan Villoro: Arrecife (Premio de Narrativa José María Arguedas, Flag of Mexico.svg México)
+		Luiz Bernardo Pericás: Che Guevara y el debate económico en Cuba (Premio de Ensayo Ezequiel Martínez Estrada; Flag of Brazil.svg Brasil) 
+ 
+#Mención Premio Casa de las Américas
+url:http://es.wikipedia.org/wiki/Premio_Casa_de_las_Am%C3%A9ricas
+	 Jaime Sarusky: La búsqueda
+	 Abelardo Castillo: Las otras puertas
+	 Antón Arrufat: El vivo al pollo
+	 Heberto Padilla: El justo tiempo humano
+	 Roque Dalton: El turno del ofendido
+	 Belkis Cuza Malé: Tiempos de sol
+	 Renés Marqués: En una ciudad llamada San Juan
+	 Antón Arrufat: Repaso final
+	 Belkis Cuza Malé: Cartas a Ana Frank
+	 Pablo Armando Fernández: El libro de los héroes
+	 Antonio Dal Masetto: Lacre
+	 Noé Jitrik: Addio a la mamma
+	 Alberto Szpunberg: El che amor
+	 César Calvo: El cetro de los jóvenes
+	 César López: Primer libro de la ciudad
+	 Jaime Sarusky: Rebelión en la octava casa
+	 Liliana Heker: Los que vieron la zarza
+	 Miguel Barnet: La Sagrada Familia
+	 René Depestre: Un arcoiris para el occidente cristiano
+	 Manuel Granados: Adire y el tiempo roto
+	 Ricardo Piglia: Jaulario
+	 Enrique Buenaventura: Los papeles del infierno
+	 Belkis Cuza Malé: Juego de damas
+	 Reynaldo González: Siempre la muerte, su paso breve
+	 Edmundo de los Ríos: Los juegos verdaderos
+	 Alfredo Bryce Echenique: Huerto cerrado
+	 José Lorenzo Fuentes: Después de la gaviota
+	 Aída García Alonso: Manuela La Mexicana
+	 Jorge Calderón González: Amparo: Millo y azucenas
+	 Víctor Casaus: De una isla a otra isla
+	 Eduardo Heras León: Los pasos en la hierba
+	 Víctor Casaus: Girón en la Memoria
+	 René Avilés Fabila: La desaparición de Hollywood
+	 Manuel Orestes Nieto: Adentro reconozco que me duele todo
+	 Saúl Ibargoyen Islas: Fronteras de Joaquim Coluna
+	 Paulo de Carvalho: El folklore de las luchas sociales
+	 Filomena Grieco, Carlos Rovira: 14 de abril de 1972
+	 Magali García Ramis: La viuda de Chencho el Loco
+	 Claribel Alegría: Sobrevivo
+	 Luis Britto García: Abrapalabra
+	 Manuel Mejía Vallejo: Las muertes ajenas
+	 Luisa María Rojas: Argentina, Mención de Honor
+	 Ernestina Chuman: Bolivia, Mención de Honor
+	 Félix Costantín: Cuba, Mención de Honor
+	 María Julia Sanmiguel: Chile, Mención de Honor
+	 Víctor Martí: Perú, Mención de Honor
+	 Alejandro Piñeros: Colombia, Mención de Honor
+	 Federico Roca: Chile, Mención de Honor
+	 Esteban Gomez: Perú, Mención de Honor
+	 Mara Garza: España, Mención de Honor
+	 Beatriz Delgado: Colombia, Mención de Honor
+	 Juan Cruz V: Nicaragua, Mención de Honor
+	 Daisy Rubiera Castillo: Reyita, sencillamente
+	 Jorge Majfud La reina de América
+	 Luiz Ruffato: Os sobreviventes
+	 Júnia Ferreira Furtado: Chica da Silva e o contratador dos diamantes - O outro lado do mito
+	 Camille Montoussamy: Eclats d´Inde
+	 Claude Ribbe: L´Expedition
+	 Claudio Ingratta: Ediciones amarillas del corazón
+	 Kevin Nelson Valente: Superficies
+	 Luis Caissés Sánchez: Cuentos de vieja y de viejitos
+	 Félix Guerra Pulido: El invitado soy yo
+	 Ariel James Figarola: El color de la Yagruma
+	 Iacyr Anderson Freitas: Trinca dos traídos
+	 Clemente Riedermann: La coronación de Enrique Brouwer
+	 Rodrigo Parra Sandoval: Museo de lo inútil
+	 Ana Quiroga: Breve postergación y otros cuentos
+	 Araceli Tinajero: La lectura en las tabaquerías Historia de una tradición cubana
+	 Marlini Fantini: Guimarães Rosa Fronteiras, Margens, Passagens
+	 Flávio dos Santos Gomes: A Hidra e os Pântanos Mocambos, Quilombos e Comunidades de Fugitivos no Brasil
+	 Olive Senior: Over the Roofs of the World
+	 Ricardo Moura: Que el muerto venga en persona
+	 Fernando Jerez: Última esperanza
+	 Lourdes González Herrero: El Amanuense
+	 Oscar Rivera-Rodas: El cosmopolitismo en las letras hispanoamericanas
+	 Julieta Leo Almaguer: Las sagradas letras de Paradiso Un estudio sobre el hermetismo de José Lezama Lima
+	 Nelson Simón: In vitro
+	 Cristian Avecillas: Todos los cadáveres soy yo
+	 Juan Cameron: Textos de la barbarie
+	 Alexis Díaz Pimienta: Traficantes de oxígeno
+	 Elena Cabrejas: Exilio en Buenos Aires
+	 Juan A Hernández: Hacia una historia de lo imposible La revolución haitiana y el “libro de pinturas” de José Antonio Aponte
+	 Maria Candida Ferreira de Almeida: Leyendo en colores Lecturas racializadas de literatura hispanoamericana
+	 Beatriz Carolina Peña Núñez: Imágenes del Nuevo Mundo en la Relación de Viaje
+	 José Castello: A literatura na poltrona Jornalismo literário en tempos instáveis
+	 Wanderley Guilherme dos Santos: O ex-leviatã brasileiro Do voto disperso ao clientelismo concentrado
+	 Jean-Claude Fignolé: Une heure pour l’eternité
+	 Emmelie Prophète: Le testament des solitudes
+	 Max Jeanne: Brisants
+	 Joël des Rosiers: Caïques
+	 Enrique Ferrari: Lo que no fue
+	 Fernanda García Curten: La reemplazante
+	 Patricia Miriam Borensztejn: Hay que saberse alguna poesía de memoria Testimonios de una mujer argentina
+	 Ricardo Chávez Castañeda: El laberinto de las pesadillas
+	 Carla Dulfano: Sala de profesores
+	 Rodolfo Dada: El mar de la selva
+	 Maria Esther Maciel: O livro dos nomes
+	 Menalton Braff: A muralha de Adriano
+	 Guillermo Rivera: Las nuevas epopeyas
+	 Javier Alvarado: Carta natal al país de los locos
+	 Manuel García Verdecia: Antífona de las islas
+	 Sergio Blanco: Barbarie
+	 Cheddy Mendizábal Álvarez: Las dos caras de la moneda
+	 Opal Palmer Adisa: I name me name"
+	 Luiz Cláudio Cunha: Operação Condor O Seqüestro dos Uruguaios
+	 Leandro Konder: Memórias de un intelectual comunista
+	 María Isabel Brunacci: Graciliano Ramos: um escritor personagem
+	 Rodrigo Parra Sandoval: Faraón Angola
+	 Geovannys Manso Sendán: Los hijos soñolientos del abismo,
+	 Virginia G Gallardo: El porvenir
+	 Norberto Mauricio Espinosa: Pequeños milagros
+	 Patricia Suárez: Brindar con extraños
+	 Mariana Ianelli: Treva alborada
+	 Orlando Senna: Os lençóis e os sonhos
+	 Ximena Carrera: Medusa
+	 Mariela Finkelstein: No te mueras
+	 Carlos Marianidis: Prohibido soñar
+	 Elena Beatriz Corujo Morales: Pargos azules
+	 Gisèle Pineau: Morne Câpresse
+	 Luís Bernardo Pericás: Os cangaceiros
+	 Heloisa Pontes: Intérpretes da metrópole História social e relações de gênero no teatro e no campo intelectual, 1940-1968
+	 Lorrin Thomas: Puerto Rican Citizen: History and Political Identity in Twentieth Century New York
+	 Inés María Martiatu-Terry: ¿Y las negras qué? Pensando el afrofeminismo en Cuba
+	 Leonel Alvarado: Retratos mal hablados
+	 Cristián Avecillas: Los tiempos de la humanidad
+	 Viviana Bravo Vargas: Piedras, barricadas y cacerolas: sonido y fuerza de la resistencia en Chile Las Jornadas Nacionales de Protesta 1983-1987
+	 Carlos Alzugaray Treto: Diplomacia imperial y revolución Estados Unidos ante la Revolución Cubana 1959-1960: del reconocimiento reticente a la ruptura ominosa
+	 Enrique Cirules: Hemingway, ese desconocido
+	 Nicolas Goszi: El honor de la cuadra
+	 Sócrates Zuzunaga Huaita: Como una espada en el aire
+	 Urbano Martínez Carmenate: Carpentier, la otra novela
+	 Rodrigo de Souza Leão: Carbono Pautado, Memória de um Auxiliar de Escritório
+	 Evandro Affonso Ferreira: O Mendigo que Sabia de Cor os Adágios de Erasmo de Rotterdam
+	 Luz María Lepe Lira: Relatos de la diferencia y literatura indígena Travesías por el sistema mundo
+	 Ricardo Cavalcanti-Schiel: De la reluctancia salvaje del pensamiento Memoria social en Los Andes meridionales
+	Abel González Melo: Sistema (Mención teatro, Flag of Cuba.svg Cuba)
+	María Antonia Borroto Trujillo: Julián del Casal: modernidad y periodismo (Mención ensayo artístico-literario, Flag of Cuba.svg Cuba)
+	Marina Porcelli: Hombres en el desierto. Otredad en América Latina. (Auto) biografías, cartas y diarios. Diálogo con la narrativa actual (Mención ensayo artístico-literario, Flag of Argentina.svg Argentina)
+	Montague Kobbé: The Night of the Rambler (Mención literatura caribeña en inglés o creol, Bandera de Anguila Anguila)
+	Lawrence Scott : Light Falling on Bamboo (Mención literatura caribeña en inglés o creol, Flag of Trinidad and Tobago.svg Trinidad y Tobago)
+	Alejandra Castillo: El desorden de la democracia. Partidos políticos de mujeres en Chile (Mención Premio de estudios sobre la mujer, Flag of Chile.svg Chile)
+	Guisela López: Escritoras latinoamericanas: aportes al discurso de la transgresión (Mención Premio de estudios sobre la mujer, Flag of Guatemala.svg Guatemala)
+
+#Premio Nadal España
+url:http://es.wikipedia.org/wiki/Premio_Nadal
+	1944 - Carmen Laforet, por Nada
+	1945 - José Félix Tapia, por La luna ha entrado en casa
+	1946 - José María Gironella, por Un hombre
+	1947 - Miguel Delibes, por La sombra del ciprés es alargada
+	1948 - Sebastián Juan Arbó, por Sobre las piedras grises
+	1949 - José Suárez Carreño, por Las últimas horas
+	1950 - Elena Quiroga, por Viento del Norte
+	1951 - Luis Romero, por La noria
+	1952 - Dolores Medio, por Nosotros, los Rivero
+	1953 - Lluïsa Forrellad, por Siempre en capilla
+	1954 - Francisco José Alcántara, por La muerte le sienta bien a Villalobos
+	1955 - Rafael Sánchez Ferlosio, por El Jarama / La obra obtuvo también el Premio de la Crítica 
+	1956 - José Luis Martín Descalzo, por La frontera de Dios
+	1957 - Carmen Martín Gaite, por Entre visillos
+	1958 - José Vidal Cadellans, por No era de los nuestros
+	1959 - Ana María Matute, por Primera memoria
+	1960 - Ramiro Pinilla, por Las ciegas hormigas / La obra obtuvo también el Premio de la Crítica 
+	1961 - Juan Antonio Payno, por El curso
+	1962 - José María Mendiola, por Muerte por fusilamiento
+	1963 - Manuel Mejía Vallejo, por El día señalado
+	1964 - Alfonso Martínez Garrido, por El miedo y la esperanza
+	1965 - Eduardo Caballero Calderón, por El buen salvaje
+	1966 - Vicente Soto, por La zancada
+	1967 - José María Sanjuán, por Réquiem por todos nosotros
+	1968 - Álvaro Cunqueiro, por Un hombre que se parecía a Orestes
+	1969 - Francisco García Pavón, por Las Hermanas Coloradas
+	1970 - Jesús Fernández Santos, por Libro de las memorias de las cosas
+	1971 - José María Requena, por El cuajarón
+	1972 - José María Carrascal, por Groovy
+	1973 - José Antonio García Blázquez, por El rito
+	1974 - Luis Gasulla, por Culminación de Montoya
+	1975 - Francisco Umbral, por Las ninfas
+	1976 - Raúl Guerra Garrido, por Lectura insólita de "El Capital"
+	1977 - José Asenjo Sedano, por Conversación sobre la guerra
+	1978 - Germán Sánchez Espeso, por Narciso
+	1979 - Carlos Rojas, por El ingenioso hidalgo y poeta Federico García Lorca asciende a los infiernos
+	1980 - Juan Ramón Zaragoza, por Concerto grosso
+	1981 - Carmen Gómez Ojea, por Cantiga de agüero
+	1982 - Fernando Arrabal, por La torre herida por el rayo
+	1983 - Salvador García Aguilar, por Regocijo en el hombre
+	1984 - José Luis de Tomás García, por La otra orilla de la droga
+	1985 - Pau Faner, por Flor de sal
+	1986 - Manuel Vicent, por Balada de Caín
+	1987 - Juan José Saer, por La ocasión
+	1988 - Juan Pedro Aparicio, por Retratos de ambigú
+	1989 - No se concedió
+	1990 - Juan José Millás, por La soledad era esto
+	1991 - Alfredo Conde, por Los otros días
+	1992 - Alejandro Gándara, por Ciegas esperanzas
+	1993 - Rafael Argullol, por La razón del mal
+	1994 - Rosa Regàs, por Azul
+	1995 - Ignacio Carrión, por Cruzar el Danubio
+	1996 - Pedro Maestre, por Matando dinosaurios con tirachinas
+	1997 - Carlos Cañeque, por Quién
+	1998 - Lucía Etxebarria, por Beatriz y los cuerpos celestes
+	1999 - Gustavo Martín Garzo, por Las historias de Marta y Fernando
+	2000 - Lorenzo Silva, por El alquimista impaciente
+	2001 - Fernando Marías, por El niño de los coroneles
+	2002 - Ángela Vallvey, por Los estados carenciales
+	2003 - Andrés Trapiello, por Los amigos del crimen perfecto
+	2004 - Antonio Soler, por El camino de los ingleses
+	2005 - Pedro Zarraluki, por Un encargo difícil
+	2006 - Eduardo Lago, por Llámame Brooklyn / La obra obtuvo el Premio de la Crítica 
+	2007 - Felipe Benítez Reyes, por Mercado de espejismos
+	2008 - Francisco Casavella, por Lo que sé de los vampiros
+	2009 - Maruja Torres, por Esperadme en el cielo
+	2010 - Clara Sánchez, por Lo que esconde tu nombre
+	2011 - Alicia Giménez Bartlett, por Donde nadie te encuentre
+	2012 - Álvaro Pombo, por El temblor del héroe
+	2013 - Sergio Vila-Sanjuán, por Estaba en el aire
+	2014 - Carmen Amoraga La vida era eso
+	2015 - José C. Vales Cabaret Biarritz
+
+#Finalista Premio Nadal España
+url:http://es.wikipedia.org/wiki/Premio_Nadal
+	1944 - José María Álvarez Blázquez, por En el pueblo hay caras nuevas
+	1945 - Francisco García Pavón, por Cerca de Oviedo
+	1946 - Eulalia Galvarriato, por Cinco sombras
+	1947 - Manuel Pombo Angulo, por Hospital General
+	1948 - Manuel Mur Oti, por Destino negro
+	1949 - Carlos de Santiago, por El huerto de Pisadiel
+	1950 - Francisco Montero Galvache, por El mar está solo
+	1951 - Tomás Salvador, por Historias de Valcanillo
+	1952 - Severiano Fernández Nicolás, por La ciudad sin horizonte
+	1953 - Alejandro Núñez Alonso, por La gota de Mercurio
+	1954 - Ángel Oliver, por Días turbulentos
+	1955 - Héctor Vázquez-Azpiri, por Víbora
+	1956 - Jesús López Pacheco, por Central eléctrica
+	1957 - Lauro Olmo, por Ayer, 27 de octubre
+	1958 - Claudio Bassols, por El carnaval de los gigantes
+	1959 - Armando López Salinas, por La mina
+	1960 - Gonzalo Torrente Malvido, por Hombres varados
+	1961 - Pablo Antoñana, por La cuerda rota
+	1962 - Manuel Barrios, por El crimen
+	1963 - Mariano Viguera, por Coral
+	1964 - Manuel Barrios, por La espuela
+	1965 - Juan Farias, por Los buscadores de agua
+	1966 - Carmelo M Lozano, por Gambito de alfil de rey
+	1967 - Francisco García Pavón, por El reinado de Witiza
+	1968 - Eduardo García, por Sede vacante
+	1969 - Luis Ricardo Alonso, por El candidato
+	1970 - Gabriel García-Badell, por De las armas a Montemolín
+	1971 - Gustavo Álvarez Gardeazábal, por Dabeiba
+	1972 - Gabriel García-Badell, por Las cartas cayeron boca abajo
+	1973 - Aquilino Duque, por El mono azul
+	1974 - Guillermo A R Carrizo, por Crónica sin héroes
+	1975 - Manuel Villar Raso, por Mar ligeramente sur
+	1976 - Emilio Mansera Conde, por La crisopa
+	1977 - Gabriel García-Badell, por La zarabanda
+	1978 - Rocío Vélez de Piedrahita, por Terrateniente
+	1979 - Gabriel García-Badell, por Nuevo auto de fe
+	1980 - Ramón Eiroa, por Notas para la aclaración de un suicidio
+	1981 - Alfonso Zapater, por El accidente
+	1982 - José Luis Aguirre, por La excursión
+	1983 - José Avello Flórez, por La subversión de Beti García
+	1984 - Telmo Herrera, por Papá murió hoy
+	1985 - Vicente Sánchez Pinto, por Los desiertos del amor
+	1986 - Horacio Vázquez-Rial, por Historia del Triste
+	1987 - José Ferrater Mora, por El juego de la verdad
+	1988 - Jesús Carazo, por Los límites del paraíso
+	1989 - no se concedió
+	1990 - Pedro Crespo, por El cuaderno de Forster
+	1991 - Mariano Arias, por El silencio de las palabras
+	1992 - Jesús Díaz, por Las palabras perdidas
+	1993 - Jorge Ordaz, por La Perla del Oriente
+	1994 - José Ángel Mañas, por Historias del Kronen
+	1995 - Félix Bayón, por Adosados
+	1996 - Juana Salabert, por Arde lo que será
+	1997 - Lorenzo Silva, por La flaqueza del bolchevique
+	1998 - Ignacio García-Valiño, por La caricia del escorpión
+	1999 - Lilian Neuman, por Levantar ciudades
+	2000 - José Carlos Somoza, por Dafne desvanecida
+	2001 - Lola Beccaria, por La luna en Jorge
+	2002 - José Luis de Juan, por Kaleidoscopio
+	2003 - David Torres, por El gran silencio
+	2004 - Javier Puebla, por Sonríe Delgado
+	2005 - Nicolás Casariego, por Cazadores de luz
+	2006 - Marta Sanz, por Susana y los viejos
+	2007 - Carmen Amoraga, por Algo tan parecido al amor
+	2008 - Eva Díaz Pérez, por El Club de la Memoria
+	2009 - Rubén Abella, por El libro del amor esquivo
+
+>Premio Príncipe de Asturias
+url:http://es.wikipedia.org/wiki/Premio_Pr%C3%ADncipe_de_Asturias_de_las_Letras
+	1981	José Hierro	Poeta	Flag of Spain.svg España
+	1982	Gonzalo Torrente Ballester
+			Miguel Delibes	Profesor, novelista, periodista, crítico y autor dramático Novelista	Flag of Spain.svg España
+	1983	Juan Rulfo	Novelista	Flag of Mexico.svg México
+	1984	Pablo García Baena	Poeta	Flag of Spain.svg España
+	1985	Ángel González	Poeta y ensayista	Flag of Spain.svg España
+	1986	Mario Vargas Llosa Flag of Peru.svg Perú
+			Rafael Lapesa	Novelista, periodista, ensayista, político Filólogo y escritor Flag of Spain.svg España
+	1987	Camilo José Cela	Escritor y novelista	Flag of Spain.svg España
+	1988	Carmen Martín Gaite Escritor, poeta, ensayista y traductor	Flag of Spain.svg España
+			José Ángel Valente	Escritora, novelista y poeta Flag of Spain.svg España
+	1989	Ricardo Gullón	Abogado, escritor, crítico literario y ensayista	Flag of Spain.svg España
+	1990	Arturo Uslar Pietri	Abogado, periodista, escritor, productor de televisión y político	Flag of Venezuela.svg Venezuela
+	1991	Pueblo de Puerto Rico	Población	Bandera de Puerto Rico Puerto Rico
+	1992	Francisco Nieva	Autor teatral, escenógrafo, director de escena, narrador y dibujante	Flag of Spain.svg España
+	1993	Claudio Rodríguez	Poeta	Flag of Spain.svg España
+	1994	Carlos Fuentes	Escritor, novelista y ensayista	Flag of Mexico.svg México
+	1995	Carlos Bousoño	Poeta y crítico literario	Flag of Spain.svg España
+	1996	Francisco Umbral	Periodista, novelista, ensayista, biógrafo y poeta	Flag of Spain.svg España
+	1997	Álvaro Mutis	Escritor y poeta	Flag of Colombia.svg Colombia
+	1998	Francisco Ayala	Escritor, ensayista y traductor	Flag of Spain.svg España
+	1999	Günter Grass	Escritor y artista	Flag of Germany.svg Alemania
+	2000	Augusto Monterroso	Escritor y ensayista	Flag of Mexico.svg México Flag of Guatemala.svg Guatemala
+	2001	Doris Lessing	Escritora y novelista	Flag of the United Kingdom.svg Reino Unido
+	2002	Arthur Miller	Dramaturgo y guionista	Flag of the United States.svg Estados Unidos
+	2003	Fatima Mernissi Novelista, ensayista y activista política	Bandera de Marruecos Marruecos
+			Susan Sontag	Historiadora, ensayista, socióloga y profesora Flag of the United States.svg Estados Unidos
+	2004	Claudio Magris	Escritor, novelista, profesor y traductor	Flag of Italy.svg Italia
+	2005	Nélida Piñón	Escritora y novelista	Flag of Brazil.svg Brasil
+	2006	Paul Auster	Poeta, novelista y guionista de cine	Flag of the United States.svg Estados Unidos
+	2007	Amos Oz	Escritor, novelista y periodista	Flag of Israel.svg Israel
+	2008	Margaret Atwood	Poetisa, novelista y crítica literaria	Flag of Canada.svg Canadá
+	2009	Ismail Kadare	Escritor, novelista y poeta	Flag of Albania.svg Albania
+	2010	Amin Maalouf	Escritor	Flag of Lebanon.svg Líbano
+	2011	Leonard Cohen	Poeta y cantante	Flag of Canada.svg Canadá
+	2012	Philip Roth	Novelista	Flag of the United States.svg Estados Unidos
+	2013	Antonio Muñoz Molina	Novelista	Flag of Spain.svg España
+	2014	John Banville	Novelista	Bandera de Irlanda Irlanda
+
+#Premio Alfaguara
+url:http://es wikipedia org/wiki/Alfaguara_%28editorial%29
+url:http://de wikipedia org/wiki/Premio_Alfaguara_de_Novela
+	1965 Las corrupciones - Jesús Torbado
+	1966 Pascua y naranjas - Manuel Vicent
+	1967 Fauna - Héctor Vázquez-Azpiri
+	1968 Corte de corteza - Daniel Sueiro
+	1970 Todas esas muertes - Carlos Droguett
+	1971 Leña verde - Luis Berenguer
+	1972 Florido mayo - Alfonso Grosso
+	1998 Caracol Beach - Eliseo Alberto
+	1998 Margarita, está linda la mar - Sergio Ramírez
+	1999 Son de mar Manuel Vicent
+	2000 Últimas noticias del paraíso - Clara Sánchez
+	2001 La piel del cielo - Elena Poniatowska
+	2002 El vuelo de la reina - Tomás Eloy Martínez
+	2003 Diablo guardián - Xavier Velasco
+	2004 Delirio - Laura Restrepo
+	2005 El turno del escriba - Graciela Montes Ema Wolf
+	2006 Abril rojo - Santiago Roncagliolo
+	2007 Mira si yo te querré - Luis Leante
+	2008 Chiquita - Antonio Orlando Rodríguez
+	2009 El viajero del siglo - Andrés Neuman
+	2010 El arte de la resurección - Hernán Rivera Letelier
+	2011 El ruido de las cosas al caer - Juan Gabriel Vásquez
+	2012 Una misma noche - Leopoldo Brizuela
+	2013 La invención del amor - José Ovejero
+	2014 Jorge Franco (Colombia) - El mundo de afuera
+	
+	1965 Jesús Torbado (Spanien) für Las corrupciones
+	1966 Manuel Vicent (Spanien) für Zeit der Orangen (Pascua y naranjas)
+	1967 Héctor Vazquez-Azpiri (Spanien) für Fauna
+	1968 Daniel Sueiro (Spanien) für Corte de corteza
+	1969 - unvergeben -
+	1970 Carlos Droguett (Chile) für Todas esas muertes
+	1971 Luis Berenguer (Spanien) für Leña verde
+	1972 Alfonso Grosso (Spanien) für Florido mayo
+	- zwischen 1973 und 1997 nicht offiziell vergeben
+	1974 Juan Rulfo (Mexico) für Pedro Paramo
+	1978 Enrico Starke (Spanien) für El Loco
+	- zwischen 1973 und 1997 nicht offiziell vergeben
+	1998 Eliseo Alberto (Kuba) für Caracol Beach und
+	Sergio Ramírez (Nicaragua) für Margarita, das Meer ist schön (Margarita, está linda la mar)
+	1999 Manuel Vicent (Spanien) für Der Gesang der Wellen (Son de mar)
+	2000 Clara Sánchez (Spanien) für Letzte Notizen aus dem Paradies (Últimas noticias del paraíso)
+	2001 Elena Poniatowska (Mexico) für Die Haut des Himmels (La piel del cielo)
+	2002 Tomás Eloy Martínez (Argentinien) für Der Flug der Königin (El vuelo de la reina)
+	2003 Xavier Velasco (Mexico) für Schutzteufel (Diablo guardián)
+	2004 Laura Restrepo (Kolumbien) für Delirio
+	2005 Graciela Montes (Argentinien) und Ema Wolf (Argentinien) für El turno del escriba
+	2006 Santiago Roncagliolo (Peru) für Abril rojo (Roter April)
+	2007 Luis Leante (Spanien) für Mira si yo te querré
+	2008 Antonio Orlando Rodríguez (Kuba) für Chiquita
+	2009 Andrés Neuman (Argentinien) für El viajero del siglo
+	2010 Hernán Rivera Letelier (Chile) für El arte de la resurrección
+	2011 Juan Gabriel Vásquez (Kolumbien) für El ruido de las cosas al caer
+	2012 Leopoldo Brizuela (Argentinien) für Una misma noche
+	2013 José Ovejero (Spanien) für La invención del amor
+	2014 Jorge Franco (Kolumbien) für El mundo de afuera
+ 
+#Premio Rómulo Gallegos
+url:http://en wikipedia org/wiki/R%C3%B3mulo_Gallegos_Prize
+	1967	La casa verde	Mario Vargas Llosa	 Perú	
+	1972	Cien años de soledad	Gabriel García Márquez	 Colombia	
+	1977	Terra Nostra	Carlos Fuentes	 México	
+	1982	Palinuro de México	Fernando del Paso	 México	
+	1987	Los perros del paraíso	Abel Posse	 Argentina	
+	1989	La casa de las dos palmas	Manuel Mejía Vallejo	 Colombia	
+	1991	La visita en el tiempo	Arturo Úslar Pietri	 Venezuela	
+	1993	Santo oficio de la memoria	Mempo Giardinelli	 Argentina	
+	1995	Mañana en la batalla piensa en mí	Javier Marías	 España	
+	1997	Mal de amores	Ángeles Mastretta	 México	
+	1999	Los detectives salvajes	Roberto Bolaño	 Chile	
+	2001	El viaje vertical	Enrique Vila-Matas	 España	
+	2003	El desbarrancadero	Fernando Vallejo	 Colombia	
+	2005	El vano ayer	Isaac Rosa	 España	
+	2007	El tren pasa primero	Elena Poniatowska	 México	
+	2009	El país de la canela	William Ospina	 Colombia	
+	2011	Blanco nocturno	Ricardo Piglia	 Argentina	
+	2013	Simone Eduardo Lalo
+
+#Premio Sor Juana Inés de la Cruz
+url:http://es wikipedia org/wiki/Premio_Sor_Juana_In%C3%A9s_de_la_Cruz
+	1993 - Dulcinea encantada de Angelina Muñiz-Huberman (México)
+	1994 - Nosotras que nos queremos tanto de Marcela Serrano (Chile)
+	1995 - Asalto al paraíso de Tatiana Lobo (Chile)
+	1996 - Busca mi esquela de Elena Garro (México)
+	1996 - El cristo feo de Alicia Yanez Cossio (Ecuador)
+	1997 - Dulce compañía de Laura Restrepo (Colombia)
+	1998 - El amor que me juraste de Silvia Molina (México)
+	1999 - La tierra del fuego de Sylvia Iparraguirre (Argentina)
+	2000 - Declarado desierto
+	2001 - Nadie me verá llorar de Cristina Rivera Garza (México)
+	2002 - Cielo de tambores de Ana Gloria Moya (Argentina)
+	2003 - El rastro de Margo Glantz (México)
+	2004 - Ya no pisa la tierra tu rey de Cristina Sánchez-Andrade (España)
+	2005 - Agosto y fuga de Paloma Villegas (México)
+	2006 - Desde las cenizas de Claudia Amengual (Uruguay)
+	2007 - Yo nunca te prometí la eternidad de Tununa Mercado (Argentina)
+	2008 - El infinito en la palma de la mano de Gioconda Belli (Nicaragua)
+	2009 - La muerte me da de Cristina Rivera Garza (México)
+	2010 - Las grietas de Jara de Claudia Piñeiro (Argentina)
+	2011 - Inés y la alegría de Almudena Grandes (España)
+	2012 - Sangre en el ojo de Lina Meruane (Chile)
+	2013 - Ana García Bergua (Mexico) La bomba de San José
+	2014 - El cielo no existe de Inés Fernandez Moreno (Argentina)
+
+#Premio Juan Rulfo
+url:http://es.wikipedia.org/wiki/Premio_FIL_de_Literatura_en_Lenguas_Romances
+	1991 Nicanor Parra (Chile)
+	1992 Juan José Arreola (México)
+	1993 Eliseo Diego (Cuba)
+	1994 Julio Ramón Ribeyro (Perú)
+	1995 Nélida Piñón (Brasil)
+	1996 Augusto Monterroso (Guatemala)
+	1997 Juan Marsé (España)
+	1998 Olga Orozco (Argentina)
+	1999 Sergio Pitol (México)
+	2000 Juan Gelman (Argentina)
+	2001 Juan García Ponce (México)
+	2002 Cintio Vitier (Cuba)
+	2003 Rubem Fonseca (Brasil)
+	2004 Juan Goytisolo (España)
+	2005 Tomás Segovia (España)
+	Premio FIL de Literatura:
+	2006 Carlos Monsiváis (México)
+	2007 Fernando del Paso (México)
+	Premio FIL de Literatura en Lenguas Romances:
+	2008 António Lobo Antunes (Portugal)
+	2009 Rafael Cadenas (Venezuela)
+	2010 Margo Glantz (México)
+	2011 Fernando Vallejo (Colombia)
+	2012 Alfredo Bryce Echenique (Perú)
+	2013 Yves Bonnefoy (Francia)
+	2014 Claudio Magris (Italia)
+
+#Premio Nac. Poesía España
+url:http://es.wikipedia.org/wiki/Premio_Nacional_de_Poes%C3%ADa_%28Espa%C3%B1a%29
+	1957 - Gabriel Celaya (España, 1911-1991), por De claro en claro 
+	1958 - José Hierro (España, 1922-2002), por Cuanto sé de mí 
+	1959 - Blas de Otero (España, 1916-1979), por Ancia 
+	1960 - José Manuel Caballero Bonald (España, 1928), por Las horas muertas 
+	1961 - José Ángel Valente (España, 1929-2000), por Poemas a Lázaro 
+	1962 - José María Valverde (España, 1926-1996), por Voces para San Mateo 
+	1963 - Vicente Aleixandre (España, 1896-1984), por En un vasto dominio 
+	1964 - María Elvira Lacaci (España, 1928-1997), por Al este de la ciudad 
+	1965 - José Hierro (España, 1922-2002), por Libro de las alucinaciones 
+	1966 - Claudio Rodríguez (España, 1934-1999), por Alianza y condena 
+	1967 - Francisco Brines (España, 1932), por Palabras en la oscuridad 
+	1968 - Carlos Bousoño (España, 1923), por Oda en la ceniza 
+	1969 - Vicente Aleixandre (España, 1896-1984), por Poemas de la consumación 
+	1970 - Luis Rosales (España, 1910-1992), por El contenido del corazón 
+	1971 - Eladio Cabañero (España, 1930-2000), por Poesía 
+	1972 - Salvador Espriu (España, 1913-1985), por Setmana Santa 
+	1973 - Alfonso Canales (España, 1923), por Réquiem andaluz 
+	1974 - Carlos Bousoño (España, 1923), por Las monedas sobre la losa 
+	1975 - Luis Felipe Vivanco (España, 1907-1975), por Los caminos 
+	1976 - Antonio Colinas (España, 1946), por Sepulcro en Tarquinia 
+	1977 - José Manuel Caballero Bonald (España, 1926), por Descrédito del héroe 
+	1978 - Angel García López (España, 1935), por Mester andalucí 
+	1979 - Luis Rosales (España, 1910-1992), por Diario de una resurrección 
+	1980 - José Ángel Valente (España, 1929-2000), por Tres lecciones de tinieblas 
+	1981 - Luis Antonio de Villena (España, 1951), por Huir del invierno 
+	1982 - Vicente Núñez (España, 1926-2002), por Ocaso en Poley 
+	1983 - Jaime Siles (España, 1951), por Música de agua 
+	1984 - Andrés Sánchez Robayna (España, 1952), por La roca 
+	1985 - Luis Alberto de Cuenca (España, 1950), por La caja de plata 
+	1986 - Justo Navarro (España, 1953), por Un aviador prevé su muerte 
+	1987 - Miguel d'Ors (España, 1946), por Curso superior de ignorancia 
+	1988 - Francisco Bejarano (España, 1945), por Las tardes 
+	1989 - Javier Salvago (España, 1950), por Volverlo a intentar 
+	1990 - Antonio Carvajal (España, 1945), por Testimonio de invierno 
+	1991 - Abelardo Linares (España, 1952), por Espejos 
+	1992 - José Agustín Goytisolo (España, 1928-1999), por La noche le es propicia 
+	1993 - Andrés Trapiello (España, 1953), por Acaso una verdad 
+	1994 - Antonio Hernández (España, 1943), por Sagrada forma 
+	1995 - Felipe Benítez Reyes (España, 1960), por Vidas improbables 
+	1996 - Diego Jesús Jiménez (España, 1942), por Itinerario para náufragos 
+	1997 - María Victoria Atencia (España, 1931), por Las contemplaciones 
+	1998 - José Hierro (España, 1922-2002), por Cuaderno de Nueva York 
+	1999 - Guillermo Carnero (España, 1947), por Verano inglés 
+	2000 - Antonio Cabrera (España, 1958), por En la estación perpetua 
+	2001 - Carlos Marzal (España, 1961), por Metales pesados 
+	2002 - Vicente Gallego (España, 1963), por Santa deriva 
+	2003 - Luis García Montero (España, 1958), por La intimidad de la serpiente 
+	2004 - Jacobo Cortines (España, 1946), por Consolaciones 
+	2005 - Eloy Sánchez Rosillo (España, 1948), por La certeza 
+	2006 - Julia Uceda (España, 1925), por Zona desconocida 
+	2007 - Chantal Maillard (Bélgica, 1951), por Hilos 
+	2008 - Eduardo García (España, 1965), por La vida nueva
+	2009 - Francisco Ferrer Lerín (España, 1942), por Fámulo
+	2010 - Juana Castro (España, 1945), por Cartas de Enero
+	2011 - Tomás Segovia (España-México, 1927-2011), por Estuario 
+	
+	1924 – Rafael Alberti, por Marinero en tierra
+	1925 – Gerardo Diego, por Versos humanos
+	1927 – Dámaso Alonso, por El viento y el verso
+	1933 – Adriano del Valle, por Mundo sin tranvías
+	1934 – Vicente Aleixandre, por La destrucción o el amor
+	1937 – Antonio Sánchez Barbudo, por Entre dos fuegos
+	1938 – Emilio Prados, por Destino fiel
+	1949 – Leopoldo Panero, por Escrito a cada instante
+	1950 – José María Valverde, por La espera
+	1951 – José García Nieto, por Tregua
+	1951 – Alfonsa de la Torre, por Oratorio de San Bernardino1
+	1952 – Dionisio Ridruejo, por En once años. Poesías completas de juventud
+	1953 – Luis Rosales, por Rimas
+	1954 – José Hierro, por Antología
+	1955 – Jorge Campos, por Tiempo Pasado
+	1957 – José García Nieto, por Geografía es amor
+	1959 – Rafael Laffón, por la Rama ingrata
+	1960 – José Luis Prado Nogueira, por Miserere en la tumba de R. N.
+	1962 – Manuel Alcántara, por Ciudad de entonces
+	1963 – Eladio Cabañero, por Marisa Sabia y otros poemas
+	1965 – Alfonso Canales, por Aminadab
+	1966 – Pere Gimferrer, por Arde el mar
+	1967 – Carmen Conde, por Obra poética
+	1968 - Diego Jesús Jiménez, por Coro de ánimas
+	1972 - Manuel Ríos Ruiz, por El Oboe
+	1973 – Ángel García López, por Elegía en Astaroth
+	2ª época del galardón: Premio Nacional de Poesía[editar]
+	1977 – Miguel Fernández, por Eros y Anteros
+	1978 – Félix Grande, por Las rubáiyatas de Horacio Martín
+	1979 – Leopoldo de Luis, por Igual que guantes grises
+	1980 – Carlos Sahagún, por Primer y último oficio
+	1981 – Vicente Gaos, por Última Thule
+	1982 – Antonio Colinas, por Poesía, 1967–1981
+	1983 – Claudio Rodríguez, por Desde mis poemas
+	1984 – No se otorgó en esta edición
+	1985 – Joan Vinyoli, por Passeig d'aniversari
+	1986 – No se otorgó en esta modalidad
+	1987 – Francisco Brines, por El otoño de las rosas
+	1988 – Antonio Gamoneda, por Edad
+	1989 – Pere Gimferrer, por El vendaval
+	1990 – Carlos Bousoño, por Metáfora del desafuero
+	1991 – Luis Álvarez Piñer, por En resumen, 1927–1988
+	1992 – Basilio Fernández López, por Poemas 1927–1987
+	1993 – José Ángel Valente, por No amanece el cantor
+	1994 – Rafael Guillén, por Los estados transparentes
+	1995 – Luis García Montero, por Habitaciones separadas
+	1996 – Felipe Benítez Reyes, por Vidas improbables
+	1997 – Diego Jesús Jiménez, por Itinerario para náufragos
+	1998 – José Antonio Muñoz Rojas, por Objetos perdidos
+	1999 – José Hierro, por Cuaderno de Nueva York
+	2000 – Guillermo Carnero, por Verano inglés
+	2001 – José Ángel Valente, por Fragmentos de un libro futuro
+	2002 – Carlos Marzal, por Metales pesados
+	2003 – Julia Uceda, por En el viento, hacia el mar
+	2004 – Chantal Maillard, por Matar a Platón
+	2005 – José Corredor-Matheos, por El don de la ignorancia
+	2006 – José Manuel Caballero Bonald, por Manual de infractores
+	2007 – Olvido García Valdés, por Y todos estábamos vivos
+	2008 – Joan Margarit, por Casa de Misericordia2
+	2009 – Juan Carlos Mestre, por La casa roja3
+	2010 – José María Millares, por Cuadernos, 2000-2009
+	2011 – Francisca Aguirre, por Historia de una anatomía
+	2012 – Antonio Carvajal, por Un girasol flotante
+	2013 – Manuel Álvarez Torneiro, por Os ángulos da brasa (escrito en gallego)
+	2014 - Antonio Hernández Ramírez por Nueva York antes de muerto 4	
+
+#Premio Crítica España
+url:http://es.wikipedia.org/wiki/Premio_de_la_Cr%C3%ADtica_de_narrativa_castellana
+	1956 - Camilo José Cela (España, 1916-2002), por La catira 
+	1957 - Rafael Sánchez Ferlosio (España, 1927), por El Jarama 
+	1958 - Ignacio Aldecoa (España, 1925-1969), por Gran Sol 
+	1959 - Ana María Matute (España, 1926), por Los hijos muertos La obra también obtuvo el Premio Nacional de Narrativa 
+	1960 - Álvaro Cunqueiro (España, 1912-1981), por Las crónicas de Sochantre 
+	1961 - Elena Quiroga (España, 1921-1995), por Tristura 
+	1962 - Ramiro Pinilla (1º) (España, 1923), por Las ciegas hormigas 
+	1963 - Miguel Delibes (España, 1920-2010), por Las ratas 
+	1964 - Mario Vargas Llosa (1º) (Perú, 1936), por La ciudad y los perros 
+	1965 - Alejandro Núñez Alonso (España, 1905-1982), por Gloria en subasta 
+	1966 - Ignacio Agustí (España, 1913-1974), por 19 de julio La obra también obtuvo el Premio Nacional de Narrativa 
+	1967 - Mario Vargas Llosa (2º) (Perú, 1936), por La casa verde 
+	1968 - Luis Berenguer (España, 1924-1979), por El mundo de Juan Lobón 
+	1969 - Francisco García Pavón (España, 1919-1989), por El rapto de las Sabinas 
+	1970 - Jesús Fernández Santos (España, 1926-1988), por El hombre de los santos 
+	1971 - Alfonso Grosso (España, 1928-1995), por Guarnición de silla 
+	1972 - Francisco Ayala (España, 1906-2009), por El jardín de las delicias 
+	1973 - Gonzalo Torrente Ballester (España, 1910-1999), por La saga/fuga de J B 
+	1974 - Corpus Barga (España, 1887-1975), por Los galgos verdugos 
+	1975 - José Manuel Caballero Bonald (España, 1928), por Ágata ojo de gato 
+	1976 - Eduardo Mendoza (España, 1943), por La verdad sobre el caso Savolta 
+	1977 - No se concedió por regularización de fechas 
+	1978 - José Donoso (Chile, 1924-1996), por Casa de campo 
+	1979 - Juan Carlos Onetti (Uruguay, 1909-1994), por Dejemos hablar al viento 
+	1980 - Pedro Vergés (República Dominicana, 1945), por Sólo cenizas hallarás 
+	1981 - José María Guelbenzu (España, 1944), por El río de la luna 
+	1982 - Juan García Hortelano (España, 1928-1992), por Gramática parda 
+	1983 - Juan Benet (España, 1927-1993), por Herrumbrosas lanzas 
+	1984 - Luis Goytisolo (España, 1935), por Estela del fuego que se aleja 
+	1985 - José María Merino (España, 1941), por La orilla oscura 
+	1986 - Luis Mateo Díez (1º) (España, 1942), por La fuente de la edad La obra también obtuvo el Premio Nacional de Narrativa 
+	1987 - Antonio Muñoz Molina (España, 1956), por El invierno en Lisboa La obra también obtuvo el Premio Nacional de Narrativa 
+	1988 - José Jiménez Lozano (España, 1930), por El grano de maíz rojo 
+	1989 - Luis Landero (España, 1948), por Juegos de la edad tardía La obra también obtuvo el Premio Nacional de Narrativa 
+	1990 - Álvaro Pombo (España, 1939), por El metro de platino iridiado 
+	1991 - Francisco Umbral (España, 1935-2007), por Leyenda del César Visionario 
+	1992 - Javier Marías (España, 1951), por Corazón tan blanco 
+	1993 - Juan Marsé (1º) (España, 1933), por El embrujo de Shanghai 
+	1994 - Manuel Vázquez Montalbán (España, 1939-2003), por El estrangulador 
+	1995 - Luciano G Egido (España, 1928), por El corazón inmóvil 
+	1996 - Antonio Soler (España, 1956), por Las bailarinas muertas 
+	1997 - Miguel Sánchez-Ostiz (España, 1950), por No existe tal lugar 
+	1998 - Isaac Montero (España, 1936-2008), por Ladrón de lunas 
+	1999 - Luis Mateo Díez (2º) (España, 1942), por La ruina del cielo La obra también obtuvo el Premio Nacional de Narrativa 
+	2000 - Juan Marsé (2º) (España, 1933), por Rabos de lagartija La obra también obtuvo el Premio Nacional de Narrativa 
+	2001 - Manuel Longares (España, 1943), por Romanticismo 
+	2002 - Enrique Vila-Matas (España, 1948), por El mal de Montano 
+	2003 - Juan Eduardo Zúñiga (España, 1929), por Capital de la gloria 
+	2004 - Alberto Méndez (España, 1941-2004), por Los girasoles ciegos La obra también obtuvo el Premio Nacional de Narrativa 
+	2005 - Ramiro Pinilla (2º) (España, 1923), por Verdes valles, colinas rojas, parte III Las cenizas del hierro La obra también obtuvo el Premio Nacional de Narrativa 
+	2006 - Eduardo Lago (España, 1954), por Llámame Brooklyn 
+	2007 - Rafael Chirbes (España, 1949), por Crematorio 
+	2008 - David Trueba (España, 1969), por Saber perder
+	2009 - Andrés Neuman (Argentina, 1977), por El viajero del siglo
+	2010 - Ricardo Piglia (Argentina, 1941), por Blanco nocturno 
+	2011 - Ignacio Martínez de Pisón (España, 1960), por El día de mañana 
+	2012 - Clara Usón (España, 1961), por La hija del Este
+	2013 - Rafael Chirbes (2º) (España, 1949), por En la orilla (La obra también obtuvo el Premio Nacional de Narrativa)
+
+#Premio Minotauro
+url:http://es.wikipedia.org/wiki/Premio_Minotauro
+	2004 Máscaras de matar de León Arsenal
+	2005 Los sicarios del cielo, de Rodolfo Martínez
+	2006 Señores del Olimpo, de Javier Negrete
+	2007 Gothika, de Clara Tahoces
+	2008 El libro de Nobac, de Federico Fernández Giordano
+	2009 El Templo de la Luna, de Fernando J López del Oso
+	2010 Crónicas del multiverso, de Víctor Conde
+	2011 Ciudad sin estrellas, de Montse de Paz
+	2012 La torre prohibida, de Ángel Gutiérrez y David Zurdo
+	2013 Panteón, de Carlos Sisí
+
+#Finalista Premio Minotauro
+	Mystes, de Víctor Conde 
+	Fábulas invernales, de Max Shreck (seudónimo) 
+	Crónica de Tierra 2, de J Vic (seudónimo) 
+	En tierra cruenta, de Wladimir Kalt (seudónimo) 
+	El teatro secreto, de Víctor Conde 
+	El juego del tiempo, de Sergio Gaut vel Hartman 
+	Trescientas holandesas, de Jorge Sabaté Martí 
+	Danza de tinieblas, de Eduardo Vaquerizo 
+	Los inmortales no escuchan música, de Alberto de la Rocha Muñoz 
+	Las sendas púrpura de Asdrubaldos (seudónimo) 
+	Sombras de una vieja raza', de Alejandro Guardiola Refoyo 
+	Juglar de Rafael Marín 
+	Crónica de Nerdhos, de Leonardo Ropero Serrano 
+	La Máscara transparente, de Daédor(seudónimo) 
+	Magos: La esencia y el dragón, de Lobsang Federico Camacho 
+	Noches de suburbio, de Víctor Blanco Díaz 
+	Ángeles de titanio, de Klaus Gordonkraff (seudónimo) 
+	Aquamarine, de Vera Parkhutik 
+	Rey Sátiro, de Antonio Domínguez Leiva 
+	Switch in the Red, de Anónima de las 9:59 (seudónimo) 
+	En la ciudad oscura, de Ángel Towers 
+	El desafío de Jorge Merelo Camarero 
+	Las graves planicies, de Antonio Santos 
+	¡Por San Jorge!, de Nicanor Quintín Buenaventura (seudónimo) 
+	Bionómicon, de Rodolfo Skujins 
+	Con otros ojos, de Fabián Plaza 
+	El faro, de Hugo Stuven 
+	Tierra de nada, de Miguel Palacios 
+	La isla cribada, de George Gordon Noel (seudónimo) 
+	La última sombra, de Agustín Lozano de la Cruz 
+	Los propios rusos, de Nikolái Kardashov (seudónimo) 
+	Llamada en la noche de Francisco Fernández Corredor (seudónimo) 
+	Hacker sapiens, de Hawthorne Abdensen(seudónimo) 
+	Los mártires de Olly, de María Bayón 
+	Los seres infinitos, de Sergio Irigoyen 
+	Nekromanteia, de Daniel P Espinosa 
+	Volverás a Toledo, de Alfonso X (seudónimo) 
+	Thot, de Javier Couto 
+	El club de los cinco minutos, de Andrés Moutas 
+	El bosque del dios lobo, de Mayte Navales 
+
+#Premio Pulitzer Ficción
+url:http://es.wikipedia.org/wiki/Premio_Pulitzer
+ 1918 Ernest Poole (His Family)
+ 1919 Booth Tarkington (The Magnificent Ambersons)
+ 1921 Edith Wharton (La edad de la inocencia)
+ 1922 Booth Tarkington (Alice Adams)
+ 1923 Willa Cather (One of Ours)
+ 1924 Margaret Wilson (The Able McLaughlins)
+ 1925 Edna Ferber (So Big)
+ 1926 Sinclair Lewis (El doctor Arrowsmith)
+ 1927 Louis Bromfield (Early Autumn)
+ 1928 Thornton Wilder (El puente de San Luis Rey)
+ 1929 Julia Peterkin (Scarlet Sister Mary)
+ 1930 Oliver La Farge (Laughing Boy)
+ 1931 Margaret Ayer Barnes (Years of Grace)
+ 1932 Pearl S Buck (La buena tierra)
+ 1933 Thomas Sigismund Stribling (The Store)
+ 1934 Caroline Miller (Lamb in His Bosom)
+ 1935 Josephine Winslow Johnson (Now in November)
+ 1936 Harold L Davis (Honey in the Horn)
+ 1937 Margaret Mitchell (Lo que el viento se llevó)
+ 1938 John Phillips Marquand (The Late George Apley)
+ 1939 Marjorie Kinnan Rawlings (The Yearling)
+ 1940 John Steinbeck (Las uvas de la ira)
+ 1942 Ellen Glasgow (In This Our Life)
+ 1943 Upton Sinclair (Los dientes del dragón)
+ 1944 Martin Flavin (Journey in the Dark)
+ 1945 John Hersey (A Bell for Adano)
+ 1947 Robert Penn Warren (All the King's Men)
+ 1948 James A Michener (Tales of the South Pacific)
+ 1949 James Gould Cozzens (Guard of Honor)
+ 1950 Alfred Bertram Guthrie, Jr (The Way West)
+ 1951 Conrad Richter (The Town)
+ 1952 Herman Wouk (The Caine Mutiny)
+ 1953 Ernest Hemingway (El viejo y el mar)
+ 1955 William Faulkner (Una fábula)
+ 1956 MacKinlay Kantor (Andersonville)
+ 1958 James Agee (Una muerte en la familia)
+ 1959 Robert Lewis Taylor (The Travels of Jaimie McPheeters)
+ 1960 Allen Drury (Advise and Consent)
+ 1961 Harper Lee (Matar un ruiseñor)
+ 1962 Edwin O'Connor (The Edge of Sadness)
+ 1963 William Faulkner (Los rateros)
+ 1965 Shirley Ann Grau (The Keepers of the House)
+ 1966 Katherine Anne Porter (The Collected Stories of Katherine Anne Porter)
+ 1967 Bernard Malamud (El reparador)
+ 1968 William Styron (Las confesiones de Nat Turner)
+ 1969 Navarre Scott Momaday (House Made of Dawn)
+ 1970 Jean Stafford (Collected Stories)
+ 1972 Wallace Stegner (Angle of Repose)
+ 1973 Eudora Welty (The Optimist's Daughter)
+ 1975 Michael Shaara (The Killer Angels)
+ 1976 Saul Bellow (El legado de Humboldt)
+ 1978 Carl Sagan (Los Dragones del Edén)
+ 1979 John Cheever (Relatos de John Cheever)
+ 1980 Norman Mailer (La canción del verdugo)
+ 1981 John Kennedy Toole (La conjura de los necios)
+ 1982 John Updike (Conejo es rico)
+ 1983 Alice Walker (El color púrpura)
+ 1984 William Kennedy (Ironweed)
+ 1985 Alison Lurie (Foreign Affairs)
+ 1986 Larry McMurtry (Lonesome Dove)
+ 1987 Peter Taylor (A Summons to Memphis)
+ 1988 Toni Morrison (Beloved)
+ 1989 Anne Tyler (Breathing Lessons)
+ 1990 Oscar Hijuelos (The Mambo Kings Play Songs of Love)
+ 1991 John Updike (Conejo descansa)
+ 1992 Jane Smiley (A Thousand Acres)
+ 1993 Robert Olen Butler (A Good Scent from a Strange Mountain)
+ 1994 Edna Annie Proulx (The Shipping News)
+ 1995 Carol Shields (The Stone Diaries)
+ 1996 Richard Ford (Independence Day)
+ 1997 Steven Millhauser (Martin Dressler: The Tale of an American Dreamer)
+ 1998 Philip Roth (American Pastoral)
+ 1999 Michael Cunningham (Las horas)
+ 2000 Jhumpa Lahiri (Interpreter of Maladies)
+ 2001 Michael Chabon (Las asombrosas aventuras de Kavalier y Clay)
+ 2002 Richard Russo (Empire Falls)
+ 2003 Jeffrey Eugenides (Middlesex)
+ 2004 Edward P Jones (The Known World)
+ 2005 Marilynne Robinson (Gilead)
+ 2006 Geraldine Brooks (March)
+ 2007 Cormac McCarthy (La carretera)
+ 2008 Junot Díaz (The Brief Wondrous Life of Oscar Wao) La maravillosa vida breve de Oscar Wao
+ 2009 Elizabeth Strout (Olive Kitteridge)
+ 2010 Paul Harding (Tinkers)
+ 2011 Jennifer Egan (El tiempo es un canalla)
+ 2013 Adam Johnson (writer) The orphan master's son
+ 2014 Donna Tartt (The Goldfinch)
+
+#Premio Pulitzer Poesía
+url:http://es.wikipedia.org/wiki/Premio_Pulitzer
+ 1918 Sara Teasdale (Love Songs)
+ 1919 Carl Sandburg (Corn Huskers)
+ 1919 Margaret Widdemer (Old Road to Paradise)
+ 1922 Edwin Arlington Robinson (Collected Poems)
+ 1923 Edna St Vincent Millay (The Ballad of the Harp-Weaver )
+ 1924 Robert Frost (New Hampshire: A poem With Notes )
+ 1925 Edwin Arlington Robinson (The Man Who Died Twice)
+ 1926 Amy Lowell (What's O'Clock)
+ 1927 Leonora Speyer (Fiddler's Farewell)
+ 1928 Edwin Arlington Robinson (Tristram)
+ 1929 Stephen Vincent Benét (John Brown's Body)
+ 1930 Conrad Aiken (Selected Poems)
+ 1931 Robert Frost (Collected Poems)
+ 1932 George Dillon (The Flowering Stone)
+ 1933 Archibald MacLeish (Conquistador)
+ 1934 Robert Hillyer (Collected Verse)
+ 1935 Audrey Wurdemann (Bright Ambush)
+ 1936 Robert P T Coffin (Strange Holiness)
+ 1937 Robert Frost (A Further Range)
+ 1938 Marya Zaturenska (Cold Morning Sky)
+ 1939 John Gould Fletcher (Selected Poems)
+ 1940 Mark Van Doren (Collected Poems)
+ 1941 Leonard Bacon (Sunderland Capture)
+ 1942 William Rose Benet (The Dust Which Is God)
+ 1943 Robert Frost (A Witness Tree)
+ 1944 Stephen Vincent Benét (Western Star)
+ 1945 Karl Shapiro (V-Letter and Other Poems)
+ 1947 Robert Lowell (El castillo de Lord Weary)
+ 1948 Wystan Hugh Auden (La edad de la ansiedad)
+ 1949 Peter Viereck (Terror and Decorum)
+ 1950 Gwendolyn Brooks (Annie Allen)
+ 1951 Carl Sandburg (Complete Poems)
+ 1952 Marianne Moore (Collected Poems)
+ 1953 Archibald MacLeish (Collected Poems, 1917-1952)
+ 1954 Theodore Roethke (The Waking)
+ 1955 Wallace Stevens (Collected Poems)
+ 1956 Elizabeth Bishop (Poems-North & South)
+ 1957 Richard Wilbur (Things of This World)
+ 1958 Robert Penn Warren (Promises: Poems, 1954-1956)
+ 1959 Stanley Kunitz (Selected Poems, 1928-1958)
+ 1960 William Snodgrass (Heart's Needle)
+ 1961 Phyllis McGinley (Times Three: Selected Verse From Three Decades)
+ 1962 Alan Dugan (Poems)
+ 1963 William Carlos Williams (Pictures From Breughel)
+ 1964 Louis Simpson (At the End of the Open Road)
+ 1965 John Berryman (77 Dream Songs)
+ 1966 Richard Eberhart (Selected Poems)
+ 1967 Anne Sexton (Live or Die)
+ 1968 Anthony Hecht (The Hard Hours)
+ 1969 George Oppen (Of Being Numerous)
+ 1970 Richard Howard (Untitled Subjects)
+ 1971 William S Merwin (The Carrier of Ladders)
+ 1972 James Wright (Collected Poems)
+ 1973 Maxine Winokur Kumin (Up Country)
+ 1974 Robert Lowell (El Delfín)
+ 1975 Gary Snyder (Turtle Island)
+ 1976 John Ashbery (Self-Portrait in a Convex Mirror)
+ 1977 James Merrill (Divine Comedies)
+ 1978 Howard Nemerov (Collected Poems)
+ 1979 Robert Penn Warren (Now and Then: Poems, 1976-1978)
+ 1980 Donald Rodney Justice (Selected Poems)
+ 1981 James Schuyler (The Morning of the Poem)
+ 1982 Sylvia Plath (The Collected Poems)
+ 1983 Galway Kinnell (Selected Poems)
+ 1984 Mary Oliver (American Primitive)
+ 1985 Carolyn Kizer (Yin)
+ 1986 Henry Taylor (The Flying Change)
+ 1987 Rita Dove (Thomas and Beulah)
+ 1988 Lucía Sanus (Partial Accounts: New and Selected Poems)
+ 1989 Richard Wilbur (New and Collected Poems)
+ 1990 Charles Simic (The World Doesn't End)
+ 1991 Mona Van Duyn (Near Changes)
+ 1992 James Tate (Selected Poems)
+ 1993 Louise Glück (The Wild Iris)
+ 1994 Yusef Komunyakaa (Neon Vernacular)
+ 1995 Philip Levine (Simple Truth)
+ 1996 Jorie Graham (The Dream of the Unified Field)
+ 1997 Lisel Mueller (Alive Together: New and Selected Poems)
+ 1998 Charles Wright (Black Zodiac)
+ 1999 Mark Strand (Blizzard of One)
+ 2000 C K Williams (Repair)
+ 2001 Stephen Dunn (Different Hours)
+ 2002 Carl Dennis (Practical Gods)
+ 2003 Paul Muldoon (Moy Sand and Gravel)
+ 2004 Franz Wright (Walking to Martha's Vineyard)
+ 2005 Ted Kooser (Delights & Shadows)
+ 2006 Claudia Emerson (Late Wife)
+ 2008 Robert Hass (Time and Materials)
+ 2008 Philip Schultz (Failure)
+ 2009 Elizabeth Strout (Olive Kitteridge)
+ 2010 Rae Armantrout (Versed)
+ 2011 Kay Ryan (The Best of It: New and Selected Poems)
+ 2012 Tracy K Smith (Life on Mars)
+ 2013 Sharon Olds (Stag's Leap)
+
+#Premio Pulitzer Teatro
+url:http://es.wikipedia.org/wiki/Premio_Pulitzer
+ 1918 Jesse Lynch Williams (Why Marry?)
+ 1920 Eugene O'Neill (Más allá del horizonte)
+ 1921 Zona Gale (Miss Lulu Bett)
+ 1922 Eugene O'Neill (Anna Christie)
+ 1923 Owen Davis (Icebound)
+ 1924 Hatcher Hughes (Hell-Bent Fer Heaven)
+ 1925 Sidney Howard (They Knew What They Wanted)
+ 1926 George Kelly (Craig's Wife)
+ 1927 Paul Green (In Abraham's Bosom)
+ 1928 Eugene O'Neill (Extraño interludio)
+ 1929 Elmer L Rice (Street Scene)
+ 1930 Marc Connelly (The Green Pastures)
+ 1931 Susan Glaspell (Alison's House)
+ 1932 George S Kaufman, Morrie Ryskind e Ira Gershwin (Of Thee I Sing)
+ 1933 Maxwell Anderson (Both Your Houses)
+ 1934 Sidney Kingsley (Men in White)
+ 1935 Z?e Akins (The Old Maid)
+ 1936 Robert E Sherwood (Idiot's Delight)
+ 1937 Moss Hart y George S Kaufman (You Can't Take It With You)
+ 1938 Thornton Wilder (Nuestra ciudad)
+ 1939 Robert E Sherwood (Abe Lincoln in Illinois)
+ 1940 William Saroyan (El momento de tu vida)
+ 1941 Robert E Sherwood (There Shall Be No Night)
+ 1943 Thornton Wilder (La piel de nuestros dientes)
+ 1945 Mary Chase (Harvey)
+ 1946 Russel Crouse y Howard Lindsay (State of the Union)
+ 1948 Tennessee Williams (Un tranvía llamado deseo)
+ 1949 Arthur Miller (La muerte de un viajante)
+ 1950 Richard Rodgers, Oscar Hammerstein II y Joshua Logan (South Pacific)
+ 1952 Joseph Kramm (The Shrike)
+ 1953 William Inge (Picnic)
+ 1954 John Patrick (The Teahouse of the August Moon)
+ 1955 Tennessee Williams (La gata sobre el tejado de zinc)
+ 1956 Frances Goodrich y Albert Hackett (The Diary of Anne Frank)
+ 1957 Eugene O'Neill (Largo viaje de un día hacia la noche)
+ 1958 Ketti Frings (Look Homeward, Angel)
+ 1959 Archibald MacLeish (J B )
+ 1960 George Abbott, Jerome Weidman, Jerry Bock y Sheldon Harnick (Fiorello!)
+ 1961 Tad Mosel (All the Way Home)
+ 1962 Frank Loesser y Abe Burrows (How to Succeed in Business Without )
+ 1965 Frank D Gilroy (The Subject Was Roses)
+ 1967 Edward Albee (Un equilibrio delicado)
+ 1969 Howard Sackler (The Great White Hope)
+ 1970 Charles Gordone (No Place to Be Somebody)
+ 1971 Paul Zindel (Los efectos de los rayos gamma sobre las margaritas)
+ 1973 Jason Miller (That Championship Season)
+ 1975 Edward Albee (Seascape)
+ 1976 Michael Bennett (A Chorus Line)
+ 1977 Michael Cristofer (The Shadow Box)
+ 1978 Donald L Coburn (The Gin Game)
+ 1979 Sam Shepard (Buried Child)
+ 1980 Lanford Wilson (Talley's Folly)
+ 1981 Beth Henley (Crimes of the Heart)
+ 1982 Charles Fuller (A Soldier's Play)
+ 1983 Marsha Norman (Night, Mother)
+ 1984 David Mamet (Glengarry Glen Ross)
+ 1985 George Sondheim, Stephen Sondheim y James Lapine (Sunday in the Park)
+ 1987 August Wilson (Fences)
+ 1988 Alfred Uhry (Driving Miss Daisy)
+ 1989 Wendy Wasserstein (The Heidi Chronicles)
+ 1990 August Wilson (The Piano Lesson)
+ 1991 Neil Simon (Lost in Yonkers)
+ 1992 Robert Schenkkan (The Kentucky Cycle)
+ 1993 Tony Kushner (Angels in America: Millennium Approaches)
+ 1994 Edward Albee (Tres mujeres altas)
+ 1995 Horton Foote (The Young Man from Atlanta)
+ 1996 Jonathan Larson (Rent)
+ 1998 Paula Vogel (How I Learned to Drive)
+ 1999 Margaret Edson (Wit)
+ 2000 Donald Margulies (Dinner with Friends)
+ 2001 David Auburn (Proof)
+ 2002 Suzan-Lori Parks (Topdog/Underdog)
+ 2003 Nilo Cruz (Anna in the Tropics)
+ 2004 Doug Wright (I Am My Own Wife)
+ 2005 John Patrick Shanley (Doubt, a parable)
+ 2007 David Lindsay-Abaire (Rabbit Hole)
+ 2008 Tracy Letts (August: Osage County)
+ 2009 Lynn Nottage (Ruined)
+ 2010 Brian Yorkey y Tom Kitt (Next to Normal)
+ 2011 Bruce Norris (Clybourne Park)
+ 2012 Quiara Alegría Hudes (Water By the Spoonful)
+ 2013 Ayad Akhtar (Disgraced)
+	
+#Premio Hugo mejor novela	
+url:http://es.wikipedia.org/wiki/Anexo:Hugo_a_la_mejor_novela
+	2014	Auxiliar de Justicia	Ancillary Justice	Ann Leckie
+	2013	Redshirts	Redshirts	John Scalzi
+	2012 	Entre Extraños 	Among Others 	Jo Walton
+	2011 	El apagón 	Blackout/All Clear 	Connie Willis
+	2010	Ex-aequo 	La ciudad y la ciudad 	The city & the city 	China Miéville
+	2010	La chica mecánica 	The windup girl 	Paolo Bacigalupi
+	2009 	El libro del cementerio 	The graveyard book 	Neil Gaiman
+	2008 	El sindicato de policía yiddish 	The Yiddish Policemen’s Union 	Michael Chabon
+	2007 	Al final del arco iris 	Rainbows End 	Vernor Vinge
+	2006 	Spin 	Spin 	Robert Charles Wilson
+	2005 	Jonathan Strange y el señor Norrell 	Jonathan Strange & Mr Norrell 	Susanna Clarke
+	2004 	Paladín de almas 	Paladin of Souls 	Lois McMaster Bujold
+	2003 	Homínidos 	Hominids 	Robert J Sawyer
+	2002 	American Gods 	American Gods 	Neil Gaiman
+	2001 	Harry Potter y el cáliz de fuego 	Harry Potter and the Goblet of Fire 	J K Rowling
+	2000 	Un abismo en el cielo 	A Deepness in the Sky 	Vernor Vinge
+	1999 	Por no mencionar al perro 	To Say Nothing of the Dog 	Connie Willis
+	1998 	Paz interminable 	Forever Peace 	Joe Haldeman
+	1997 	Marte azul 	Blue Mars 	Kim Stanley Robinson
+	1996 	La era del diamante 	The Diamond Age 	Neal Stephenson
+	1995 	Danza de espejos 	Mirror Dance 	Lois McMaster Bujold
+	1994 	Marte verde 	Green Mars 	Kim Stanley Robinson
+	1993 	Ex-aequo 	Un fuego sobre el abismo 	A Fire Upon the Deep 	Vernor Vinge
+	1993 	El libro del día del juicio final 	Doomsday Book 	Connie Willis
+	1992 	Barrayar 	Barrayar 	Lois McMaster Bujold
+	1991 	El juego de los Vor 	The Vor Game 	Lois McMaster Bujold
+	1990 	Hyperion 	Hyperion 	Dan Simmons
+	1989 	Cyteen 	Cyteen 	C J Cherryh
+	1988 	La rebelión de los pupilos 	The Uplift War 	David Brin
+	1987 	La voz de los muertos 	Speaker for the Dead 	Orson Scott Card
+	1986 	El juego de Ender 	Ender's Game 	Orson Scott Card
+	1985 	Neuromante 	Neuromancer 	William Gibson
+	1984 	Marea estelar 	Startide Rising 	David Brin
+	1983 	Los límites de la Fundación 	Foundation's Edge 	Isaac Asimov
+	1982 	La estación Downbelow 	Downbelow Station 	C J Cherryh
+	1981 	La reina de la nieve 	The Snow Queen 	Joan D Vinge
+	1980 	Fuentes del paraíso 	The Fountains of Paradise 	Arthur C Clarke
+	1979 	Serpiente del sueño 	Dreamsnake 	Vonda McIntyre
+	1978 	Pórtico 	Gateway 	Frederik Pohl
+	1977 	Donde solían cantar los dulces pájaros Kate Wilhelm
+	1977 	Nueva traducción bajo el título: La estación del crepúsculo (2009) Where Late the Sweet Birds Sang 	Kate Wilhelm
+	1976 	La guerra interminable 	The Forever War 	Joe Haldeman
+	1975 	Los desposeídos 	The Dispossessed 	Ursula K Le Guin
+	1974 	Cita con Rama 	Rendezvous with Rama 	Arthur C Clarke
+	1973 	Los propios dioses 	The Gods Themselves 	Isaac Asimov
+	1972 	A vuestros cuerpos dispersos 	To your scattered bodies go 	Phillip José Farmer
+	1971 	Mundo Anillo 	Ringworld 	Larry Niven
+	1970 	La mano izquierda de la oscuridad 	The Left Hand of Darkness 	Ursula K Le Guin
+	1969 	Todos sobre Zanzíbar 	Stand on Zanzibar 	John Brunner
+	1968 	El señor de la Luz 	Lord of Light 	Roger Zelazny
+	1967 	La luna es una cruel amante 	The Moon is a Harsh Mistress 	Robert A Heinlein
+	1966 	Ex-aequo 	Tú, el inmortal 	 And Call Me Conrad 	Roger Zelazny
+	1966 	Dune 	Frank Herbert
+	1965 	El planeta errante 	The Wanderer 	Fritz Leiber
+	1964 	Estación de tránsito 	Way Station 	Clifford D Simak
+	1963 	El hombre en el castillo 	The Man in the High Castle 	Philip K Dick
+	1962 	Forastero en tierra extraña 	Stranger in a Strange Land 	Robert A Heinlein
+	1961 	Cántico por Leibowitz 	A Canticle for Leibowitz 	Walter M Miller
+	1960 	Tropas del espacio 	Starship Troopers 	Robert A Heinlein
+	1959 	Un caso de conciencia 	A Case of Conscience 	James Blish
+	1958 	El gran tiempo 	The Big Time 	Fritz Leiber
+	1957 	Este año no se ofreció el premio a la categoría de novela
+	1956 	Estrella doble 	Double Star 	Robert A Heinlein
+	1955 	La máquina de la eternidad 	They'd Rather Be Right 	Mark Clifton & Frank Riley
+	1954 	Véase premios retrospectivos
+	1953 	El hombre demolido 	The Demolished Man 	Alfred Bester
+	
+	Premios retrospectivos
+	 1954 - Retro año 2004: Fahrenheit 451 (Fahrenheit 451), Ray Bradbury
+	 1951 - Retro año 2001: El granjero de las estrellas (Farmer in the Sky), Robert A Heinlein
+	 1946 - Retro año 1996: El Mulo (The Mule), Isaac Asimov 	
+
+#Premio Hugo mejor novela corta
+url:http://es.wikipedia.org/wiki/Anexo:Hugo_a_la_mejor_novela_corta
+ 2012 - The Man Who Bridged the Mist, Kij Johnson
+ 2011 - The Lifecycle of Software Objects, Ted Chiang
+ 2010 - Palimpsest, Charles Stross
+ 2009 - The Erdmann Nexus, Nancy Kress
+ 2008 - All Seated on the Ground, Connie Willis
+ 2007 - A Billion Eves, Robert Reed
+ 2006 - Infiltrado (Inside Job), Connie Willis
+ 2005 - The Concrete Jungle, Charles Stross
+ 2004 - El monstruo de las galletas (The Cookie Monster), Vernor Vinge
+ 2003 - Coraline (Coraline), Neil Gaiman
+ 2002 - Acelerados en el Instituto Fairmont (Fast Times at Fairmont High), Vernor Vinge
+ 2001 - Terraformar la Tierra (The Ultimate Earth), Jack Williamson
+ 2000 - The Winds of Marble Arch, Connie Willis
+ 1999 - Oceánico (Oceanic), Greg Egan
+ 1998 - Where Angels Fear to Tread, Allen Steele
+ 1997 - Sangre de dragón (Blood of the Dragon), George R R Martin
+ 1996 - The Death of Captain Future, Allen Steele
+ 1995 - Siete vistas de la garganta Olduvai (Seven Views of Olduvai Gorge), Mike Resnick
+ 1994 - En las tierras del fondo (Down in the Bottomlands), Harry Turtledove
+ 1993 - Bill Percebe, el espacial (Barnacle Bill the Spacer), Lucius Shepard
+ 1992 - Mendigos en España (Beggars in Spain), Nancy Kress
+ 1991 - El engaño Hemingway (The Hemingway Hoax), Joe Haldeman
+ 1990 - Las montañas de la aflicción (The Mountains of Mourning), Lois McMaster Bujold
+ 1989 - El último de los Winnebago (The Last of the Winnebagos), Connie Willis
+ 1988 - Ojo por ojo (Eye for Eye), Orson Scott Card
+ 1987 - Gilgamesh in the Outback, Robert Silverberg
+ 1986 - 24 vistas del monte Fuji, por Hokusai (24 Views of Mt Fuji, by Hokusai), Roger Zelazny
+ 1985 - Pulse Enter (PRESS ENTER[]), John Varley
+ 1984 - Cascade Point, Timothy Zahn
+ 1983 - Almas (Souls), Joanna Russ
+ 1982 - El juego de Saturno (The Saturn Game), Poul Anderson
+ 1981 - El dorsai perdido (Lost Dorsai), Gordon R Dickson
+ 1980 - Enemigo mío (Enemy Mine), Barry B Longyear
+ 1979 - La persistencia de la visión (The Persistence of Vision), John Varley
+ 1978 - Danza estelar (Stardance), Spider Robinson & Jeanne Robinson
+ 1977 - (ex aequo) Houston, Houston, ¿me recibe? (Houston, Houston, Do You Read?), James Tiptree Jr
+ 1977 - (ex aequo) Por cualquier otro nombre (By Any Other Name), Spider Robinson
+ 1976 - El regreso del verdugo (Home Is the Hangman), Roger Zelazny
+ 1975 - Una canción para Lya (A Song for Lya), George R R Martin
+ 1974 - La muchacha que estaba conectada (The Girl Who Was Plugged In), James Tiptree Jr
+ 1973 - El nombre del mundo es Bosque (The Word for World is Forest), Ursula K Le Guin
+ 1972 - La reina del aire y la oscuridad (The Queen of Air and Darkness), Poul Anderson
+ 1971 - Aciago encuentro en Lankhmar (Ill Met in Lankhmar), Fritz Leiber
+ 1970 - Nave de sombras (Ship of Shadows), Fritz Leiber
+ 1969 - Alas nocturnas (Nightwings), Robert Silverberg
+ 1968 - (ex aequo) Jinetes del salario púrpura (Riders of the Purple Wage), Philip José Farmer
+	1968 - (ex aequo) El vuelo del dragón (Weyr Search), Anne McCaffrey
+ 1967 - El último castillo (The Last Castle), Jack Vance
+Premios retrospectivos
+Otorgados cincuenta años después de la publicación de los libros:
+ 1954 (otorgado en 2004) - Un caso de conciencia ("A Case of Conscience"), James Blish
+ 1951 (otorgado en 2001) - El hombre que vendió la luna ("The Man Who Sold the Moon"), Robert A Heinlein
+ 1946 (otorgado en 1996) - Rebelión en la granja ("Animal Farm"), George Orwell 
+	
+#Premio Hugo mejor relato
+url:http://es.wikipedia.org/wiki/Anexo:Hugo_al_mejor_relato
+ 2012 - Six Months, Three Days, Charlie Jane Anders
+ 2011 - The Emperor of Mars, Allen M Steele
+ 2010 - The Island, Petter Watts
+ 2009 - Shoggoths in bloom, Elizabeth Bear
+ 2008 - The Merchant and the Alchemist's Gate, Ted Chiang
+ 2007 - The Djinn's Wife, Ian McDonald
+ 2006 - Two hearts, Peter S Beagle
+ 2005 - The Faery Handbag, Kelly Link
+ 2004 - Legions in Time, Michael Swanwick
+ 2003 - Slow Life, Michael Swanwick
+ 2002 - El infierno es la ausencia de Dios Hell Is the Absence of God, Ted Chiang
+ 2001 - Millennium Babies, Kristine Kathryn Rusch
+ 2000 - 1016 to 1, James Patrick Kelly
+ 1999 - Taklamakan, Bruce Sterling
+ 1998 - We Will Drink a Fish Together , Bill Johnson
+ 1997 - Bicycle Repairman, Bruce Sterling
+ 1996 - Think Like a Dinosaur, James Patrick Kelly
+ 1995 - The Martian Child, David Gerrold
+ 1994 - Georgia on My Mind, Charles Sheffield
+ 1993 - The Nutcracker Coup, Janet Kagan
+ 1992 - Gold, Isaac Asimov
+ 1991 - The Manamouki, Mike Resnick
+ 1990 - Enter a Soldier Later: Enter Another, Robert Silverberg
+ 1989 - Schrödinger's Kitten, George Alec Effinger
+ 1988 - Buffalo Gals, Won't You Come Out Tonight, Ursula K Le Guin
+ 1987 - Permafrost, Roger Zelazny
+ 1986 - Paladin of the Lost Hour, Harlan Ellison
+ 1985 - Bloodchild, Octavia E Butler
+ 1984 - Música en la sangre (Blood Music), Greg Bear)
+ 1983 - Fire Watch, Connie Willis
+ 1982 - Unicorn Variation, Roger Zelazny
+ 1981 - The Cloak and the Staff, Gordon R Dickson
+ 1980 - Los reyes de la arena (Sandkings), George R R Martin
+ 1979 - La luna del cazador (Hunter's Moon), Poul Anderson
+ 1978 - Eyes of Amber, Joan D Vinge
+ 1977 - El hombre bicentenario (The Bicentennial Man), Isaac Asimov
+ 1976 - The Borderland of Sol, Larry Niven
+ 1975 - Adrift Just Off the Islets of Langerhans: Latitude 38° 54' N, Longitude 77° 00' 13" W, Harlan Ellison
+ 1974 - The Deathbird, Harlan Ellison
+ 1973 - Goat Song, Poul Anderson
+ 1969 - The Sharing of Flesh, Poul Anderson
+ 1968 - Gonna Roll the Bones, Fritz Leiber
+ 1967 - The Last Castle, Jack Vance
+ 1959 - The Big Front Yard, Clifford D Simak
+ 1956 - Exploration Team, Murray Leinster
+ 1955 - The Darfsteller, Walter M , Miller Jr
+Premios retrospectivos
+Otorgados cincuenta años después de la publicación de los libros:
+ 1954 (otorgado en 2004) - Earthman, Come Home, James Blish
+ 1951 (otorgado en 2001) - The Little Black Bag, C M Kornbluth
+ 1946 (otorgado en 1996) - First Contact, Murray Leinster 
+
+#Premio Hugo relato corto
+url:http://es.wikipedia.org/wiki/Anexo:Hugo_al_mejor_relato_corto
+ 2012 - The Paper Menagerie, Ken Liu
+ 2011 - For Want of a Nail, Mary Robinette Kowal
+ 2010 - Bridesicle, Will McIntosh
+ 2009 - Exhalation, Ted Chiang
+ 2008 - Tideline, Elizabeth Bear
+ 2007 - Impossible Dreams, Timothy Pratt
+ 2006 - Tk'tk'tk, David D Levine
+ 2005 - Viajes con mis gatos (Travels with My Cats), Mike Resnick
+ 2004 - Estudio en esmeralda (A Study in Emerald), Neil Gaiman
+ 2003 - Caer en Marte (Falling Onto Mars), Geoffrey A Landis
+ 2002 - El perro dijo guau-guau (The Dog Said Bow-Wow), Michael Swanwick
+ 2001 - Different Kinds of Darkness, David Langford
+ 2000 - Scherzo con tiranosaurio (Scherzo with Tyrannosaur), Michael Swanwick
+ 1999 - The Very Pulse of the Machine, Michael Swanwick
+ 1998 - Las cuarenta y tres dinastías de Antares (The 43 Antarean Dynasties), Mike Resnick
+ 1997 - The Soul Selects Her Own Society: Invasion and Repulsion: A Chronological Reinterpretation of Two of Emily Dickinson's Poems: A Wellsian Perspective, Connie Willis
+ 1996 - The Lincoln Train, Maureen F McHugh
+ 1995 - No hay mayor ciego (None So Blind), Joe Haldeman
+ 1994 - Muerte en el Nilo (Death on the Nile), Connie Willis
+ 1993 - Incluso la Reina (Even the Queen), Connie Willis
+ 1992 - Caminata al sol (A Walk in the Sun), Geoffrey A Landis
+ 1991 - Los osos descubren el fuego (Bears Discover Fire), Terry Bisson
+ 1990 - Tetas (Boobs), Suzy McKee Charnas
+ 1989 - Kirinyaga (Kirinyaga), Mike Resnick
+ 1988 - Why I Left Harry's All-Night Hamburgers, Lawrence Watt-Evans
+ 1987 - Tangentes (Tangents), Greg Bear
+ 1986 - La paradoja de Fermi (Fermi and Frost), Frederik Pohl
+ 1985 - The Crystal Spheres, David Brin
+ 1984 - Voces (Speech Sounds), Octavia E Butler
+ 1983 - Melancholy Elephants, Spider Robinson
+ 1982 - El pusher (The Pusher), John Varley
+ 1981 - La gruta de los ciervos danzarines (Grotto of the Dancing Deer), Clifford D Simak
+ 1980 - El camino de la Cruz y el Dragón (The Way of Cross and Dragon), George R R Martin
+ 1979 - Casandra (Cassandra), C J Cherryh
+ 1978 - Jeffty tiene cinco años (Jeffty Is Five), Harlan Ellison
+ 1977 - Tricentenario (Tricentennial), Joe Haldeman
+ 1976 - ¡Coge ese zepelín! (Catch That Zeppelin!), Fritz Leiber
+ 1975 - El hombre del agujero (The Hole Man), Larry Niven
+ 1974 - Los que se alejan de Omelas (The Ones Who Walk Away from Omelas), Ursula K Le Guin
+ 1973 - La reunión (The Meeting), Frederik Pohl y C M Kornbluth Eurema's Dam, R A Lafferty
+ 1972 - Luna inconstante (Inconstant Moon), Larry Niven
+ 1971 - Escultura lenta (Slow Sculpture), Theodore Sturgeon
+ 1970 - El tiempo considerado como una hélice de piedras semipreciosas (Time Considered as a Helix of Semi-Precious Stones), Samuel R Delany
+ 1969 - La bestia que gritaba amor en el corazón del universo (The Beast that Shouted Love at the Heart of the World), Harlan Ellison
+ 1968 - No tengo boca y debo gritar (I Have No Mouth, and I Must Scream), Harlan Ellison
+ 1967 - Estrella de neutrones (Neutron Star), Larry Niven
+ 1966 - ¡Arrepiéntete, Arlequín!, dijo el señor Tic-tac ('Repent, Harlequin!' Said the Ticktockman), Harlan Ellison
+ 1965 - Soldado, no preguntes (Soldier, Ask Not), Gordon R Dickson
+ 1964 - No hay tregua con los reyes (No Truce With Kings), Poul Anderson
+ 1963 - Hombres y dragones (The Dragon Masters), Jack Vance
+ 1962 - Serie Invernáculo (Hothouse series), Brian W Aldiss
+ 1961 - El último viaje (The Longest Voyage), Poul Anderson
+ 1960 - Flores para Algernon (Flowers for Algernon), Daniel Keyes
+ 1959 - Tren infernal (That Hell-Bound Train), Robert Bloch
+ 1958 - Todos los mares llenos de ostras (Or All the Seas with Oysters), Avram Davidson
+ 1956 - La estrella (The Star), Arthur C Clarke
+ 1955 - Artefacto (Allamagoosa), Eric Frank Russell
+Premios retrospectivos
+Otorgados cincuenta años después de la publicación de los libros:
+ 1954 (otorgado en 2004) - Los nueve mil millones de nombres de Dios (The Nine Billion Names of God), de Arthur C Clarke
+ 1951 (otorgado en 2001) - Servir al hombre (To Serve Man), de Damon Knight
+ 1946 (otorgado en 1996) - Uncommon Sense, de Hal Clement 
+	
+#Premio Hugo de no ficción
+url:http://es.wikipedia.org/wiki/Anexo:Hugo_al_mejor_libro_de_no_ficci%C3%B3n
+ 2010 - This is Me, Jack Vance! (Or, More Properly, This is “I”), Jack Vance
+ 2009 - Your Hate Mail Will Be Graded: A Decade of Whatever, 1998-2008, John Scalzi
+ 2008 - Brave New Words: The Oxford Dictionary of Science Fiction, Jeff Prucher
+ 2007 - Alice B Sheldon: la doble vida de James Tiptree, Jr (James Tiptree, Jr : The Double Life of Alice B Sheldon), Julie Phillips
+ 2006 - Storyteller: Writing Lessons and More from 27 Years of the Clarion Writers’ Workshop, Kate Wilhelm
+ 2005 - The Cambridge Companion to Science Fiction, Edward James y Farah Mendleshon (eds )
+ 2004 - The Chesley Awards for Science Fiction and Fantasy Art, John Grant, Elizabeth L Humphrey y Pamela D Scoville (eds )
+ 2003 - Better to Have Loved: The Life of Judith Merril, Judith Merril y Emily Pohl-Weary
+ 2002 - The Art of Chesley Bonestell, Ron Miller y Frederick C Durant III
+ 2001 - Greetings from Earth: The Art of Bob Eggleton, Bob Eggleton y Nigel Suckling
+ 2000 - Science Fiction of the 20th Century, Frank M Robinson
+ 1999 - The Dreams Our Stuff is Made Of, Thomas M Disch
+ 1998 - The Encyclopedia of Fantasy, John Clute y John Grant
+ 1997 - Time & Chance: , L Sprague de Camp
+ 1996 - Science Fiction: The Illustrated Encyclopedia, John Clute
+ 1995 - Memorias: autobiografía (I Asimov: A Memoir), Isaac Asimov
+ 1994 - The Encyclopedia of Science Fiction, John Clute y Peter Nicholls
+ 1993 - A Wealth of Fable, Harry Warner, Jr 
+ 1992 - The World of Charles Addams, Charles Addams
+ 1991 - How to Write Science Fiction and Fantasy, Orson Scott Card
+ 1990 - The World Beyond the Hill, Alexei Panshin y Cory Panshin
+ 1989 - The Motion of Light in Water: Sex and Science Fiction Writing in the East Village, Samuel R Delany
+ 1988 - Michael Whelan’s Works of Wonder, Michael Whelan
+ 1987 - Trillion Year Spree, Brian W Aldiss y David Wingrove
+ 1986 - Science Made Stupid, Tom Weller
+ 1985 - Wonder’s Child: My Life in Science Fiction, Jack Williamson
+ 1984 - The Encyclopedia of Science Fiction and Fantasy through 1968, Vol 3: Miscellaneous, Donal H Tuck
+ 1983 - Isaac Asimov: The Foundations of Science Fiction, James E Gunn
+ 1982 - Danza macabra (Danse Macabre), Stephen King
+ 1981 - Cosmos, Carl Sagan
+ 1980 - The Science Fiction Encyclopedia, Peter Nicholls 	
+	
+#Premio National Book Award Fic. 
+url:http://es.wikipedia.org/wiki/Premio_Nacional_del_Libro
+	1950 	Nelson Algren 	El hombre del brazo de oro
+	1951 	William Faulkner 	The Collected Stories of William Faulkner
+	1952 	James Jones 	De aquí a la eternidad
+	1953 	Ralph Ellison 	El hombre invisible
+	1954 	Saul Bellow 	Las aventuras de Augie March
+	1955 	William Faulkner 	Una fábula
+	1956 	John O'Hara 	Ten North Frederick
+	1957 	Wright Morris 	The Field of Vision
+	1958 	John Cheever 	Crónica de los Wapshot
+	1959 	Bernard Malamud 	El barril mágico
+	1960 	Philip Roth 	Goodbye, Columbus
+	1961 	Conrad Richter 	The Waters of Kronos
+	1962 	Walker Percy 	The Moviegoer
+	1963 	J F Powers 	Morte D'Urban
+	1964 	John Updike 	The Centaur
+	1965 	Saul Bellow 	Herzog
+	1966 	Katherine Anne Porter 	The Collected Stories of Katherine Anne Porter
+	1967 	Bernard Malamud 	El reparador
+	1968 	Thornton Wilder 	The Eighth Day
+	1969 	Jerzy Kosinski 	Steps
+	1970 	Joyce Carol Oates 	them
+	1971 	Saul Bellow 	Mr Sammler's Planet
+	1972 	Flannery O'Connor 	The Complete Stories of Flannery O'Connor
+	1973 	John Barth 	Quimera
+	1973 	John Edward Williams 	Augustus (traducida como El hijo de César)
+	1974 	Thomas Pynchon 	Arco iris de gravedad
+	1974 	Isaac Bashevis Singer 	A Crown of Feathers and Other Stories
+	1975 	Robert Stone 	Dog Soldiers
+	1975 	Thomas Williams 	The Hair of Harold Roux
+	1976 	William Gaddis 	J R
+	1977 	Wallace Stegner 	The Spectator Bird
+	1978 	Mary Lee Settle 	Blood Tie
+	1979 	Tim O'Brien 	Going After Cacciato
+	1980 	William Styron 	La decisión de Sophie
+	1980 	John Irving 	El mundo según Garp
+	1981 	Wright Morris 	Plains Song
+	1981 	John Cheever 	The Stories of John Cheever
+	1982 	John Updike 	Rabbit is Rich
+	1982 	William Maxwell 	So Long, See You Tomorrow
+	1983 	Alice Walker 	El color púrpura
+	1983 	Eudora Welty 	Collected Stories of Eudora Welty
+	1984 	Ellen Gilchrist 	Victory Over Japan: A Book of Stories
+	1985 	Don DeLillo 	Ruido de fondo
+	1986 	E L Doctorow 	World's Fair
+	1987 	Larry Heinemann 	Paco's Story
+	1988 	Pete Dexter 	Paris Trout
+	1989 	John Casey 	Spartina
+	1990 	Charles R Johnson 	Middle Passage
+	1991 	Norman Rush 	Mating
+	1992 	Cormac McCarthy 	Todos los hermosos caballos
+	1993 	E Annie Proulx 	Atando cabos
+	1994 	William Gaddis 	Su pasatiempo favorito
+	1995 	Philip Roth 	El teatro de Sabbath
+	1996 	Andrea Barrett 	Ship Fever and Other Stories
+	1997 	Charles Frazier 	Monte frío
+	1998 	Alice McDermott 	Un hombre con encanto
+	1999 	Ha Jin 	La espera
+	2000 	Susan Sontag 	En América
+	2001 	Jonathan Franzen 	Las correcciones
+	2002 	Julia Glass 	Tres junios
+	2003 	Shirley Hazzard 	El gran incendio
+	2004 	Lily Tuck 	Noticias desde Paraguay
+	2005 	William Vollmann 	Europa Central
+	2006 	Richard Powers 	The Echo Maker
+	2007 	Denis Johnson 	Tree of Smoke
+	2008 	Peter Matthiessen 	Shadow Country
+	2009 	Colum McCann 	Let the Great World Spin (Que el vasto mundo siga girando)
+	2010 	Jaimy Gordon 	Lord of Misrule
+
+#Premio National Book Award No Fic.
+url:http://es.wikipedia.org/wiki/Premio_Nacional_del_Libro
+	1950 	Ralph L Rusk 	Ralph Waldo Emerson
+	1951 	Newton Arvin 	Herman Melville
+	1952 	Rachel Carson 	The Sea Around Us
+	1953 	Bernard A De Voto 	The Course of Empire
+	1954 	Bruce Catton 	A Stillness at Appomattox
+	1955 	Joseph Wood Krutch 	The Measure of Man
+	1956 	Herbert Kubly 	An American in Italy
+	1957 	George F Kennan 	Russia Leaves the War
+	1958 	Catherine Drinker Bowen 	The Lion and the Throne (artículo sobre Edward Coke)
+	1959 	J Christopher Herold 	Mistress to an Age: A Life of Madame de Staël
+	1960 	Richard Ellmann 	James Joyce
+	1961 	William L Shirer 	The Rise and Fall of the Third Reich
+	1962 	Lewis Mumford 	The City in History: Its Origins, its Transformations and its Prospects
+	1963 	Leon Edel 	Henry James Vol II & III
+	1969 	Norman Mailer 	Les armées de la nuit
+	1984 	Robert V Remini 	Andrew Jackson & the Course of American Democracy, 1833-1845
+	1985 	J Anthony Lukas 	Common Ground: A Turbulent Decade in the Lives of Three American Families
+	1986 	Barry Lopez 	Arctic Dreams
+	1987 	Richard Rhodes 	The Making of the Atomic Bomb
+	1988 	Neil Sheehan 	A Bright Shining Lie: John Paul Vann and America in Vietnam
+	1989 	Thomas L Friedman 	From Beirut to Jerusalem
+	1990 	Ron Chernow 	The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance
+	1991 	Orlando Patterson 	Freedom
+	1992 	Paul Monette 	Becoming a Man: Half a Life Story
+	1993 	Gore Vidal 	United States: Essays 1952-1992
+	1994 	Sherwin B Nuland 	How We Die: Reflections on Life's Final Chapter
+	1995 	Tina Rosenberg 	The Haunted Land: Facing Europe's Ghosts After Communism
+	1996 	James P Carroll 	An American Requiem: God, My Father, and the War that Came Between Us
+	1997 	Joseph J Ellis 	American Sphinx: The Character of Thomas Jefferson
+	1998 	Edward Ball 	Slaves in the Family]
+	1999 	John W Dower 	Embracing Defeat: Japan in the Wake of World War II
+	2000 	Nathaniel Philbrick 	In the Heart of the Sea: The Tragedy of the Whaleship Essex
+	2001 	Andrew Solomon 	The Noonday Demon: An Atlas of Depression
+	2002 	Robert A Caro 	Master of the Senate: The Years of Lyndon Johnson
+	2003 	Carlos Eire 	Waiting for Snow in Havana: Confessions of a Cuban Boy
+	2004 	Kevin Boyle 	Arc of Justice: A Saga of Race, Civil Rights, and Murder in the Jazz Age
+	2005 	Joan Didion 	L'année de la pensée magique
+	2006 	Timothy Egan 	The Worst Hard Time: The Untold Story of Those Who Survived the Great American Dust Bowl
+	2007 	Tim Weiner 	Legacy of Ashes: The History of the CIA
+	2009 	T J Stiles 	The First Tycoon
+	2010 	Patti Smith 	Eramos unos niños
+	2011 	Stephen Greenblatt, The Swerve
+	
+#Premio National Book Award Poesía 
+url:http://es.wikipedia.org/wiki/Premio_Nacional_del_Libro
+	1950 		William Carlos Williams 	Paterson: Book III and Selected Poems
+	1951 		Wallace Stevens 	The Auroras of Autumn
+	1952 		Marianne Moore 	Collected Poems
+	1953 		Archibald MacLeish 	Collected Poems, 1917-1952
+	1954 		Conrad Aiken 	Collected Poems
+	1955 		Wallace Stevens 	The Collected Poems of Wallace Stevens
+	1956 		W H Auden 	The Shield of Achilles
+	1957 		Richard Wilbur 	Things of This World
+	1958 		Robert Penn Warren 	Promises: Poems, 1954-1956
+	1959 		Theodore Roethke 	Words for the Wind
+	1960 		Robert Lowell 	Life Studies
+	1961 		Randall Jarrell 	The Woman at the Washington Zoo
+	1962 		Alan Dugan 	Poems
+	1963 		William Stafford 	Traveling Through the Dark
+	1964 		John Crowe Ransom 	Selected Poems
+	1965 		Theodore Roethke 	The Far Field
+	1966 		James Dickey 	Buckdancer's Choice
+	1967 		James Merrill 	Nights and Days
+	1968 		Robert Bly 	The Light Around the Body
+	1969 		John Berryman 	His Toy, His Dream, His Rest
+	1970 		Elizabeth Bishop 	The Complete Poems
+	1971 		Mona Van Duyn 	To See, To Take
+	1972 		Frank O'Hara 	The Collected Works of Frank O'Hara
+	1972 		Howard Moss 	Selected Poems
+	1973 		A R Ammons 	Collected Poems, 1951-1971
+	1974 		Allen Ginsberg 	The Fall of America: Poems of these States, 1965-1971
+	1974 		Adrienne Rich 	Diving into the Wreck: Poems 1971-1972
+	1975 		Marilyn Hacker 	Presentation Piece
+	1976 		John Ashbery 	Self-portrait in a Convex Mirror
+	1977 		Richard Eberhart 	Collected Poems, 1930-1976
+	1978 		Howard Nemerov 	The Collected Poems of Howard Nemerov
+	1979 		James Merrill 	Mirabell: Book of Numbers
+	1980 		Philip Levine 	Ashes: Poems New and Old
+	1981 		Lisel Mueller 	The Need to Hold Still
+	1982 		William Bronk 	Life Supports: New and Collected Poems
+	1983 		Galway Kinnell 	Selected Poems
+	1984 		Charles Wright 	Country Music: Selected Early Poems
+	1991 		Philip Levine 	What Work Is
+	1992 		Mary Oliver 	New & Selected Poems
+	1993 		A R Ammons 	Garbage
+	1994 		James Tate 	A Worshipful Company of Fletchers
+	1995 		Stanley Kunitz 	Passing Through: The Later Poems
+	1996 		Hayden Carruth 	Scrambled Eggs & Whiskey
+	1997 		William Meredith 	Effort at Speech: New & Selected Poems
+	1998 		Gerald Stern 	This Time: New and Selected Poems
+	1999 		Ai 	Vice: New & Selected Poems
+	2000 		Lucille Clifton 	Blessing the Boats: New and Selected Poems 1988-2000
+	2001 		Alan Dugan 	Poems Seven: New and Complete Poetry
+	2002 		Ruth Stone 	In the Next Galaxy
+	2003 		C K Williams 	The Singing
+	2004 		Jean Valentine 	Door in the Mountain: New and Collected Poems, 1965-2003
+	2005 		W S Merwin 	Migration: New & Selected Poems
+	2006 		Nathaniel Mackey 	Splay Anthem
+	2007 		Robert Hass 	Time and Materials: Poems, 1997-2005
+
+#Premio National Book Award Juvenil
+	1996 	Víctor Martínez 	Parrott In the Oven: MiVida
+	1997 	Han Nolan 	Dancing on the Edge
+	1998 	Louis Sachar 	Holes
+	1999 	Kimberly Willis Holt 	When Zachary Beaver Came to Town
+	2000 	Gloria Whelan 	Homeless Bird
+	2001 	Virginia Euwer Wolff 	True Believer
+	2002 	Nancy Farmer 	The House of the Scorpion
+	2003 	Polly Horvath 	The Canning Season
+	2004 	Pete Hautman 	Godless
+	2005 	Jeanne Birdsall 	The Penderwicks: A Summer Tale of Four Sisters, Two Rabbits, and a Very Interesting Boy
+	2006 	Matthew Tobin Anderson 	The Astonishing Life of Octavian Nothing, Traitor to the Nation, Vol I
+	2007 	Sherman Alexie 	The Absolutely True Diary of a Part-Time Indian
+	
+	
+#Retirado por censura
+	Roncagliolo, Santiago - Memorias de una dama
+	El hacedor (de Borges), remake, de Fernández Mallo
+
+#Premio American Book of the Year 
+	Esquivel, Laura	- Como agua para chocolate
+
+#Premio American Booksellers-Ficción para adulto
+	Desde mi cielo - Alice Sebold	
+	 
+#Premio Int. Latino Book Awards
+	Jaime Suchlicki - BREVE HISTORIA DE CUBA 
+
+#Premio Int. Novela Negra Ciudad de Carmona	
+	Guillermo Orsi - Nadie ama a un policía
+	Amir Valle - Largas noches con Flavia
+	José Luis Muñoz - La Frontera Sur
+	Ángel Remis Saucedo - La misma sangre
+	Antonio Lozano - El caso Sankara 
+	César Girón - Caso Cerrado
+
+#Premio Int. de Novela Negra RBA
+	2012 La caja negra (Michael Connelly)
+	2011 Niebla roja (Patricia Cornwell)
+	2010 Alta tensión (Harlan Coben)
+	2009 Si los muertos no resucitan (Philip Kerr)
+	2008 La muerte de Amalia Sacerdote (Andrea Camilleri)
+	2007 Una novela de barrio (Francisco González Ledesma)
+
+#Premio Booker Price
+url:http://es wikipedia org/wiki/Premio_Booker
+	1969: Percy Howard Newby, Something to Answer For
+	1970: Bernice Rubens, The Elected Member
+	1971: V S Naipaul, In a Free State
+	1972: John Berger, G 
+	1973: James Gordon Farrell, The Siege of Krishnapur
+	1974: Nadine Gordimer, The Conservationist
+		Stanley Middleton, Holiday
+	1975: Ruth Prawer Jhabvala, Heat and Dust
+	1976: David Storey, Saville
+	1977: Paul Scott, Staying On
+	1978: Iris Murdoch, The Sea, the Sea
+	1979: Penelope Fitzgerald, Offshore
+	1980: William Golding, Rites of Passage
+	1981: Salman Rushdie, Midnight's Children
+	1982: Thomas Keneally, Schindler's Ark (El arca de Schindler)
+	1983: J M Coetzee, Life & Times of Michael K
+	1984: Anita Brookner, Hotel du Lac
+	1985: Keri Hulme, The Bone People
+	1986: Kingsley Amis, The Old Devils
+	1987: Penelope Lively, Moon Tiger
+	1988: Peter Carey, Oscar and Lucinda
+	1989: Kazuo Ishiguro, The Remains of the Day (Lo que queda del día)
+	1990: A S Byatt, Possession: A Romance (Posesión)
+	1991: Ben Okri, The Famished Road
+	1992: Michael Ondaatje, The English Patient (El paciente inglés)
+		Barry Unsworth, Sacred Hunger
+	1993: Roddy Doyle, Paddy Clarke Ha Ha Ha
+	1994: James Kelman, How Late it Was, How Late
+	1995: Pat Barker, The Ghost Road
+	1996: Graham Swift, Last Orders
+	1997: Arundhati Roy, The God of Small Things (El dios de las pequeñas cosas)
+	1998: Ian McEwan, Amsterdam
+	1999: J M Coetzee, Disgrace (Desgracia)
+	2000: Margaret Atwood, The Blind Assassin (El asesino ciego)
+	2001: Peter Carey, True History of the Kelly Gang
+	2002: Yann Martel, Life of Pi (Vida de Pi)
+	2003: DBC Pierre, Vernon God Little
+	2004: Alan Hollinghurst, The Line of Beauty
+	2005: John Banville, The Sea (El mar)
+	2006: Kiran Desai, The Inheritance of Loss (El legado de la pérdida)
+	2007: Anne Enright, The Gathering
+	2008: Aravind Adiga, El Tigre Blanco
+	2009: Hilary Mantel, Wolf Hall (En la corte del lobo)
+	2010: Howard Jacobson, The Finkler question (La extraordinaria naturaleza de Sam Finkler)
+	2011: Julian Barnes, The Sense of an Ending (El sentido de un final)
+	2012: Hilary Mantel, Bring Up the Bodies
+
+>Premio Booker Price Int.
+ 2013 - Lydia Davis
+ 2011 - Philip Roth
+ 2009 - Alice Munro
+ 2007 - Chinua Achebe
+ 2005 - Ismail Kadare
+ 
+>Nominado Premio Booker Price Int.
+ 2013 
+	U R Ananthamurthy
+	Aharon Appelfeld
+	Intizar Hussain
+	Yan Lianke
+	Marie NDiaye
+	Josip Novakovich
+	Marilynne Robinson
+	Vladímir Sorokin
+	Peter Stamm
+ 2011 
+	Juan Goytisolo
+	James Kelman
+	John Le Carré
+	Amin Maalouf
+	David Malouf
+	Dacia Maraini
+	Rohinton Mistry
+	Philip Pullman
+	Marilynne Robinson
+	Su Tong, Anne Tyler
+	Wang Anyi
+ 2009 
+	Peter Carey
+	Evan S Connell
+	Mahasweta Devi
+	E L Doctorow
+	James Kelman
+	Mario Vargas Llosa
+	Arnošt Lustig
+	V S Naipaul
+	Joyce Carol Oates
+	Antonio Tabucchi
+	Ngugi Wa Thiong’O
+	Dubravka Ugresic
+	Ludmila Ulítskaya
+ 2007 
+	Margaret Atwood
+	Peter Carey
+	Don DeLillo
+	Carlos Fuentes
+	Doris Lessing
+	Ian McEwan
+	Harry Mulisch
+	Alice Munro
+	Michael Ondaatje
+	Philip Roth
+	Salman Rushdie
+	Michel Tournier 
+ 2005 
+	Gabriel García Márquez
+	Günter Grass
+	Ismail Kadare
+	Milan Kundera
+	Stanisław Lem
+	Doris Lessing
+	Ian McEwan
+	Naguib Mahfouz
+	Tomás Eloy Martínez
+	Kenzaburo Oe
+	Philip Roth
+	Antonio Tabucchi
+	John Updike
+	
+#Premio Julián del Casal
+	Padilla, Heberto - Fuera del juego 
+
+#Premio Int. Novela Corta Mario Vargas Llosa
+	Maestra Vida - Pedro Félix Novoa Castillo
+	Amir Valle - Las palabras y los muertos (2006)
+	 
+#Premio David de Ciencia Ficción 
+	1979: Los mundos que amo (cuentos), Daína Chaviano 
+	1980: Espiral (novela), Agustín de Rojas 
+	1981: Beatrice (noveleta), Félix Lizárraga 
+	1982: La nevada (novela), Gabriel Céspedes Borrell 
+	1983: Eilder (novela), Luis Alberto Soto Portuondo 
+	1984: Amor más acá de las estrellas (novela), Rafael Morante 
+	1985:
+	1986: Más allá del sol (cuentos), Eduardo Frank Rodríguez 
+	1987:
+	1988: (compartido) El mago del futuro, María Felicia Vera, y Timshel (cuentos), José Miguel Sánchez Gómez (Yoss)
+	1989:
+	1990: La poza del ángel (cuentos), Gina Picart 
+
+	
+#Spanish Essential Readinglist
+	— 100 Cartas Personales - Juan Sebastián González - Reference
+	— Los 1001 años de la lengua española - Antonio Alatorre - Non fiction
+	— 25 cuentos tradicionales españoles - Edición de José María Guelbenzu - Children / Young Adults
+	— 2666 - Roberto Bolaño - Literature / Fiction
+	— A la deriva y otros cuentos - Horacio Quiroga - Literature / Fiction
+	— A la Tierra le ha salido una gotera - Agatha Echevarría Canales - Children / Young Adults
+	— A quien corresponda - Walter Ventosilla - Literature / Fiction
+	— A una nariz pegado - Juan Kruz Igerabide Sarasola - Children / Young Adults
+	— Abecedario de Arte - Carlos Reviejo Hernández; Ana Moreno Reborditos - Children / Young Adults
+	— Abril Rojo - Santiago Roncagliolo - Literature / Fiction
+	— Adiós Hemingway - Leonardo Padura - Literature / Fiction
+	— Adire y el tiempo roto - Manuel Granados - Literature / Fiction
+	— Ahí viene el lobo gris - Emma Romeu - Non fiction
+	— El Aleph - Jorge Luis Borges - Literature / Fiction
+	— Algunas nubes - Paco Taibo II - Literature / Fiction
+	— El alma del bosque - Manuel López Gallego - Children / Young Adults
+	— El alquimista impaciente - Lorenzo Silva - Literature / Fiction
+	— Altazor o el viaje en paracaídas - Vicente Huidobro - Poetry / Drama
+	— La amada inmóvil - Amado Nervo - Poetry / Drama
+	— La amigdalitis de Tarzán - Alfredo Bryce Echenique - Literature / Fiction
+	— El amor en los tiempos del cólera - Gabriel García Márquez - Literature / Fiction
+	— El amor, las mujeres y la vida - Mario Benedetti - Children / Young Adults
+	— La amortajada - María Luisa Bombal - Literature / Fiction
+	— Animal de fondo - Juan Ramón Jiménez - Poetry / Drama
+	— Animales… son muchos y no son iguales - María Lucía Carvalhas - Children / Young Adults
+	— Antes que anochezca: autobiografía - Reinaldo Arenas - Literature / Fiction
+	— Antología crítica del cine español: 1906-1995 - Julio Pérez Perucha, ed - Reference
+	— Antología de la poesía boliviana: ordenar la danza - Mónica Velásquez Guzmán, ed - Poetry / Drama
+	— Antología del grupo poético de 1927 - Vicente Gaos, ed - Poetry / Drama
+	— Antología personal - Julio Ramón Ribeyro - Literature / Fiction
+	— Antología personal - José Agustín Goytisolo - Poetry / Drama
+	— Antología poética - Federico García Lorca - Poetry / Drama
+	— Antología poética - Josefina Pla - Poetry / Drama
+	— Antología poética - Antonio Machado - Poetry / Drama
+	— Aprendamos Español Diccionario Ilustrado - Marlene Goodman - Children / Young Adults
+	— Aprendices de brujo - Antonio Orlando Rodríguez - Literature / Fiction
+	— La Araucana - Alonso de Ercilla - Non fiction
+	— El árbol de la ciencia - Pío Baroja - Literature / Fiction
+	— El Arca de Valores - Rebeca Orozco - Children / Young Adults
+	— Los Argonautas - Apollonlus of Rhodes; Rafael Ballester Escalas - Children / Young Adults
+	— El argumento de la obra: correspondencia (1951 -1989) - Jaime Gil de Biedma - Non fiction
+	— El arpa imaginaria - Edwin Reyes - Poetry / Drama
+	— Arráncame la vida - Angeles Mastretta - Literature / Fiction
+	— Artículos - Mariano José de Larra - Non fiction
+	— El Asco: Thomas Bernhard en El Salvador - Horacio Castellanos Moya - Literature / Fiction
+	— El Asedio - Arturo Pérez-Reverte - Literature / Fiction
+	— Asesinato en el comité central - Manuel Vázquez Montalbán - Literature / Fiction
+	— El astillero - Juan Carlos Onetti - Literature / Fiction
+	— Atletas de las Tierras Altas - Nacho Docavo Alberti - Children / Young Adults
+	— Au revoir, Marie - Tina Olivares - Children / Young Adults
+	— Las aventuras de Don Quijote - Anna Obiols - Children / Young Adults
+	— Aventuras literarias - Ana C Jarvis, Raquel Lebredo, and Francisco Mena Ayllón - Literature / Fiction
+	— Aves sin nido - Clorinda Matto de Turner - Literature / Fiction
+	— El azul de la tierra - Eugenio Montejo - Poetry / Drama
+	— Azul - Rubén Darío - Poetry / Drama
+	— Azul; España contemporánea; Cantos de vida y esperanza - Rubén Darío - Poetry / Drama
+	— Balas de plata - Elmer Mendoza - Literature / Fiction
+	— Balún Canán - Rosario Castellanos - Literature / Fiction
+	— Barrio de maravillas - Rosa Chacel - Literature / Fiction
+	— Las batallas del desierto - José Emilio Pacheco - Literature / Fiction
+	— Bendíceme, Última - Rudolfo Anaya - Literature / Fiction
+	— El beso de la mujer araña - Manuel Puig - Literature / Fiction
+	— Best of Contemporary Mexican Fiction - Alvaro Uribe y Olivia Sears - Literature / Fiction
+	— Bestiario - Juan José Arreola - Literature / Fiction
+	— La Bien Plantada - Eugeni d’Ors - Non fiction
+	— Biografía de un cimarrón - Miguel Barnet - Non fiction
+	— El blues de la semana más negra - Andreu Martín Farrero - Children / Young Adults
+	— Bodas de sangre - Federico García Lorca - Poetry / Drama
+	— Bolinga - Elvira Lindo - Children / Young Adults
+	— Bomarzo - Manuel Mujica Lainez - Literature / Fiction
+	— Borges profesor: curso de Literatura inglesa en la U B A - Martín Arias - Non fiction
+	— Breve historia de la literatura española - Carlos Alvar, José Carlos Mainer, and Rosa Navarro - Non fiction
+	— Brevísima relación de la destrucción de las Indias - Bartolomé de las Casas - Non fiction
+	— Buenas noches a todos - Sergio Gómez - Literature / Fiction
+	— El burlador de Sevilla - Tirso de Molina - Poetry / Drama
+	— El caballo cobarde - Felipe Benítez Pérez - Children / Young Adults
+	— Caballo de Troya - J J Benítez - Literature / Fiction
+	— Café Hugo - Adolfo García Ortega - Literature / Fiction
+	— Café nostalgia - Zoe Valdés - Literature / Fiction
+	— Caín - José Saramago - Literature / Fiction
+	— La caja negra - Juan Carlos Quintero - Poetry / Drama
+	— Campos de Castilla - Antonio Machado - Poetry / Drama
+	— Campos de Níjar - Juan Goytisolo - Non fiction
+	— Cancionero popular mexicano - Mario Kuri Aldana, and Vicente Mendoza Martínez - Non fiction
+	— Cancionero y romancero de ausencias - Miguel Hernández - Poetry / Drama
+	— Cantar de Mío Cid - Anonymous - Poetry / Drama
+	— Cantigas de Santa María - Alfonso X el Sabio - Poetry / Drama
+	— Canto general - Pablo Neruda - Poetry / Drama
+	— Cantos de vida y esperanza - Rubén Darío - Poetry / Drama
+	— Caramelo: puro cuento - Sandra Cisneros - Literature / Fiction
+	— Carmina, la pingüina que viene de Argentina - Pep Castellano; Canto Nieto - Children / Young Adults
+	— La carne de René - Virgilio Piñera - Literature / Fiction
+	— Cartas de relación (1519-1526) - Hernán Cortés - Non fiction
+	— El cartero de Neruda: ardiente paciencia - Antonio Skármeta - Literature / Fiction
+	— Cartucho: relatos de la lucha en el norte de México - Nellie Campobello - Literature / Fiction
+	— La casa de Bernarda Alba - Federico García Lorca - Poetry / Drama
+	— La casa de la laguna - Rosario Ferré - Literature / Fiction
+	— La casa de los espíritus - Isabel Allende - Literature / Fiction
+	— El castillo interior o las moradas - Santa Teresa de Jesús - Poetry / Drama
+	— La catedral del mar - Ildefonso Falcones - Literature / Fiction
+	— Cayo Canas - Lino Novás Calvo - Literature / Fiction
+	— La Celestina - Fernando de Rojas - Poetry / Drama
+	— Cenizas del querer - Emilia Pereyra - Literature / Fiction
+	— Los centroamericanos: antología de cuentos - José Mejía, ed - Literature / Fiction
+	— La charca - Manuel Zeno Gandía - Literature / Fiction
+	— El chico de oro - Michael Nava - Literature / Fiction
+	— Chiquita - Antonio Orlando Rodríguez - Literature / Fiction
+	— Ciclo mágico de las estaciones - Francisco Alarcón - Poetry / Drama
+	— El cielo a tu alcance - Michèle Mira Pons - Children / Young Adults
+	— Cien años de soledad - Gabriel García Márquez - Literature / Fiction
+	— Cien sonetos de amor - Pablo Neruda - Poetry / Drama
+	— Cinco horas con Mario - Miguel Delibes - Literature / Fiction
+	— Cinco maestros: Cuentos modernos de Hispanoamérica - Alexander Coleman - Literature / Fiction
+	— Cine argentino - Claudio España, ed - Reference
+	— Cine documental en América Latina - Paulo Antonio Paranaguá - Reference
+	— Los cipreses creen en Dios - José María Gironella - Literature / Fiction
+	— La ciudad de los prodigios - Eduardo Mendoza - Literature / Fiction
+	— La ciudad y los perros - Mario Vargas Llosa - Literature / Fiction
+	— El Club Dumas - Arturo Pérez-Reverte - Literature / Fiction
+	— Coco y la Luna - Emilio Urberuaga - Children / Young Adults
+	— La colmena - Camilo José Cela - Literature / Fiction
+	— El color del verano - Reinaldo Arenas - Literature / Fiction
+	— Comentario de la Isagogé de Porfirio - Averroes - Non fiction
+	— Comentarios Reales - Garcilaso de la Vega, Inca - Non fiction
+	— Como agua para chocolate - Laura Esquivel - Literature / Fiction
+	— Cómo leer y escribir poesía - Hugo Hiriart - Non fiction
+	— Con los dedos de una mano - Isidro Ferrer Soria - Children / Young Adults
+	— Condenados de Condado - Norberto Fuentes - Literature / Fiction
+	— Confieso que he vivido - Pablo Neruda - Non fiction
+	— Conspiración Maine - Mario Escobar Golderos - Literature / Fiction
+	— Contrapunto cubano del tabaco y azúcar - Fernando Ortiz - Non fiction
+	— Contrapunto de género y raza en Puerto Rico - Idsa E Alegría Ortega, and Palmira N Ríos, eds - Non fiction
+	— Conversación en la Catedral - Mario Vargas Llosa - Literature / Fiction
+	— Conversación entre escritoras del Caribe Hispano: Tomo II - Daisy Cocco De Filippis, and Sonia Rivera Valdéz, eds - Non fiction
+	— Copérnico - Carlos Blanco - Children / Young Adults
+	— El corazón del tártaro - Rosa Montero - Literature / Fiction
+	— Corazón tan blanco - Javier Marías - Literature / Fiction
+	— Corona de sombra - Rodolfo Usigli - Literature / Fiction
+	— El coronel no tiene quien le escriba - Gabriel García Márquez - Literature / Fiction
+	— Cortos - Alberto Fuguet - Literature / Fiction
+	— Cristo versus Arizona - Camilo José Cela - Literature / Fiction
+	— Crítica y ficción - Ricardo Piglia - Non fiction
+	— Crónica sentimental en rojo - Francisco González Ledesma - Literature / Fiction
+	— La Cruz del Diablo - Carlos Adolfo Bécquer - Children / Young Adults
+	— Cruzando la frontera: la crónica implacable de una familia mexicana que emigra a Estados Unidos - Rubén Martínez - Non fiction
+	— Cuaderno de Nueva York - José Hierro - Poetry / Drama
+	— El cuaderno gris - Josep Pla - Non fiction
+	— Cuadernos de Rusia - Dionisio Ridruejo - Non fiction
+	— Cuando era puertorriqueña - Esmeralda Santiago - Non fiction
+	— El cuarto de atrás - Carmen Martín Gaite - Literature / Fiction
+	— La Cucaracha Martina: un cuento folklórico del Caribe - Daniel Moreton - Children / Young Adults
+	— El cuento hispánico: A graded Literary Anthology - Edward J Mullen, and John E Garganigo - Literature / Fiction
+	— Cuentos completos (1968-2002) - José Agustín - Literature / Fiction
+	— Cuentos completos - Julio Cortázar - Literature / Fiction
+	— Cuentos completos - Silvina Ocampo - Literature / Fiction
+	— Cuentos de Culver City - José Luis Borau - Literature / Fiction
+	— Cuentos de tierra y eucaliptos - Walter Ventosilla - Literature / Fiction
+	— Cuentos del gallo de oro - Juan Pedro Aparicio, Luis Mateo Diez, José María Merino - Literature / Fiction
+	— Cúper, perro volador - Montse Ganges - Children / Young Adults
+	— Curso de redacción Teoría y práctica de la composición y del estilo - Gonzalo Martín Vivaldi - Non fiction
+	— La dama del alba - Alejandro Casona - Literature / Fiction
+	— El dardo en la palabra - Fernando Lázaro Carreter - Non fiction
+	— Los de abajo - Mariano Azuela - Literature / Fiction
+	— De Cristóbal Colón a Fidel Castro El Caribe, frontera imperial - Juan Bosch - Non fiction
+	— El decir y el vértigo: Panorama de la poesía hispanoamericana reciente(1963-1979) - Rocío Cerón, Julián Herbert, and León Plascencia Ñol - Poetry / Drama
+	— Del amor y otros demonios - Gabriel García Márquez - Literature / Fiction
+	— Del lado del amor - Juan Antonio González Iglesias - Poetry / Drama
+	— Del Ombligo de la Luna - Francisco Alarcón; illustrator: Maya Maribel Suárez - Children / Young Adults
+	— Del sentimiento trágico de la vida - Miguel de Unamuno - Non fiction
+	— El delirio de Turing - Edmundo Paz Soldán - Literature / Fiction
+	— Delirio - Laura Restrepo - Literature / Fiction
+	— Los detectives salvajes - Roberto Bolaño - Literature / Fiction
+	— El diario azul de Carlota - Gemma Lienas Massot - Children / Young Adults
+	— Diario de Argónida - José Manuel Caballero Bonald - Poetry / Drama
+	— Días contados - Juan Madrid - Literature / Fiction
+	— Diccionario crítico etimológico castellano e hispánico - Joan Corominas - Reference
+	— Diccionario de autores latinoamericanos - César Aira - Reference
+	— Diccionario de autores puertorriqueños contemporáneos - Victor F Torres - Reference
+	— Diccionario de dudas y dificultades de la lengua española - Manuel Seco - Reference
+	— Diccionario de escritores en lengua castellana: quién es quién hoy en las letras españolas - Twiggy Hirota, ed - Reference
+	— Diccionario de la lengua española - Real Academia Española - Reference
+	— Diccionario de la literatura española e hispanoamericana - Ricardo Gullón, dir - Reference
+	— Diccionario de la música española e hispanoamericana - Emilio Casares Rodicio, dir y coord general, José López Calo, dir , and Ismael Fernández de la Cuesta, dir - Reference
+	— Diccionario del cine español - José Luis Borau, ed - Reference
+	— Diccionario del Quijote: la obra para entender uno de los libros esenciales de la cultura universal - César Vidal - Reference
+	— Diccionario del uso del español - María Moliner - Reference
+	— Diccionario del verbo español, hispanoamericano y dialectal - Jaime Suances Torres - Reference
+	— Diccionario fraseológico documentado del español actual: locuciones y modismos - Manuel Seco - Reference
+	— Diccionario ideológico de la lengua española - Julio Casares - Reference
+	— Diccionario panhispánico de dudas - Real Academia Española - Reference
+	— Discurso del oso - Julio Cortázar - Children / Young Adults
+	— Disparates - Gustavo Roldán - Children / Young Adults
+	— Distinguida Señora - Carmen Imbert Brugal - Literature / Fiction
+	— Doce preguntas a un piano - Juan Cruz Igerabide Sarasola - Children / Young Adults
+	— Don Quijote de la Mancha - Miguel de Cervantes - Literature / Fiction
+	— Doña Bárbara - Rómulo Gallegos - Literature / Fiction
+	— Doña Flautina Resuelvelotodo - Yanitzia Canetti; Avi - Children / Young Adults
+	— Dos crímenes - Jorge Ibargüengoitia - Literature / Fiction
+	— En busca de Klingsor - Jorge Volpi - Literature / Fiction
+	— En busca del unicornio - Juan Eslava Galán - Literature / Fiction
+	— En el nombre de los hombres - Manuel Nonídez García - Children / Young Adults
+	— En el último azul - Carmen Riera - Literature / Fiction
+	— En qué creen los que no creen - Umberto Eco - Poetry / Drama
+	— En tiempos difíciles - Yanitzia Canetti; Romont Willy - Children / Young Adults
+	— Enciclopedia de la novela española - Rafael del Moral - Reference
+	— Enciclopedia Hispánica - Reference
+	— Encyclopedia Latina: History, Culture and Society in the United States - Ilan Stavans, editor in chief, and Harold Augenbraum, associate editor - Reference
+	— Encyclopedia of contemporary Latin American and Caribbean cultures - Daniel Balderston, Mike González, and Ana M López, eds - Reference
+	— Encyclopedia of contemporary Spanish culture - Eamonn Rodgers, ed - Reference
+	— Encyclopedia of Latin American history and culture - Barbara A Tenembaum, and Georgette M Dorn, eds - Reference
+	— Ensayo de un crimen - Rodolfo Usigli - Literature / Fiction
+	— El ensayo hispanoamericano del siglo XX - John Skirius, ed - Non fiction
+	— La enseñanza del gran río - Mercedes Beatriz Wurm - Children / Young Adults
+	— Enseñar a traducir:metodología en la formación de traductores e intérpretes - Amparo Hurtado Albir - Non fiction
+	— El entenado - Juan José Saer - Literature / Fiction
+	— El entierro de Cortijo - Edgardo Rodríguez Juliá - Literature / Fiction
+	— La esclavitud del negro en Santo Domingo - Carlos Esteban Deive - Non fiction
+	— Escrituras de Frida Kahlo - Frida Kahlo - Non fiction
+	— Escucha mis manos - Alvarito Cuevas - Children / Young Adults
+	— Escuela de mandarines - Miguel Espinosa - Literature / Fiction
+	— España en su historia - Américo Castro - Non fiction
+	— Especialidades regionales de la cocina mexicana - Socorro Puig & María Stoopen - Non fiction
+	— El estadio de mármol - Juan Bonilla - Literature / Fiction
+	— Fábulas de una abuela extraterrestre - Daína Chaviano - Literature / Fiction
+	— La familia de Pascual Duarte - Camilo José Cela - Literature / Fiction
+	— Farabeuf - Salvador Elizondo - Literature / Fiction
+	— Federico - Leo Arias - Children / Young Adults
+	— Federico García Lorca - Georgina Lázaro - Children / Young Adults
+	— Federico García Lorca para niños y niñas… y otros seres curiosos - Federico García Lorca - Children / Young Adults
+	— Federico García Lorca - Ian Gibson - Non fiction
+	— Ficciones - Jorge Luis Borges - Literature / Fiction
+	— La fiesta del Chivo - Mario Vargas Llosa - Literature / Fiction
+	— El flamboyán amarillo - Georgina Lázaro - Children / Young Adults
+	— Las flores de nieve y el zorrito - Africa Coll Fernández - Children / Young Adults
+	— La Florida del Inca - Garcilaso de la Vega - Non fiction
+	— La forja de un rebelde - Arturo Barea - Literature / Fiction
+	— Fortunata y Jacinta: dos historias de casadas - Benito Pérez Galdós - Literature / Fiction
+	— Franco, Caudillo de España - Paul Preston - Non fiction
+	— Fuenteovejuna - Lope de Vega - Poetry / Drama
+	— Gabirochi y la isla de la vida - RR Gruerra - Children / Young Adults
+	— Galíndez - Manuel Vázquez Montalbán - Literature / Fiction
+	— Gálvez y el cambio del cambio - Jorge Martínez Reverte - Literature / Fiction
+	— Gasol por Pau Gasol El partido de mi vida - Pau Gasol Sáez; Jesús Sáez; Fernando Carreño Ocaña - Children / Young Adults
+	— Gastronomía saludable - Rafael Ansón & Gregorio Varela - Non fiction
+	— La gata de los pintores - Antonio Orlando Rodríguez - Children / Young Adults
+	— Generación del 27 Poemas - José Antonio García - Children / Young Adults
+	— Los girasoles ciegos - Alberto Méndez - Literature / Fiction
+	— Gracias / Thanks - Pat Mora; illustrator: John Parra - Children / Young Adults
+	— Gramática de la lengua castellana dedicada al uso de los americanos - Andrés Bello - Reference
+	— Gramática descriptiva de la lengua española - Ignacio dir Bosque, and Violeta Demonte, dir - Reference
+	— Gran diccionario Oxford: español-inglés, inglés-español/The Oxford Spanish Dictionary: Spanish-English, English-Spanish - Beatriz Galimberti Jarman, and Roy Russell - Reference
+	— El Gran Guerrero - Pello Añorga - Children / Young Adults
+	— La gran montaña - José Antonio Delgado - Children / Young Adults
+	— Gregorio y el mar - Emma Romeu - Children / Young Adults
+	— La guaracha del Macho Camacho - Luis Rafael Sánchez - Literature / Fiction
+	— La Guía de Salud: Consejos y respuestas para la mujer latina - Jane Delgado - Non fiction
+	— Guzmán de Alfarache - Mateo Alemán - Literature / Fiction
+	— El hablador - Mario Vargas Llosa - Literature / Fiction
+	— El hada Oriana El árbol El espejo - Sophia de Mello Breyner Andresen - Children / Young Adults
+	— Hasta el fin de los cuentos - José María Conget - Literature / Fiction
+	— Hasta no verte, Jesús mío - Elena Poniatowska - Literature / Fiction
+	— Hechos, dichos, occurrencias y andanzas de Bardín el Superrealista - Max - Literature / Fiction
+	— Helena o el mar del verano - Julián Ayesta - Literature / Fiction
+	— Los herederos de la fuerza - María Alamitos - Children / Young Adults
+	— Herencia: The Anthology of Hispanic Literature of the United States - Nicolas Kanellos, ed - Literature / Fiction
+	— Hermana muerte - Justo Navarro - Literature / Fiction
+	— Herrumbrosas lanzas - Juan Benet - Literature / Fiction
+	— Hijo de ladrón - Manuel Rojas - Literature / Fiction
+	— El hijo del Buzo - Fernando Lalana Josa - Children / Young Adults
+	— Hijos sin hijos - Enrique Vila Matas - Literature / Fiction
+	— Hipotermia - Alvaro Enrigue - Literature / Fiction
+	— Historia de la literatura española - Juan Luis Alborg - Reference
+	— Historia de las mujeres en España y América Latina - Isabel Morant, dir - Reference
+	— Historia de los descubrimientos de Nueva España - Baltasar Obregón - Non fiction
+	— Historia de los indios de la Nueva España (1541) - Fray Toribio de Benavente, Motolinia - Non fiction
+	— Historia de un abrigo - Soledad Puértolas - Literature / Fiction
+	— Historia de una gaviota y del gato que le enseñó a volar - Luis Sepúlveda - Literature / Fiction
+	— La historia del Rainbow Warrior - Rocío Martínez Pérez - Children / Young Adults
+	— La Historia del Rey Transparente - Rosa Montero - Literature / Fiction
+	— Historia del uno - María de la Luz Uribe - Children / Young Adults
+	— Historia documental del cine mexicano - Emilio García Riera - Reference
+	— Historia y crítica de la literatura española - Francisco Rico, ed - Reference
+	— Historia y crítica de la literatura hispanoamericana - Cedomil Goic - Reference
+	— Historias de clóset - Claudia Arcila - Non fiction
+	— Historias de famas y cronopios - Julio Cortázar - Literature / Fiction
+	— Historias de hadas para adultos - Daína Chaviano - Literature / Fiction
+	— Historias de Verdad - Various - Non fiction
+	— Las historias prohibidas del Pulgarcito - Roque Dalton - Non fiction
+	— El hombre, la hembra y el hambre - Daína Chaviano - Literature / Fiction
+	— La hormiga Miga… ¡liga! - Emili Teixidor - Children / Young Adults
+	— Imán - Ramón J Sender - Literature / Fiction
+	— Incierta gloria - Joan Sales - Literature / Fiction
+	— El Indio - Gregorio López y Fuentes - Literature / Fiction
+	— Indios en rebelión - Néstor Taboada Terán - Literature / Fiction
+	— Industrias y andanzas de Alfanhuí - Rafael Sánchez Ferlosio - Literature / Fiction
+	— Inés del alma mía - Isabel Allende - Literature / Fiction
+	— Las inquietudes de Shanti Andía - Pío Baroja - Literature / Fiction
+	— La invención de Morel - Adolfo Bioy Casares - Literature / Fiction
+	— Inventario I, II and III - Mario Benedetti - Poetry / Drama
+	— El inventor de juegos - Pablo de Santis - Children / Young Adults
+	— La Isla Bajo el Mar - Isabel Allende - Literature / Fiction
+	— La isla de los amores infinitos - Daína Chaviano - Literature / Fiction
+	— La isla que se repite - Antonio Benítez Rojo - Non fiction
+	— La isla viajera - Antonio Orlando Rodríguez - Children / Young Adults
+	— Jorge Luis Borges - Georgina Lázaro - Children / Young Adults
+	— José - Georgina Lázaro - Children / Young Adults
+	— Juan Pérez Jolote: biografía de un tzotzil - Ricardo Pozas - Non fiction
+	— Juana Inés - Georgina Lázaro - Children / Young Adults
+	— El Juego del Angel - Carlos Ruiz Zafón - Literature / Fiction
+	— El juguete rabioso - Roberto Arlt - Literature / Fiction
+	— Julia - Georgina Lázaro - Children / Young Adults
+	— Juventud en éxtasis - Carlos Cuauhtemoc Sánchez - Literature / Fiction
+	— La detective Julieta y el misterio de la clase - Carmen Gil Martínez - Children / Young Adults
+	— La higuera - Ramiro Pinilla - Literature / Fiction
+	— El laberinto de la soledad - Octavio Paz - Literature / Fiction
+	— El laboratorio secreto - Lluís Prats Martínez; Enric Roig Tió - Children / Young Adults
+	— El lápiz del carpintero - Manuel Rivas - Literature / Fiction
+	— El largo viaje - Jorge Semprún - Non fiction
+	— Latinoamérica: Su civilización y su cultura - Eugenio Chang Rodríguez - Non fiction
+	— El Lazarillo de Tormes - Anonymous - Literature / Fiction
+	— El lector novohispano - José Joaquín Blanco, ed - Literature / Fiction
+	— Las lenguas de diamante - Juana de Ibarbourou - Poetry / Drama
+	— Leo el dragón lector - José Andrés Villota Rocha - Children / Young Adults
+	— Libro de buen amor - Juan Ruiz, Archipreste de Hita - Poetry / Drama
+	— Libro de las preguntas - Pablo Neruda - Children / Young Adults
+	— El libro de Nebal - Ma del Carmen del Bosque Nieto - Children / Young Adults
+	— Libro del Caballero Zifar - Anonymous - Literature / Fiction
+	— El libro del Conde Lucanor - Juan Manuel Infante de Castilla - Literature / Fiction
+	— El libro del frío - Antonio Gamoneda - Poetry / Drama
+	— El libro maldito de los templarios - Francisco Díaz Valladares - Children / Young Adults
+	— Los libros arden mal - Manuel Rivas - Literature / Fiction
+	— Literatura centroamericana: diccionario de autores centroamericanos: fuentes para su estudio - Jorge Eduardo Arellano - Reference
+	— Literatura Puertorriqueña: Su proceso en el tiempo - Josefina Rivera de Alvarez - Reference
+	— La lluvia amarilla - Julio Llamazares - Literature / Fiction
+	— Lo esencial en la ortografía - Francisco Alvero Frances - Non fiction
+	— Lo fugitivo permanece 20 cuentos mexicanos - Carlos Monsiváis, ed - Literature / Fiction
+	— Lo que está en mi corazón - Marcela Serrano - Literature / Fiction
+	— Lo único que queda es el amor - Agustín Fernández Paz - Children / Young Adults
+	— El loro de Robinson - Antonio A Gómez Yebra - Children / Young Adults
+	— Luces de bohemia - Ramón María del Valle Inclán - Poetry / Drama
+	— Lucha Libre: The Man in the Silver Mask: A Bilingual Cuento - Xavier Garza - Children / Young Adults
+	— Luis bandolero Luis - Walter Ventosilla - Literature / Fiction
+	— Luna - Antonio Rubio y Oscar Villán - Children / Young Adults
+	— Maddox descubre el camino - Care Santos Torres - Children / Young Adults
+	— Mala onda - Alberto Fuguet - Literature / Fiction
+	— Maldito amor - Rosario Ferré - Literature / Fiction
+	— Malekin o el secreto del armario - Agustín Celis; Alejandra Ramírez - Children / Young Adults
+	— Mamá elefante es genial - Gabriela Keselman - Children / Young Adults
+	— La mano de Fátima - Ildefonso Falcones - Literature / Fiction
+	— Las manos del pianista - Eugenio Fuentes - Literature / Fiction
+	— Manual de traducción Inglés / Castellano - Gabriel López Guix, and J Minnet Wilkinson - Non fiction
+	— Mañana en la batalla, piensa en mi - Javier Marías - Literature / Fiction
+	— Las maravillas de una sencilla sombrilla amarilla - Yanitzia Canetti; Ana López Escrivá - Children / Young Adults
+	— Mares del sur - Noé Jitrik - Literature / Fiction
+	— Margarita, está linda la mar - Sergio Ramírez - Literature / Fiction
+	— La mariposa - Francisco Jiménez - Children / Young Adults
+	— Martina y el mar - Paula Casal Rivas - Children / Young Adults
+	— Más allá de mi - Francisco Jiménez - Non fiction
+	— La más divertida historia de Mozart niño - Victoria Bermejo Sánchez Izquierdo - Children / Young Adults
+	— Máscaras - Leonardo Padura - Literature / Fiction
+	— Materia Prima: Protonovela - Marcio Veloz Maggiolo - Literature / Fiction
+	— Me Gusta - Javier Sobrino, ilustradora Noemi Villamuza - Children / Young Adults
+	— ¿Me lo dejas? - Isabel Abedi - Children / Young Adults
+	— Las medias de los flamencos - Horacio Quiroga - Children / Young Adults
+	— El mejor es mi papá - Georgina Lázaro - Children / Young Adults
+	— Los mejores cuentos - Sergio Pitol - Literature / Fiction
+	— Melodrama - Jorge Franco - Literature / Fiction
+	— Memoria de la melancolía - María Teresa León - Non fiction
+	— Memorias de Altagracia - Salvador Garmendia - Literature / Fiction
+	— Memorias de Mama Blanca - Teresa de la Parra - Literature / Fiction
+	— Memorias - Carlos Barral - Non fiction
+	— Menguante - Alfredo Gómez Cerdá - Children / Young Adults
+	— El mercado del libro antiguo español: una guía de precios - Julio Ollero, and Susana Bardón, eds - Reference
+	— La merienda del señor Verde - Javier Sáez Castán - Children / Young Adults
+	— México Ante Dios - Francisco Martín Moreno - Literature / Fiction
+	— Mi caballo - Georgina Lázaro - Children / Young Adults
+	— Mi vestido verde esmeralda - Alister Ramírez Márquez - Literature / Fiction
+	— Milagros de Nuestra Señora - Gonzalo de Berceo - Literature / Fiction
+	— Misión del bibliotecario y otros ensayos afines - José Ortega y Gasset - Non fiction
+	— Miss Narco - Javier Valdéz Cárdenas - Non fiction
+	— El misterio de la cripta embrujada - Eduardo Mendoza - Literature / Fiction
+	— Misteriosa Buenos Aires - Manuel Mujica Lainez - Literature / Fiction
+	— La mitad de tu rostro - Blanca Alvarez - Children / Young Adults
+	— Mitología y artes prehispánicas de las Antillas - José Juan Arrom - Non fiction
+	— Morris, quiero una pesadilla - Gabriela Keselman - Children / Young Adults
+	— La muerte de Artemio Cruz - Carlos Fuentes - Literature / Fiction
+	— La muerte y la doncella - Ariel Dorfman - Literature / Fiction
+	— Muertos de papel - Alicia Giménez Bartlett - Literature / Fiction
+	— La mujer del maestro - Guillermo Martínez - Literature / Fiction
+	— Mujeres de ojos grandes - Angeles Mastretta - Literature / Fiction
+	— Mujeres novelistas y novelas de mujeres en la posguerra española (1940-1965) - Raquel Conde Pen Alosa - Reference
+	— El mundo - Juan José Millás - Literature / Fiction
+	— El mundo alucinante - Reinaldo Arenas - Literature / Fiction
+	— El mundo ha vivido equivocado - Roberto Fontanarrosa - Literature / Fiction
+	— Los mundos que amo - Daína Chaviano - Literature / Fiction
+	— Música de cine en España:Señas de identidad en la banda sonora contemporánea - Teresa Fraile Prieto - Non fiction
+	— ¡Muu, Moo!: Rimas de Animales - Ada Alma Flor & F Isabel Campoy - Children / Young Adults
+	— La nada cotidiana - Zoe Valdés - Literature / Fiction
+	— Nada - Carmen Laforet - Literature / Fiction
+	— Nadie encendía las lámparas - Felisberto Hernández - Literature / Fiction
+	— Naiyakay: leyendas africanas - Severino Calleja Pérez - Children / Young Adults
+	— Narraciones - Jorge Luis Borges - Literature / Fiction
+	— Naufragios y Comentarios - Alvar Núñez Cabeza de Vaca - Non fiction
+	— Niebla - Miguel de Unamuno - Literature / Fiction
+	— Niña bonita - Ana María Machado - Children / Young Adults
+	— No amanece el cantor - José Angel Valente - Poetry / Drama
+	— No pasó nada - Antonio Skármeta - Literature / Fiction
+	— No será la tierra - Jorge Volpi - Literature / Fiction
+	— La noche de la reina Berenguela - Xosé Antonio Neira Cruz - Children / Young Adults
+	— La Noche de los Lápices - María Seoane - Non fiction
+	— La noche de Tlatelolco - Elena Poniatowska - Non fiction
+	— La noche que Wendy aprendió a volar - Andreu Martín Farrero - Children / Young Adults
+	— Nombre de torero - Luis Sepúlveda - Literature / Fiction
+	— Noticias del Extranjero - Pedro Lastra - Poetry / Drama
+	— La novela de mi vida - Leonardo Padura - Literature / Fiction
+	— Novelas ejemplares - Miguel de Cervantes - Literature / Fiction
+	— La novia de Odessa - Edgardo Cozarinsky - Literature / Fiction
+	— La novia oscura - Laura Restrepo - Literature / Fiction
+	— Nubosidad variable - Carmen Martín Gaite - Literature / Fiction
+	— Nueva Enciclopedia de Puerto Rico - José A Toro Sugrañés - Reference
+	— Nueve novísimos poetas españoles - J M Castellet, selec - Poetry / Drama
+	— Ñam - Puño - Children / Young Adults
+	— Obabakoak - Bernardo Atxaga - Literature / Fiction
+	— Obra poética completa - Jorge Carrera Andrade - Poetry / Drama
+	— Obra poética - Jorge Luis Borges - Poetry / Drama
+	— Obra poética - Iñigo López de Mendoza Santillana, Marqués de - Poetry / Drama
+	— Obras completas (y otros cuentos) - Augusto Monterroso - Literature / Fiction
+	— Obras completas: Poesía completa y prosa selecta - Alejandra Pizarnik - Poetry / Drama
+	— Obras escogidas - San Juan de la Cruz - Poetry / Drama
+	— El obsceno pájaro de la noche - José Donoso - Literature / Fiction
+	— Ochenta y seis cuentos - Quim Monzo - Literature / Fiction
+	— Ojo por diente - Rubén Bareiro Saguier - Literature / Fiction
+	— La ola Latina: cómo los hispanos están transformando la política en los Estados Unidos - Jorge Ramos - Non fiction
+	— Olimpita - Hernán Migoya y Joan M Marín - Literature / Fiction
+	— Operación Masacre - Rodolfo Walsh - Literature / Fiction
+	— Oráculo manual y arte de prudencia - Baltasar Gracián - Non fiction
+	— Los orishas en Cuba - Natalia Bolívar Aróstegui - Non fiction
+	— Ortografía de la lengua española - Edición revisada por las Academias de la Lengua Española - Reference
+	— Ortografía y ortotipografía del español actual - José Martínez de Sousa - Reference
+	— El oscurecer - Luis Mateo Díez - Literature / Fiction
+	— Oscuro Bosque Oscuro - Jorge Volpi - Literature / Fiction
+	— El oso cansado - Concha López Narváez; Rafael Salmerón López - Children / Young Adults
+	— La otra mano de Lepanto - Carmen Boullosa - Literature / Fiction
+	— Pablo - Georgina Lázaro - Children / Young Adults
+	— Padre Rico, Padre Pobre - Robert T Kiyosaki - Non fiction
+	— El país bajo mi piel - Gioconda Belli - Non fiction
+	— El país de cuatro pisos y otros ensayos - José Luis González - Non fiction
+	— País de dragones - Daína Chaviano - Children / Young Adults
+	— Palabra sobre palabra: obra completa (1956-2001) - Angel González - Poetry / Drama
+	— Palabras cruzadas - Gabriel Rolón - Non fiction
+	— Pantaleón y las visitadoras - Mario Vargas Llosa - Literature / Fiction
+	— Paradiso - José Lezama Lima - Literature / Fiction
+	— Paraíso Travel - Jorge Franco - Literature / Fiction
+	— La parranda - Eduardo Blanco Amor - Literature / Fiction
+	— Los pasos del miedo - Concha López Narváez - Children / Young Adults
+	— Los pasos perdidos - Alejo Carpentier - Literature / Fiction
+	— Las patas del flamenco - Emma Romeu - Children / Young Adults
+	— Paula - Isabel Allende - Non fiction
+	— Los peces de la amargura - Fernando Aramburu - Literature / Fiction
+	— Pedro Páramo - Juan Rulfo - Literature / Fiction
+	— Pequeñas resistencias: antología del nuevo cuento español - Andrés Neuman, ed - Literatura / Fiction
+	— Percusión - José Balza - Literature / Fiction
+	— El Persa Ese desconocido - El Persa José Cardona - Children / Young Adults
+	— Persépolis - Marjane Satrapi - Literature / Fiction
+	— Persona non grata - Jorge Edwards - Non fiction
+	— Perspectivas culturales de Hispanoamérica - Juan Kattan Ibarra - Non fiction
+	— Pétala - Pep Bruno Galán - Children / Young Adults
+	— El pez en en el agua: memorias - Mario Vargas Llosa - Non fiction
+	— Picasso para niños - Marina García Gurevich - Children / Young Adults
+	— Pic-Nic El triciclo El laberinto - Fernando Arrabal - Poetry / Drama
+	— Piedra de sol - Octavio Paz - Poetry / Drama
+	— La piel de toro - Salvador Espriu - Poetry / Drama
+	— La piel fría - Albert Sánchez Piñol - Literature / Fiction
+	— Plata quemada - Ricardo Piglia - Literature / Fiction
+	— Platero y Yo (de Juan Ramón Jiménez contado a los niños) - Rosa Navarro Durán - Children / Young Adults
+	— Platero y yo - Juan Ramón Jiménez - Literature / Fiction
+	— La plaza del diamante - Merce Rodoreda - Literature / Fiction
+	— Plenilunio - Rogelio Sinán - Literature / Fiction
+	— Pobre Manolito - Elvira Lindo - Children / Young Adults
+	— Poemas clandestinos - Roque Dalton - Poetry / Drama
+	— Poemas póstumos - Jaime Gil de Biedma - Poetry / Drama
+	— Poesía varia - Francisco de Quevedo - Poetry / Drama
+	— Poesía - Jorge Manrique - Poetry / Drama
+	— Poesía - Ausias March - Poetry / Drama
+	— Poesía - Fray Luis de León - Poetry / Drama
+	— Poesías castellanas completas - Garcilaso de la Vega - Poetry / Drama
+	— Poesías líricas - Lope de Vega - Poetry / Drama
+	— Poesías - Luis de Góngora - Poetry / Drama
+	— Poeta en Nueva York - Federico García Lorca - Poetry / Drama
+	— Polisapo - Augusto Roa Bastos; Alejandro Maciel - Children / Young Adults
+	— Pomelo se pregunta - Ramona Badescu - Children / Young Adults
+	— Por donde sale el sol - Blanca Valdecasas - Literature / Fiction
+	— Por el camino de Ulectra - Martín Casariego Córdoba - Children / Young Adults
+	— Por el libro - Various - Literature / Fiction
+	— Primavera con esquina rota - Mario Benedetti - Literature / Fiction
+	— El primer nueva corónica y buen gobierno - Felipe Guaman Poma de Ayala - Non fiction
+	— Las primeras representaciones gráficas del indio americano, 1493-1523 - Ricardo E Alegría - Non fiction
+	— Princesa va al teatro - Sagrario Pinto Martín - Children / Young Adults
+	— El príncipe de la niebla - Carlos Ruiz Zafón - Children / Young Adults
+	— Prosas profanas - Rubén Darío - Poetry / Drama
+	— Pudor - Santiago Roncagliolo - Literature / Fiction
+	— Los que falsificaron la firma de Dios - Viriato Sención - Literature / Fiction
+	— ¿Qué se ama cuando se ama? - Gonzalo Rojas - Poetry / Drama
+	— Querido enemigo - Agustín Fernández Paz - Children / Young Adults
+	— ¿Quién mató a Regiomontano? - Carlos Olalla Linares - Children / Young Adults
+	— ¿Quién se robó los colores? - Alister Ramírez Márquez - Children / Young Adults
+	— Rayuela - Julio Cortázar - Literature / Fiction
+	— La Raza Cómica: Del sujeto en Puerto Rico - Rubén Ríos Avila - Non fiction
+	— Rebeca al bate y dos cuentos más - Dinorah Coronado - Children / Young Adults
+	— La rebelión de las masas - José Ortega y Gasset - Non fiction
+	— La rebelión de los arqueros - Jesús Ballaz Zabalza - Children / Young Adults
+	— El recurso del Método - Alejo Carpentier - Literature / Fiction
+	— La Regenta - Leopoldo Alas “Clarín” - Literature / Fiction
+	— La reina del sur - Arturo Pérez-Reverte - Literature / Fiction
+	— La reina Isabel cantaba rancheras - Hernán Rivera Letelier - Literature / Fiction
+	— El reinado de Witiza - Francisco García Pavón - Literature / Fiction
+	— El reino de este mundo - Alejo Carpentier - Literature / Fiction
+	— Relación acerca de las antigüedades de los Indios - Ramón Pané, Fray, and José Juan Arrom, ed - Non fiction
+	— Renaissance and Baroque Poetry of Spain - Elias L Rivers - Poetry / Drama
+	— Réquiem por un campesino español - Ramón J Sender - Literature / Fiction
+	— Residuos de los tiempos - Enrique Laguerre - Poetry / Drama
+	— Respiración artificial - Ricardo Piglia - Literature / Fiction
+	— Respuesta a Sor Filotea - Sor Juana Inés de la Cruz - Non fiction
+	— Reunión de cuentos - Jesús Gardea - Literature / Fiction
+	— El rey de las octavas - Emma Romeu - Children / Young Adults
+	— Rimas y leyendas - Gustavo Adolfo Bécquer - Poetry / Drama
+	— Los ríos profundos - José María Arguedas - Literature / Fiction
+	— El rock de la momia y otros versos diversos - Antonio Orlando Rodríguez - Children / Young Adults
+	— Los rojos de ultramar - Jordi Soler - Literature / Fiction
+	— Romancero Gitano - Federico García Lorca - Poetry / Drama
+	— Rosario Tijeras - Jorge Franco - Literature / Fiction
+	— El rufián moldavo - Edgardo Cozarinsky - Literature / Fiction
+	— Sab - Gertrudis Gómez de Avellaneda - Literature / Fiction
+	— La saga / fuga de J B - Gonzalo Torrente Ballester - Literature / Fiction
+	— San Manuel Bueno Mártir - Miguel de Unamuno - Literature / Fiction
+	— Santiago - Federico García Lorca - Children / Young Adults
+	— El sapo distraído - Javier Rondón - Children / Young Adults
+	— Semblanzas del corazón - José Rafael Lantigua - Literature / Fiction
+	— El señor Presidente - Miguel Angel Asturias - Literature / Fiction
+	— Serena - Juan Cruz Ruiz - Children / Young Adults
+	— Si te dicen que caí - Juan Marsé - Literature / Fictionn
+	— Las siete ciudades de Cíbola: textos y testimonios sobre la expedición Vázquez Coronado - Pedro de Castañeda Nájera, et al… - Non fiction
+	— Los siete hijos de Simenón - Ramón Díaz Eterovic - Literature / Fiction
+	— Siete reporteros y un periódico - Pilar Lozano Carballo - Children / Young Adults
+	— El siglo de las luces - Alejo Carpentier - Literature / Fiction
+	— El siglo de Tintín - Fernando Castillo Cáceres - Children / Young Adults
+	— El silencio - Horacio Veerbitsky - Non fiction
+	— Sin ti no soy yo - Lourdes Vázquez - Literature / Fiction
+	— Soldados de Salamina - Javier Cercas - Literature / Fiction
+	— Soldados - Francisco González Ledesma - Literature / Fiction
+	— Solitud - Víctor Catala, pseud de Caterina Albert - Literature / Fiction
+	— Sólo cenizas hallarás (bolero) - Pedro Vergés - Literature / Fiction
+	— Solo un muerto más - Ramiro Pinilla - Literature / Fiction
+	— La sombra de lo que fuimos - Luis Sepúlveda - Literature / Fiction
+	— La sombra del viento - Carlos Ruiz Zafón - Literature / Fiction
+	— Son de Mar - Manuel Vicent - Literature / Fiction
+	— Sonetos - Luis de Góngora - Poetry / Drama
+	— Sóngoro cosongo - Nicolás Guillén - Poetry / Drama
+	— La sonrisa etrusca - José Luis Sampedro - Literature / Fiction
+	— Soy campeón - Dinorah Coronado - Literature / Fiction
+	— Soy el más guapo - Mario Ramos - Children / Young Adults
+	— Los sueños de los hombres se los fuman las mujeres - Alister Ramírez Márquez - Literature / Fiction
+	— Sueños y discursos - Francisco de Quevedo - Literature / Fiction
+	— El Sur; seguido de Bene - Adelaida García Morales - Literature / Fiction
+	— Sweet Dreams / Dulces Sueños - Pat Mora; illustrator: Maribel Suárez - Children / Young Adults
+	— Del Ombligo de la Luna - Francisco Alarcón; illustrator: Maya Maribel Suárez - Children / Young Adults
+	— Tala - Gabriela Mistral - Poetry / Drama
+	— Tarde de invierno - Jorge Luján - Children / Young Adults
+	— Te dí la vida entera - Zoe Valdés - Literature / Fiction
+	— Teatro español de vanguardia - Agustín Muñoz-Alonso López, ed - Poetry / Drama
+	— Teatro español: (de la A a la Z) - Javier Huerta Calvo; Emilio Peral Vega, and Héctor Urzáiz Tortajada - Reference
+	— Tengo miedo torero - Pedro Lemebel - Literature / Fiction
+	— Terrazo - Abelardo Díaz Alfaro - Literature / Fiction
+	— Tesis de un homicidio - Diego Paszkowski - Literature / Fiction
+	— Tesoros de la poesía en la lengua castellana - Regino García Badell - Poetry / Drama
+	— El testigo - Juan Villoro - Literature / Fiction
+	— The Firefly Spanish/English visual dictionary - Jean Claude Corbeil, and Ariane Archambault - Reference
+	— La tía Julia y el escribidor - Mario Vargas Llosa - Literature / Fiction
+	— El tiempo de los emperadores extraños - Ignacio del Valle - Literature / Fiction
+	— Tino y la alfombra mágica - Antonio Valle - Children / Young Adults
+	— El tío Bin Floren - Jesús Mari Olaizola Lazkano - Children / Young Adults
+	— Tirant lo Blanc - Joanot Martorell - Literature / Fiction
+	— Todos los cuentos - Cristina Fernández Cubas - Literature / Fiction
+	— El Torito Negro - Antonio Ferres - Children / Young Adults
+	— Traducción y traductología Introducción a la traductología - Amparo Hurtado Albir - Non fiction
+	— Traducción: literatura y literalidad - Octavio Paz - Non fiction
+	— Tragicomedia mexicana: la vida en México de 1940 a 1970 - José Agustín - Non fiction
+	— La travesía de Enrique - Sonia Nazario - Non fiction
+	— Travesías - Jaime Salinas - Non fiction
+	— Travesuras de la niña mala - Mario Vargas Llosa - Literature / Fiction
+	— El tren pasa primero - Elena Poniatowska - Literature / Fiction
+	— Tres amigos - Patxi Zubizarreta - Children / Young Adults
+	— Tres tristes tigres - Guillermo Cabrera Infante - Literature / Fiction
+	— Trilce - César Vallejo - Poetry / Drama
+	— Trilogía sucia de La Habana - Pedro Juan Gutiérrez - Literature / Fiction
+	— Tríptico del mal: Señas de identidad; Don Julián; Juan sin tierra - Juan Goytisolo - Literature / Fiction
+	— Triste, solitario y final - Osvaldo Soriano - Literature / Fiction
+	— Tu rostro mañana - Javier Marías - Literature / Fiction
+	— El túnel - Ernesto Sábato - Literature / Fiction
+	— Tuntún de pasa y grifería - Luis Palés Matos - Poetry / Drama
+	— Turandot - Giacomo Puccini; Joan de Déu Prats Pijoan - Children / Young Adults
+	— Tuyo es el reino - Abilio Estévez - Literature / Fiction
+	— La última escala del Tramp Steamer - Álvaro Mutis - Literature / Fiction
+	— La última niebla - María Luisa Bombal - Literature / Fiction
+	— La última noche de Dostoievski - Cristina Peri Rossi - Literature / Fiction
+	— El último Catón - Matilde Asensi - Literature / Fiction
+	— Un caballo de fuego - Fina Casalderrey - Children / Young Adults
+	— Un mundo para Julius - Alfredo Bryce Echenique - Literature / Fiction
+	— Un Puñado de Semillas - Monica Hughes Illustrations by Luis Garay - Children / Young Adults
+	— Un regalo del cielo - Gustavo Martín Garzo - Children / Young Adults
+	— Una palabra tuya - Elvira Lindo - Literature / Fiction
+	— El unicornio - Manuel Mujica Lainez - Literature / Fiction
+	— Veinte poemas de amor y una canción desesperada - Pablo Neruda - Poetry / Drama
+	— Las venas abiertas de América Latina - Eduardo Galeano - Non fiction
+	— La verdad sobre el caso Savolta - Eduardo Mendoza - Literature / Fiction
+	— La verdad sospechosa - Juan Ruiz de Alarcón - Literature / Fiction
+	— Versión Celeste - Juan Larrea - Poetry / Drama
+	— Versos libres - José Martí - Poetry / Drama
+	— El viaje de la evolución (El joven Darwin) - Vicente Muñoz Puelles - Children / Young Adults
+	— Viajes al estrecho de Magallanes - Pedro Sarmiento de Gamboa - Non fiction
+	— La vida del Buscón - Francisco de Quevedo - Literature / Fiction
+	— La vida es sueño - Pedro Calderón de la Barca - Poetry / Drama
+	— La vida exagerada de Martín Romaña - Alfredo Bryce Echenique - Literature / Fiction
+	— Vida moderna hispana - James W Brown - Non fiction
+	— La vida perra de Juanita Narboni - Angel Vázquez - Literature / Fiction
+	— El viento de la luna - Antonio Muñoz Molina - Literature / Fiction
+	— Vikingos - Dolores Gassós - Children / Young Adults
+	— Visión de Anáhuac y otros ensayos - Alfonso Reyes - Non fiction
+	— Vivir para contarla - Gabriel García Márquez - Non fiction
+	— La vorágine - José Eustaquio Rivera - Literature / Fiction
+	— Vudú y magia en Santo Domingo - Carlos Esteban Deive - Non fiction
+	— El vuelo de la reina - Tomás Eloy Martínez - Literature / Fiction
+	— El vuelo de las cigüeñas - María Isabel Molina Llorente - Children / Young Adults
+	— La vuelta al mundo en 80 páginas - Victoria Bermejo Sánchez Izquierdo - Children / Young Adults
+	— Ya está aquí ¡Don invierno! - Gabriel Segura Soler - Children / Young Adults
+	— ¡Ya llegan los Reyes Magos! - Georgina Lázaro - Children / Young Adults
+	— Yo el supremo - Augusto Roa Bastos - Literature / Fiction
+	— Yo me perdono - Fietta Jarque - Literature / Fiction
+	— Yo, Naomi León - Pamela Muñoz Ryan - Children / Young Adults
+	— Zara y el librero de Bagdag - Fernando Marías - Children / Young Adults
+	
+	
