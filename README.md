@@ -22,16 +22,24 @@ Enviar un email a cada dirección de email que aparecen en emaillist.txt con un 
 ```
 
 Actualizar y generar un listado de todos los libros en una tabla resumen
-># python ebookonmail.py -genlist -checkebooks -gentable 
+```
+# python ebookonmail.py -genlist -checkebooks -gentable 
+```
 
 Enviar novedades de libros nuevos del último mes de una determinada base de datos
-># python ebookonmail.py -sendnew [SEL|GTB|FBS]
+```
+# python ebookonmail.py -sendnew [SEL|GTB|FBS]
+```
 
 nvía el listado completo de todos los libros a la lista de emails contenida en emaillist.txt (un email por línea)
-># python ebookonmail.py -sendfulllist
+```
+# python ebookonmail.py -sendfulllist
+```
 
 Genera un archivo html con todos los libros
-># python ebookonmail.py -gencalibrelist
+```
+# python ebookonmail.py -gencalibrelist
+```
 
 # Built With
 python 
